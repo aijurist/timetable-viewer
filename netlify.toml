@@ -31,7 +31,17 @@
   status = 200
 
 [[redirects]]
+  from = "/schedule_view.html"
+  to = "/schedule_view.html"
+  status = 200
+
+[[redirects]]
   from = "/rooms"
+  to = "/room_view.html"
+  status = 200
+
+[[redirects]]
+  from = "/room_view.html"
   to = "/room_view.html"
   status = 200
 

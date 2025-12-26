@@ -1,5 +1,0 @@
-/ /schedule_view.html 200
-/schedule /schedule_view.html 200
-/rooms /room_view.html 200
-/static/css/* /css/:splat 200
-/static/js/* /js/:splat 200
