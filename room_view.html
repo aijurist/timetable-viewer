@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -25,7 +26,7 @@
 
         .navbar {
             background: var(--header-bg) !important;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
         }
 
         .navbar-brand {
@@ -36,7 +37,7 @@
         .room-card {
             border: none;
             border-radius: 15px;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
             margin-bottom: 2rem;
             transition: transform 0.3s ease;
         }
@@ -79,7 +80,7 @@
         }
 
         .room-badge {
-            background: rgba(255,255,255,0.2);
+            background: rgba(255, 255, 255, 0.2);
             padding: 0.25rem 0.75rem;
             border-radius: 999px;
             font-size: 0.75rem;
@@ -167,7 +168,7 @@
             border-radius: 15px;
             padding: 1.5rem;
             margin-bottom: 2rem;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
         }
 
         .room-grid {
@@ -202,7 +203,7 @@
             padding: 1rem;
             border-radius: 10px;
             text-align: center;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
         }
 
         .stat-number {
@@ -249,7 +250,7 @@
             background: white;
             padding: 1rem;
             border-radius: 12px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
             margin-bottom: 2rem;
         }
 
@@ -269,9 +270,11 @@
             .room-grid {
                 grid-template-columns: 1fr;
             }
+
             .schedule-table {
                 font-size: 0.7rem;
             }
+
             .room-details {
                 flex-direction: column;
                 gap: 0.5rem;
@@ -279,6 +282,7 @@
         }
     </style>
 </head>
+
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark">
         <div class="container-fluid">
@@ -290,18 +294,6 @@
                 <a href="/schedule" class="nav-link">
                     <i class="fas fa-calendar-alt me-1"></i>
                     Combined Schedule
-                </a>
-                <a href="/slot-caps" class="nav-link">
-                    <i class="fas fa-bullseye me-1"></i>
-                    Slot Cap Telemetry
-                </a>
-                <a href="/validation" class="nav-link">
-                    <i class="fas fa-shield-halved me-1"></i>
-                    Validation Telemetry
-                </a>
-                <a href="/" class="nav-link">
-                    <i class="fas fa-chart-line me-1"></i>
-                    Analytics Dashboard
                 </a>
             </div>
         </div>
@@ -357,11 +349,13 @@
 
         <div class="legend">
             <div class="legend-item">
-                <span class="legend-color" style="background: var(--lab-color); border: 2px solid var(--secondary-color);"></span>
+                <span class="legend-color"
+                    style="background: var(--lab-color); border: 2px solid var(--secondary-color);"></span>
                 <span>Lab Session</span>
             </div>
             <div class="legend-item">
-                <span class="legend-color" style="background: var(--theory-color); border: 2px solid var(--success-color);"></span>
+                <span class="legend-color"
+                    style="background: var(--theory-color); border: 2px solid var(--success-color);"></span>
                 <span>Theory Session</span>
             </div>
             <div class="legend-item">
@@ -380,8 +374,9 @@
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
     <script src="./js/data2.js"></script>
-        <script src="./js/data.js"></script>
+    <script src="./js/data.js"></script>
 
     <script src="./js/room_view.js"></script>
 </body>
+
 </html>
