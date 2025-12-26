@@ -8,10 +8,56 @@
   # No build command needed for static sites
   command = ""
 
-# Redirect all traffic to index/dashboard if needed
+# Static file rewrites - map /static/* to actual directories
+[[redirects]]
+  from = "/static/css/*"
+  to = "/css/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/static/js/*"
+  to = "/js/:splat"
+  status = 200
+
+# Route redirects for navigation
 [[redirects]]
   from = "/"
+  to = "/dashboard.html"
+  status = 200
+
+[[redirects]]
+  from = "/schedule"
   to = "/schedule_view.html"
+  status = 200
+
+[[redirects]]
+  from = "/rooms"
+  to = "/room_view.html"
+  status = 200
+
+[[redirects]]
+  from = "/slot-caps"
+  to = "/slot_caps_dashboard.html"
+  status = 200
+
+[[redirects]]
+  from = "/teacher-labs"
+  to = "/teacher_labs_dashboard.html"
+  status = 200
+
+[[redirects]]
+  from = "/grouping"
+  to = "/grouping_dashboard.html"
+  status = 200
+
+[[redirects]]
+  from = "/overlaps"
+  to = "/overlap_dashboard.html"
+  status = 200
+
+[[redirects]]
+  from = "/validation"
+  to = "/validation_dashboard.html"
   status = 200
 
 # Headers for better performance and security
