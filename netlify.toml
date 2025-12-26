@@ -84,3 +84,5 @@
   [headers.values]
     Content-Type = "application/json"
     Access-Control-Allow-Origin = "*"
+    # Cache JSON files for 1 hour (schedule data may change)
+    Cache-Control = "public, max-age=3600, must-revalidate"

@@ -86,30 +86,26 @@ function getSemesterFromGroupName(groupName) {
 
 async function loadData() {
     try {
+        // Load data from JSON files
+        const [labResponse, theoryResponse] = await Promise.all([
+            fetch('/data/lab_schedule.json'),
+            fetch('/data/theory_schedule.json')
+        ]);
 
-        const payload = {...data }
-
-
-        for (const key in data2) {
-            console.log(key)
-        if (payload[key]) {
-            if(key == "instance_index"){
-                payload[key] = {...payload[key] , ...data2[key]}
-            }
-            else{
-            payload[key] = [...payload[key], ...data2[key]];
-            }
-        } else {
-            payload[key] = data2[key];
-        }
-        }
-        
-        
-        if (!payload) {
-            throw new Error(`Failed to load rooms: ${response.status} ${response.statusText}`);
+        if (!labResponse.ok || !theoryResponse.ok) {
+            throw new Error(`Failed to load schedule data: ${labResponse.status} ${labResponse.statusText}`);
         }
 
-        
+        const labEntries = await labResponse.json();
+        const theoryEntries = await theoryResponse.json();
+
+        // Create payload structure expected by the code
+        const payload = {
+            lab_entries: Array.isArray(labEntries) ? labEntries : [],
+            theory_entries: Array.isArray(theoryEntries) ? theoryEntries : [],
+            instance_index: {} // Empty instance_index since it's not in JSON files
+        };
+
         const schedule = payload || {};
         labData = schedule.lab_entries || [];
         theoryData = schedule.theory_entries || [];

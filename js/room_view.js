@@ -191,25 +191,27 @@ function getGroupNumber(groupName) {
 
 async function loadRoomData() {
     try {
-        const payload = {...data }
+        // Load data from JSON files
+        const [labResponse, theoryResponse] = await Promise.all([
+            fetch('/data/lab_schedule.json'),
+            fetch('/data/theory_schedule.json')
+        ]);
 
+        if (!labResponse.ok || !theoryResponse.ok) {
+            throw new Error(`Failed to load schedule data: ${labResponse.status} ${labResponse.statusText}`);
+        }
 
-        for (const key in data2) {
-            console.log(key)
-        if (payload[key]) {
-            if(key == "instance_index"){
-                payload[key] = {...payload[key] , ...data2[key]}
-            }
-            else{
-            payload[key] = [...payload[key], ...data2[key]];
-            }
-        } else {
-            payload[key] = data2[key];
-        }
-        }
+        const labEntries = await labResponse.json();
+        const theoryEntries = await theoryResponse.json();
+
+        // Create payload structure expected by the code
+        const payload = {
+            lab_entries: Array.isArray(labEntries) ? labEntries : [],
+            theory_entries: Array.isArray(theoryEntries) ? theoryEntries : [],
+            instance_index: {} // Empty instance_index since it's not in JSON files
+        };
 
         const room = buildRoomPayload(payload);
-
 
         roomRecords = room.rooms || [];
         unassignedSessions = room.unassigned || [];
