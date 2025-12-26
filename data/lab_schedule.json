@@ -6851,7 +6851,7 @@
     "course_instance_id": "1260",
     "course_code": "HS23421",
     "course_code_display": "HS23421",
-    "course_name": "Business Communication and Value Science \u2013 III",
+    "course_name": "Business Communication and Value Science – III",
     "practical_hours": 4,
     "teacher_id": "405",
     "teacher_name": "Manasa K",
@@ -6888,7 +6888,7 @@
     "course_instance_id": "1260",
     "course_code": "HS23421",
     "course_code_display": "HS23421",
-    "course_name": "Business Communication and Value Science \u2013 III",
+    "course_name": "Business Communication and Value Science – III",
     "practical_hours": 4,
     "teacher_id": "405",
     "teacher_name": "Manasa K",
@@ -6925,7 +6925,7 @@
     "course_instance_id": "1261",
     "course_code": "HS23421",
     "course_code_display": "HS23421",
-    "course_name": "Business Communication and Value Science \u2013 III",
+    "course_name": "Business Communication and Value Science – III",
     "practical_hours": 4,
     "teacher_id": "416",
     "teacher_name": "Moniza Ray S P",
@@ -6962,7 +6962,7 @@
     "course_instance_id": "1261",
     "course_code": "HS23421",
     "course_code_display": "HS23421",
-    "course_name": "Business Communication and Value Science \u2013 III",
+    "course_name": "Business Communication and Value Science – III",
     "practical_hours": 4,
     "teacher_id": "416",
     "teacher_name": "Moniza Ray S P",
@@ -19024,7 +19024,7 @@
     "course_instance_id": "1262",
     "course_code": "HS23621",
     "course_code_display": "HS23621",
-    "course_name": "Business Communication and Value Science \u2013 IV",
+    "course_name": "Business Communication and Value Science – IV",
     "practical_hours": 4,
     "teacher_id": "417",
     "teacher_name": "Alamelu G",
@@ -19061,7 +19061,7 @@
     "course_instance_id": "1262",
     "course_code": "HS23621",
     "course_code_display": "HS23621",
-    "course_name": "Business Communication and Value Science \u2013 IV",
+    "course_name": "Business Communication and Value Science – IV",
     "practical_hours": 4,
     "teacher_id": "417",
     "teacher_name": "Alamelu G",
@@ -19098,7 +19098,7 @@
     "course_instance_id": "1263",
     "course_code": "HS23621",
     "course_code_display": "HS23621",
-    "course_name": "Business Communication and Value Science \u2013 IV",
+    "course_name": "Business Communication and Value Science – IV",
     "practical_hours": 4,
     "teacher_id": "411",
     "teacher_name": "Andria Babu",
@@ -19135,7 +19135,7 @@
     "course_instance_id": "1263",
     "course_code": "HS23621",
     "course_code_display": "HS23621",
-    "course_name": "Business Communication and Value Science \u2013 IV",
+    "course_name": "Business Communication and Value Science – IV",
     "practical_hours": 4,
     "teacher_id": "411",
     "teacher_name": "Andria Babu",
@@ -23052,43 +23052,6 @@
   },
   {
     "day": "fri",
-    "session_name": "L1",
-    "time_range": "8:00 - 9:40",
-    "course_instance_id": "830",
-    "course_code": "ME23622",
-    "course_code_display": "ME23622",
-    "course_name": "Simulation and Analysis Laboratory",
-    "practical_hours": 4,
-    "teacher_id": "544",
-    "teacher_name": "Arulmurugan S",
-    "staff_code": "104150",
-    "room_id": "36",
-    "room_number": "TANCAM",
-    "block": "Arch Block",
-    "capacity": 35,
-    "student_count": 66,
-    "total_students": 132,
-    "is_batched": true,
-    "batch_info": "Batch 1",
-    "num_batches": 2,
-    "batch_number": 1,
-    "batch_label": "Batch 1",
-    "schedule_type": "lab",
-    "group_name": "Mechanical Engineering_S6_G2",
-    "group_index": 2,
-    "department": "Mechanical Engineering",
-    "semester": 6,
-    "day_pattern": "Tuesday-Saturday",
-    "is_co_scheduled": false,
-    "co_schedule_id": null,
-    "co_schedule_group_size": 1,
-    "co_schedule_partner_teachers": null,
-    "co_schedule_info": "Single session",
-    "capacity_info": "66/35",
-    "sessionIndex": 623
-  },
-  {
-    "day": "fri",
     "session_name": "L3",
     "time_range": "11:50 - 1:20",
     "course_instance_id": "830",
@@ -23122,7 +23085,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "66/35",
-    "sessionIndex": 624
+    "sessionIndex": 623
   },
   {
     "day": "saturday",
@@ -23159,7 +23122,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "66/35",
-    "sessionIndex": 625
+    "sessionIndex": 624
   },
   {
     "day": "wed",
@@ -23196,7 +23159,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "66/70",
-    "sessionIndex": 626
+    "sessionIndex": 625
   },
   {
     "day": "tuesday",
@@ -23233,7 +23196,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/35",
-    "sessionIndex": 627
+    "sessionIndex": 626
   },
   {
     "day": "thur",
@@ -23270,7 +23233,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/35",
-    "sessionIndex": 628
+    "sessionIndex": 627
   },
   {
     "day": "tuesday",
@@ -23307,7 +23270,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/35",
-    "sessionIndex": 629
+    "sessionIndex": 628
   },
   {
     "day": "wed",
@@ -23344,7 +23307,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/35",
-    "sessionIndex": 630
+    "sessionIndex": 629
   },
   {
     "day": "tuesday",
@@ -23381,7 +23344,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "67/35",
-    "sessionIndex": 631
+    "sessionIndex": 630
   },
   {
     "day": "wed",
@@ -23418,7 +23381,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "67/35",
-    "sessionIndex": 632
+    "sessionIndex": 631
   },
   {
     "day": "wed",
@@ -23455,7 +23418,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "67/35",
-    "sessionIndex": 633
+    "sessionIndex": 632
   },
   {
     "day": "thur",
@@ -23492,7 +23455,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "67/35",
-    "sessionIndex": 634
+    "sessionIndex": 633
   },
   {
     "day": "thur",
@@ -23529,7 +23492,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "67/35",
-    "sessionIndex": 635
+    "sessionIndex": 634
   },
   {
     "day": "fri",
@@ -23566,7 +23529,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "67/35",
-    "sessionIndex": 636
+    "sessionIndex": 635
   },
   {
     "day": "saturday",
@@ -23603,7 +23566,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "69/35",
-    "sessionIndex": 637
+    "sessionIndex": 636
   },
   {
     "day": "saturday",
@@ -23640,7 +23603,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "69/35",
-    "sessionIndex": 638
+    "sessionIndex": 637
   },
   {
     "day": "fri",
@@ -23665,6 +23628,43 @@
     "num_batches": 2,
     "batch_number": 1,
     "batch_label": "Batch 1",
+    "schedule_type": "lab",
+    "group_name": "Artificial Intelligence & Data Science_S8_G2",
+    "group_index": 2,
+    "department": "Artificial Intelligence & Data Science",
+    "semester": 8,
+    "day_pattern": "Monday-Saturday",
+    "is_co_scheduled": false,
+    "co_schedule_id": null,
+    "co_schedule_group_size": 1,
+    "co_schedule_partner_teachers": null,
+    "co_schedule_info": "Single session",
+    "capacity_info": "69/35",
+    "sessionIndex": 638
+  },
+  {
+    "day": "fri",
+    "session_name": "L3",
+    "time_range": "11:50 - 1:20",
+    "course_instance_id": "1346",
+    "course_code": "AI19P75",
+    "course_code_display": "AI19P75",
+    "course_name": "Information Retrieval",
+    "practical_hours": 2,
+    "teacher_id": "41",
+    "teacher_name": "Priyadharsini R",
+    "staff_code": "103277",
+    "room_id": "183",
+    "room_number": "KFL01",
+    "block": "K Block",
+    "capacity": 35,
+    "student_count": 69,
+    "total_students": 69,
+    "is_batched": true,
+    "batch_info": "Batch 2",
+    "num_batches": 2,
+    "batch_number": 2,
+    "batch_label": "Batch 2",
     "schedule_type": "lab",
     "group_name": "Artificial Intelligence & Data Science_S8_G2",
     "group_index": 2,
@@ -23681,43 +23681,6 @@
   },
   {
     "day": "fri",
-    "session_name": "L3",
-    "time_range": "11:50 - 1:20",
-    "course_instance_id": "1346",
-    "course_code": "AI19P75",
-    "course_code_display": "AI19P75",
-    "course_name": "Information Retrieval",
-    "practical_hours": 2,
-    "teacher_id": "41",
-    "teacher_name": "Priyadharsini R",
-    "staff_code": "103277",
-    "room_id": "183",
-    "room_number": "KFL01",
-    "block": "K Block",
-    "capacity": 35,
-    "student_count": 69,
-    "total_students": 69,
-    "is_batched": true,
-    "batch_info": "Batch 2",
-    "num_batches": 2,
-    "batch_number": 2,
-    "batch_label": "Batch 2",
-    "schedule_type": "lab",
-    "group_name": "Artificial Intelligence & Data Science_S8_G2",
-    "group_index": 2,
-    "department": "Artificial Intelligence & Data Science",
-    "semester": 8,
-    "day_pattern": "Monday-Saturday",
-    "is_co_scheduled": false,
-    "co_schedule_id": null,
-    "co_schedule_group_size": 1,
-    "co_schedule_partner_teachers": null,
-    "co_schedule_info": "Single session",
-    "capacity_info": "69/35",
-    "sessionIndex": 640
-  },
-  {
-    "day": "fri",
     "session_name": "L4",
     "time_range": "1:20 - 3:00",
     "course_instance_id": "486",
@@ -23751,7 +23714,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/35",
-    "sessionIndex": 641
+    "sessionIndex": 640
   },
   {
     "day": "saturday",
@@ -23788,7 +23751,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/35",
-    "sessionIndex": 642
+    "sessionIndex": 641
   },
   {
     "day": "monday",
@@ -23825,7 +23788,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/35",
-    "sessionIndex": 643
+    "sessionIndex": 642
   },
   {
     "day": "monday",
@@ -23862,7 +23825,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/35",
-    "sessionIndex": 644
+    "sessionIndex": 643
   },
   {
     "day": "wed",
@@ -23899,7 +23862,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "67/35",
-    "sessionIndex": 645
+    "sessionIndex": 644
   },
   {
     "day": "thur",
@@ -23936,7 +23899,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "67/35",
-    "sessionIndex": 646
+    "sessionIndex": 645
   },
   {
     "day": "thur",
@@ -23973,7 +23936,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "66/35",
-    "sessionIndex": 647
+    "sessionIndex": 646
   },
   {
     "day": "fri",
@@ -24010,7 +23973,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "66/35",
-    "sessionIndex": 648
+    "sessionIndex": 647
   },
   {
     "day": "tuesday",
@@ -24047,7 +24010,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "23/35",
-    "sessionIndex": 649
+    "sessionIndex": 648
   },
   {
     "day": "thur",
@@ -24084,7 +24047,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "10/35",
-    "sessionIndex": 650
+    "sessionIndex": 649
   },
   {
     "day": "saturday",
@@ -24121,7 +24084,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/35",
-    "sessionIndex": 651
+    "sessionIndex": 650
   },
   {
     "day": "saturday",
@@ -24158,7 +24121,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/35",
-    "sessionIndex": 652
+    "sessionIndex": 651
   },
   {
     "day": "fri",
@@ -24195,7 +24158,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "67/35",
-    "sessionIndex": 653
+    "sessionIndex": 652
   },
   {
     "day": "saturday",
@@ -24232,7 +24195,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "67/35",
-    "sessionIndex": 654
+    "sessionIndex": 653
   },
   {
     "day": "tuesday",
@@ -24269,7 +24232,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "64/35",
-    "sessionIndex": 655
+    "sessionIndex": 654
   },
   {
     "day": "fri",
@@ -24306,44 +24269,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "64/35",
-    "sessionIndex": 656
-  },
-  {
-    "day": "saturday",
-    "session_name": "L4",
-    "time_range": "1:20 - 3:00",
-    "course_instance_id": "307",
-    "course_code": "AT23632",
-    "course_code_display": "AT23632",
-    "course_name": "Vehicle Dynamics",
-    "practical_hours": 2,
-    "teacher_id": "75",
-    "teacher_name": "Edwin Joseph R",
-    "staff_code": "120049",
-    "room_id": "202",
-    "room_number": "TLFR5",
-    "block": "Techlounge",
-    "capacity": 35,
-    "student_count": 32,
-    "total_students": 32,
-    "is_batched": 0,
-    "batch_info": null,
-    "num_batches": 1,
-    "batch_number": null,
-    "batch_label": null,
-    "schedule_type": "lab",
-    "group_name": "Automobile Engineering_S6_G3",
-    "group_index": 3,
-    "department": "Automobile Engineering",
-    "semester": 6,
-    "day_pattern": "Tuesday-Saturday",
-    "is_co_scheduled": false,
-    "co_schedule_id": null,
-    "co_schedule_group_size": 1,
-    "co_schedule_partner_teachers": null,
-    "co_schedule_info": "Single session",
-    "capacity_info": "32/35",
-    "sessionIndex": 657
+    "sessionIndex": 655
   },
   {
     "day": "tuesday",
@@ -24380,7 +24306,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "65/35",
-    "sessionIndex": 658
+    "sessionIndex": 656
   },
   {
     "day": "thur",
@@ -24417,7 +24343,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/35",
-    "sessionIndex": 659
+    "sessionIndex": 657
   },
   {
     "day": "saturday",
@@ -24454,7 +24380,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/35",
-    "sessionIndex": 660
+    "sessionIndex": 658
   },
   {
     "day": "wed",
@@ -24491,7 +24417,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/35",
-    "sessionIndex": 1993
+    "sessionIndex": 659
   },
   {
     "day": "wed",
@@ -24528,7 +24454,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "60/35",
-    "sessionIndex": 2001
+    "sessionIndex": 660
   },
   {
     "day": "wed",
@@ -24565,7 +24491,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "66/35",
-    "sessionIndex": 2002
+    "sessionIndex": 661
   },
   {
     "day": "wed",
@@ -24602,6 +24528,80 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "66/35",
+    "sessionIndex": 662
+  },
+  {
+    "day": "fri",
+    "session_name": "L4",
+    "time_range": "1:20 - 3:00",
+    "course_instance_id": "830",
+    "course_code": "ME23622",
+    "course_code_display": "ME23622 Batch 1",
+    "course_name": "Simulation and Analysis Laboratory",
+    "practical_hours": 4,
+    "teacher_id": "544",
+    "teacher_name": "Arulmurugan S",
+    "staff_code": "104150",
+    "room_id": "36",
+    "room_number": "TANCAM",
+    "block": "Arch Block",
+    "capacity": 35,
+    "student_count": 66,
+    "total_students": 132,
+    "is_batched": 1,
+    "batch_info": "Batch 1",
+    "num_batches": 2,
+    "batch_number": 1,
+    "batch_label": "Batch 1",
+    "schedule_type": "lab",
+    "group_name": "Mechanical Engineering_S6_G2",
+    "group_index": 2,
+    "department": "Mechanical Engineering",
+    "semester": 6,
+    "day_pattern": "Tuesday-Saturday",
+    "is_co_scheduled": false,
+    "co_schedule_id": null,
+    "co_schedule_group_size": 1,
+    "co_schedule_partner_teachers": null,
+    "co_schedule_info": "Single session",
+    "capacity_info": "66/35",
+    "sessionIndex": 663
+  },
+  {
+    "day": "saturday",
+    "session_name": "L4",
+    "time_range": "1:20 - 3:00",
+    "course_instance_id": "307",
+    "course_code": "AT23632",
+    "course_code_display": "AT23632",
+    "course_name": "Vehicle Dynamics",
+    "practical_hours": 2,
+    "teacher_id": "75",
+    "teacher_name": "Edwin Joseph R",
+    "staff_code": "120049",
+    "room_id": "184",
+    "room_number": "KFL02",
+    "block": "K Block",
+    "capacity": 35,
+    "student_count": 32,
+    "total_students": 32,
+    "is_batched": 0,
+    "batch_info": null,
+    "num_batches": 1,
+    "batch_number": null,
+    "batch_label": null,
+    "schedule_type": "lab",
+    "group_name": "Automobile Engineering_S6_G3",
+    "group_index": 3,
+    "department": "Automobile Engineering",
+    "semester": 6,
+    "day_pattern": "Tuesday-Saturday",
+    "is_co_scheduled": false,
+    "co_schedule_id": null,
+    "co_schedule_group_size": 1,
+    "co_schedule_partner_teachers": null,
+    "co_schedule_info": "Single session",
+    "capacity_info": "32/35",
     "sessionIndex": 2003
   }
 ]
