@@ -17760,43 +17760,6 @@
     "sessionIndex": 479
   },
   {
-    "day": "fri",
-    "session_name": "L5",
-    "time_range": "3:00 - 4:40",
-    "course_instance_id": "526",
-    "course_code": "CS23634",
-    "course_code_display": "CS23634",
-    "course_name": "Fundamentals of Generative AI and Prompt Engineering",
-    "practical_hours": 2,
-    "teacher_id": "58",
-    "teacher_name": "Sowmia K R",
-    "staff_code": "103178",
-    "room_id": "183",
-    "room_number": "KFL01",
-    "block": "K Block",
-    "capacity": 35,
-    "student_count": 67,
-    "total_students": 199,
-    "is_batched": true,
-    "batch_info": "Batch 2",
-    "num_batches": 2,
-    "batch_number": 2,
-    "batch_label": "Batch 2",
-    "schedule_type": "lab",
-    "group_name": "Artificial Intelligence & Machine Learning_S6_G1",
-    "group_index": 1,
-    "department": "Artificial Intelligence & Machine Learning",
-    "semester": 6,
-    "day_pattern": "Monday-Fri",
-    "is_co_scheduled": false,
-    "co_schedule_id": null,
-    "co_schedule_group_size": 1,
-    "co_schedule_partner_teachers": null,
-    "co_schedule_info": "Single session",
-    "capacity_info": "67/35",
-    "sessionIndex": 480
-  },
-  {
     "day": "thur",
     "session_name": "L2",
     "time_range": "10:00 - 11:40",
@@ -17831,7 +17794,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "32/35",
-    "sessionIndex": 481
+    "sessionIndex": 480
   },
   {
     "day": "tuesday",
@@ -17868,7 +17831,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "55/35",
-    "sessionIndex": 482
+    "sessionIndex": 481
   },
   {
     "day": "thur",
@@ -17905,7 +17868,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "55/35",
-    "sessionIndex": 483
+    "sessionIndex": 482
   },
   {
     "day": "fri",
@@ -17942,7 +17905,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "56/35",
-    "sessionIndex": 484
+    "sessionIndex": 483
   },
   {
     "day": "fri",
@@ -17979,7 +17942,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "56/35",
-    "sessionIndex": 485
+    "sessionIndex": 484
   },
   {
     "day": "monday",
@@ -18016,12 +17979,49 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "56/35",
-    "sessionIndex": 486
+    "sessionIndex": 485
   },
   {
     "day": "tuesday",
     "session_name": "L3",
     "time_range": "11:50 - 1:20",
+    "course_instance_id": "31",
+    "course_code": "BM23622",
+    "course_code_display": "BM23622",
+    "course_name": "Physiological Modeling Laboratory",
+    "practical_hours": 4,
+    "teacher_id": "96",
+    "teacher_name": "Jemina Asnoth Sylvia J",
+    "staff_code": "121081",
+    "room_id": "166",
+    "room_number": "DG",
+    "block": "D Block",
+    "capacity": 35,
+    "student_count": 56,
+    "total_students": 111,
+    "is_batched": true,
+    "batch_info": "Batch 1",
+    "num_batches": 2,
+    "batch_number": 1,
+    "batch_label": "Batch 1",
+    "schedule_type": "lab",
+    "group_name": "Biomedical Engineering_S6_G2",
+    "group_index": 2,
+    "department": "Biomedical Engineering",
+    "semester": 6,
+    "day_pattern": "Monday-Fri",
+    "is_co_scheduled": false,
+    "co_schedule_id": null,
+    "co_schedule_group_size": 1,
+    "co_schedule_partner_teachers": null,
+    "co_schedule_info": "Single session",
+    "capacity_info": "56/35",
+    "sessionIndex": 486
+  },
+  {
+    "day": "tuesday",
+    "session_name": "L4",
+    "time_range": "1:20 - 3:00",
     "course_instance_id": "31",
     "course_code": "BM23622",
     "course_code_display": "BM23622",
@@ -18056,43 +18056,6 @@
     "sessionIndex": 487
   },
   {
-    "day": "tuesday",
-    "session_name": "L4",
-    "time_range": "1:20 - 3:00",
-    "course_instance_id": "31",
-    "course_code": "BM23622",
-    "course_code_display": "BM23622",
-    "course_name": "Physiological Modeling Laboratory",
-    "practical_hours": 4,
-    "teacher_id": "96",
-    "teacher_name": "Jemina Asnoth Sylvia J",
-    "staff_code": "121081",
-    "room_id": "166",
-    "room_number": "DG",
-    "block": "D Block",
-    "capacity": 35,
-    "student_count": 56,
-    "total_students": 111,
-    "is_batched": true,
-    "batch_info": "Batch 1",
-    "num_batches": 2,
-    "batch_number": 1,
-    "batch_label": "Batch 1",
-    "schedule_type": "lab",
-    "group_name": "Biomedical Engineering_S6_G2",
-    "group_index": 2,
-    "department": "Biomedical Engineering",
-    "semester": 6,
-    "day_pattern": "Monday-Fri",
-    "is_co_scheduled": false,
-    "co_schedule_id": null,
-    "co_schedule_group_size": 1,
-    "co_schedule_partner_teachers": null,
-    "co_schedule_info": "Single session",
-    "capacity_info": "56/35",
-    "sessionIndex": 488
-  },
-  {
     "day": "thur",
     "session_name": "L2",
     "time_range": "10:00 - 11:40",
@@ -18127,7 +18090,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "56/35",
-    "sessionIndex": 489
+    "sessionIndex": 488
   },
   {
     "day": "fri",
@@ -18164,7 +18127,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "63/70",
-    "sessionIndex": 490
+    "sessionIndex": 489
   },
   {
     "day": "fri",
@@ -18201,7 +18164,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "63/70",
-    "sessionIndex": 491
+    "sessionIndex": 490
   },
   {
     "day": "monday",
@@ -18238,7 +18201,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "63/70",
-    "sessionIndex": 492
+    "sessionIndex": 491
   },
   {
     "day": "monday",
@@ -18275,7 +18238,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "63/70",
-    "sessionIndex": 493
+    "sessionIndex": 492
   },
   {
     "day": "tuesday",
@@ -18312,7 +18275,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "63/70",
-    "sessionIndex": 494
+    "sessionIndex": 493
   },
   {
     "day": "tuesday",
@@ -18349,7 +18312,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "63/70",
-    "sessionIndex": 495
+    "sessionIndex": 494
   },
   {
     "day": "monday",
@@ -18386,7 +18349,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "64/35",
-    "sessionIndex": 496
+    "sessionIndex": 495
   },
   {
     "day": "monday",
@@ -18423,7 +18386,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "64/35",
-    "sessionIndex": 497
+    "sessionIndex": 496
   },
   {
     "day": "tuesday",
@@ -18460,7 +18423,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "64/35",
-    "sessionIndex": 498
+    "sessionIndex": 497
   },
   {
     "day": "tuesday",
@@ -18497,12 +18460,49 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "64/35",
-    "sessionIndex": 499
+    "sessionIndex": 498
   },
   {
     "day": "wed",
     "session_name": "L3",
     "time_range": "11:50 - 1:20",
+    "course_instance_id": "117",
+    "course_code": "CH23621",
+    "course_code_display": "CH23621",
+    "course_name": "Mass Transfer Lab",
+    "practical_hours": 4,
+    "teacher_id": "147",
+    "teacher_name": "Kalaiarasi N",
+    "staff_code": "370011",
+    "room_id": "210",
+    "room_number": "WS AUTO FF1",
+    "block": "A Block",
+    "capacity": 35,
+    "student_count": 70,
+    "total_students": 70,
+    "is_batched": true,
+    "batch_info": "Batch 1",
+    "num_batches": 2,
+    "batch_number": 1,
+    "batch_label": "Batch 1",
+    "schedule_type": "lab",
+    "group_name": "Chemical Engineering_S6_G1",
+    "group_index": 1,
+    "department": "Chemical Engineering",
+    "semester": 6,
+    "day_pattern": "Tuesday-Saturday",
+    "is_co_scheduled": false,
+    "co_schedule_id": null,
+    "co_schedule_group_size": 1,
+    "co_schedule_partner_teachers": null,
+    "co_schedule_info": "Single session",
+    "capacity_info": "70/35",
+    "sessionIndex": 499
+  },
+  {
+    "day": "wed",
+    "session_name": "L4",
+    "time_range": "1:20 - 3:00",
     "course_instance_id": "117",
     "course_code": "CH23621",
     "course_code_display": "CH23621",
@@ -18537,43 +18537,6 @@
     "sessionIndex": 500
   },
   {
-    "day": "wed",
-    "session_name": "L4",
-    "time_range": "1:20 - 3:00",
-    "course_instance_id": "117",
-    "course_code": "CH23621",
-    "course_code_display": "CH23621",
-    "course_name": "Mass Transfer Lab",
-    "practical_hours": 4,
-    "teacher_id": "147",
-    "teacher_name": "Kalaiarasi N",
-    "staff_code": "370011",
-    "room_id": "210",
-    "room_number": "WS AUTO FF1",
-    "block": "A Block",
-    "capacity": 35,
-    "student_count": 70,
-    "total_students": 70,
-    "is_batched": true,
-    "batch_info": "Batch 1",
-    "num_batches": 2,
-    "batch_number": 1,
-    "batch_label": "Batch 1",
-    "schedule_type": "lab",
-    "group_name": "Chemical Engineering_S6_G1",
-    "group_index": 1,
-    "department": "Chemical Engineering",
-    "semester": 6,
-    "day_pattern": "Tuesday-Saturday",
-    "is_co_scheduled": false,
-    "co_schedule_id": null,
-    "co_schedule_group_size": 1,
-    "co_schedule_partner_teachers": null,
-    "co_schedule_info": "Single session",
-    "capacity_info": "70/35",
-    "sessionIndex": 501
-  },
-  {
     "day": "thur",
     "session_name": "L3",
     "time_range": "11:50 - 1:20",
@@ -18608,7 +18571,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/35",
-    "sessionIndex": 502
+    "sessionIndex": 501
   },
   {
     "day": "thur",
@@ -18645,7 +18608,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/35",
-    "sessionIndex": 503
+    "sessionIndex": 502
   },
   {
     "day": "wed",
@@ -18682,7 +18645,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "64/35",
-    "sessionIndex": 504
+    "sessionIndex": 503
   },
   {
     "day": "fri",
@@ -18719,7 +18682,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "64/35",
-    "sessionIndex": 505
+    "sessionIndex": 504
   },
   {
     "day": "tuesday",
@@ -18756,7 +18719,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "63/35",
-    "sessionIndex": 506
+    "sessionIndex": 505
   },
   {
     "day": "tuesday",
@@ -18793,7 +18756,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "63/35",
-    "sessionIndex": 507
+    "sessionIndex": 506
   },
   {
     "day": "tuesday",
@@ -18830,7 +18793,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "63/35",
-    "sessionIndex": 508
+    "sessionIndex": 507
   },
   {
     "day": "saturday",
@@ -18867,7 +18830,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "63/35",
-    "sessionIndex": 509
+    "sessionIndex": 508
   },
   {
     "day": "fri",
@@ -18904,7 +18867,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "63/35",
-    "sessionIndex": 510
+    "sessionIndex": 509
   },
   {
     "day": "fri",
@@ -18941,7 +18904,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "63/35",
-    "sessionIndex": 511
+    "sessionIndex": 510
   },
   {
     "day": "wed",
@@ -18978,7 +18941,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "63/35",
-    "sessionIndex": 512
+    "sessionIndex": 511
   },
   {
     "day": "fri",
@@ -19015,12 +18978,49 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "63/35",
-    "sessionIndex": 513
+    "sessionIndex": 512
   },
   {
     "day": "thur",
     "session_name": "L2",
     "time_range": "10:00 - 11:40",
+    "course_instance_id": "1262",
+    "course_code": "HS23621",
+    "course_code_display": "HS23621",
+    "course_name": "Business Communication and Value Science – IV",
+    "practical_hours": 4,
+    "teacher_id": "417",
+    "teacher_name": "Alamelu G",
+    "staff_code": "106036",
+    "room_id": "190",
+    "room_number": "KSL03",
+    "block": "K Block",
+    "capacity": 140,
+    "student_count": 70,
+    "total_students": 140,
+    "is_batched": false,
+    "batch_info": null,
+    "num_batches": 1,
+    "batch_number": null,
+    "batch_label": null,
+    "schedule_type": "lab",
+    "group_name": "Computer Science & Business Systems_S6_G2",
+    "group_index": 2,
+    "department": "Computer Science & Business Systems",
+    "semester": 6,
+    "day_pattern": "Tuesday-Saturday",
+    "is_co_scheduled": false,
+    "co_schedule_id": null,
+    "co_schedule_group_size": 1,
+    "co_schedule_partner_teachers": null,
+    "co_schedule_info": "Single session",
+    "capacity_info": "70/140",
+    "sessionIndex": 513
+  },
+  {
+    "day": "fri",
+    "session_name": "L1",
+    "time_range": "8:00 - 9:40",
     "course_instance_id": "1262",
     "course_code": "HS23621",
     "course_code_display": "HS23621",
@@ -19055,43 +19055,6 @@
     "sessionIndex": 514
   },
   {
-    "day": "fri",
-    "session_name": "L1",
-    "time_range": "8:00 - 9:40",
-    "course_instance_id": "1262",
-    "course_code": "HS23621",
-    "course_code_display": "HS23621",
-    "course_name": "Business Communication and Value Science – IV",
-    "practical_hours": 4,
-    "teacher_id": "417",
-    "teacher_name": "Alamelu G",
-    "staff_code": "106036",
-    "room_id": "190",
-    "room_number": "KSL03",
-    "block": "K Block",
-    "capacity": 140,
-    "student_count": 70,
-    "total_students": 140,
-    "is_batched": false,
-    "batch_info": null,
-    "num_batches": 1,
-    "batch_number": null,
-    "batch_label": null,
-    "schedule_type": "lab",
-    "group_name": "Computer Science & Business Systems_S6_G2",
-    "group_index": 2,
-    "department": "Computer Science & Business Systems",
-    "semester": 6,
-    "day_pattern": "Tuesday-Saturday",
-    "is_co_scheduled": false,
-    "co_schedule_id": null,
-    "co_schedule_group_size": 1,
-    "co_schedule_partner_teachers": null,
-    "co_schedule_info": "Single session",
-    "capacity_info": "70/140",
-    "sessionIndex": 515
-  },
-  {
     "day": "thur",
     "session_name": "L2",
     "time_range": "10:00 - 11:40",
@@ -19126,7 +19089,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/140",
-    "sessionIndex": 516
+    "sessionIndex": 515
   },
   {
     "day": "fri",
@@ -19163,7 +19126,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/140",
-    "sessionIndex": 517
+    "sessionIndex": 516
   },
   {
     "day": "fri",
@@ -19200,7 +19163,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "64/70",
-    "sessionIndex": 518
+    "sessionIndex": 517
   },
   {
     "day": "tuesday",
@@ -19237,7 +19200,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "64/70",
-    "sessionIndex": 519
+    "sessionIndex": 518
   },
   {
     "day": "saturday",
@@ -19274,7 +19237,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "64/70",
-    "sessionIndex": 520
+    "sessionIndex": 519
   },
   {
     "day": "tuesday",
@@ -19311,7 +19274,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "64/70",
-    "sessionIndex": 521
+    "sessionIndex": 520
   },
   {
     "day": "fri",
@@ -19348,7 +19311,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "64/70",
-    "sessionIndex": 522
+    "sessionIndex": 521
   },
   {
     "day": "thur",
@@ -19385,7 +19348,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "64/70",
-    "sessionIndex": 523
+    "sessionIndex": 522
   },
   {
     "day": "wed",
@@ -19422,7 +19385,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "64/70",
-    "sessionIndex": 524
+    "sessionIndex": 523
   },
   {
     "day": "wed",
@@ -19459,7 +19422,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "64/70",
-    "sessionIndex": 525
+    "sessionIndex": 524
   },
   {
     "day": "tuesday",
@@ -19496,7 +19459,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "64/70",
-    "sessionIndex": 526
+    "sessionIndex": 525
   },
   {
     "day": "saturday",
@@ -19533,7 +19496,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "65/70",
-    "sessionIndex": 527
+    "sessionIndex": 526
   },
   {
     "day": "saturday",
@@ -19570,7 +19533,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "65/70",
-    "sessionIndex": 528
+    "sessionIndex": 527
   },
   {
     "day": "tuesday",
@@ -19607,7 +19570,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "65/35",
-    "sessionIndex": 529
+    "sessionIndex": 528
   },
   {
     "day": "thur",
@@ -19644,7 +19607,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "65/35",
-    "sessionIndex": 530
+    "sessionIndex": 529
   },
   {
     "day": "saturday",
@@ -19681,7 +19644,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/70",
-    "sessionIndex": 531
+    "sessionIndex": 530
   },
   {
     "day": "thur",
@@ -19718,7 +19681,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/140",
-    "sessionIndex": 532
+    "sessionIndex": 531
   },
   {
     "day": "wed",
@@ -19755,7 +19718,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/140",
-    "sessionIndex": 533
+    "sessionIndex": 532
   },
   {
     "day": "wed",
@@ -19792,7 +19755,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/140",
-    "sessionIndex": 534
+    "sessionIndex": 533
   },
   {
     "day": "thur",
@@ -19829,7 +19792,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/140",
-    "sessionIndex": 535
+    "sessionIndex": 534
   },
   {
     "day": "wed",
@@ -19866,7 +19829,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/35",
-    "sessionIndex": 536
+    "sessionIndex": 535
   },
   {
     "day": "saturday",
@@ -19903,7 +19866,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/35",
-    "sessionIndex": 537
+    "sessionIndex": 536
   },
   {
     "day": "tuesday",
@@ -19940,7 +19903,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "140/140",
-    "sessionIndex": 538
+    "sessionIndex": 537
   },
   {
     "day": "tuesday",
@@ -19977,7 +19940,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "140/140",
-    "sessionIndex": 539
+    "sessionIndex": 538
   },
   {
     "day": "thur",
@@ -20014,7 +19977,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/70",
-    "sessionIndex": 540
+    "sessionIndex": 539
   },
   {
     "day": "thur",
@@ -20051,7 +20014,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/70",
-    "sessionIndex": 541
+    "sessionIndex": 540
   },
   {
     "day": "thur",
@@ -20088,7 +20051,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "140/140",
-    "sessionIndex": 542
+    "sessionIndex": 541
   },
   {
     "day": "thur",
@@ -20125,7 +20088,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/70",
-    "sessionIndex": 543
+    "sessionIndex": 542
   },
   {
     "day": "wed",
@@ -20162,7 +20125,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/70",
-    "sessionIndex": 544
+    "sessionIndex": 543
   },
   {
     "day": "wed",
@@ -20199,7 +20162,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/35",
-    "sessionIndex": 545
+    "sessionIndex": 544
   },
   {
     "day": "wed",
@@ -20236,7 +20199,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/35",
-    "sessionIndex": 546
+    "sessionIndex": 545
   },
   {
     "day": "wed",
@@ -20273,7 +20236,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/35",
-    "sessionIndex": 547
+    "sessionIndex": 546
   },
   {
     "day": "saturday",
@@ -20310,7 +20273,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/35",
-    "sessionIndex": 548
+    "sessionIndex": 547
   },
   {
     "day": "tuesday",
@@ -20347,7 +20310,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/140",
-    "sessionIndex": 549
+    "sessionIndex": 548
   },
   {
     "day": "tuesday",
@@ -20384,7 +20347,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/140",
-    "sessionIndex": 550
+    "sessionIndex": 549
   },
   {
     "day": "saturday",
@@ -20421,7 +20384,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/140",
-    "sessionIndex": 551
+    "sessionIndex": 550
   },
   {
     "day": "saturday",
@@ -20458,7 +20421,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/140",
-    "sessionIndex": 552
+    "sessionIndex": 551
   },
   {
     "day": "tuesday",
@@ -20495,7 +20458,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/140",
-    "sessionIndex": 553
+    "sessionIndex": 552
   },
   {
     "day": "tuesday",
@@ -20532,7 +20495,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/140",
-    "sessionIndex": 554
+    "sessionIndex": 553
   },
   {
     "day": "thur",
@@ -20569,7 +20532,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "140/140",
-    "sessionIndex": 555
+    "sessionIndex": 554
   },
   {
     "day": "fri",
@@ -20606,7 +20569,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "140/140",
-    "sessionIndex": 556
+    "sessionIndex": 555
   },
   {
     "day": "wed",
@@ -20643,7 +20606,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/70",
-    "sessionIndex": 557
+    "sessionIndex": 556
   },
   {
     "day": "fri",
@@ -20680,7 +20643,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/70",
-    "sessionIndex": 558
+    "sessionIndex": 557
   },
   {
     "day": "thur",
@@ -20717,7 +20680,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/140",
-    "sessionIndex": 559
+    "sessionIndex": 558
   },
   {
     "day": "fri",
@@ -20754,7 +20717,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/70",
-    "sessionIndex": 560
+    "sessionIndex": 559
   },
   {
     "day": "saturday",
@@ -20791,7 +20754,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "140/140",
-    "sessionIndex": 561
+    "sessionIndex": 560
   },
   {
     "day": "tuesday",
@@ -20828,7 +20791,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/140",
-    "sessionIndex": 562
+    "sessionIndex": 561
   },
   {
     "day": "saturday",
@@ -20865,7 +20828,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/70",
-    "sessionIndex": 563
+    "sessionIndex": 562
   },
   {
     "day": "tuesday",
@@ -20902,7 +20865,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/140",
-    "sessionIndex": 564
+    "sessionIndex": 563
   },
   {
     "day": "saturday",
@@ -20939,12 +20902,49 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/70",
-    "sessionIndex": 565
+    "sessionIndex": 564
   },
   {
     "day": "wed",
     "session_name": "L3",
     "time_range": "11:50 - 1:20",
+    "course_instance_id": "62",
+    "course_code": "EE23631",
+    "course_code_display": "EE23631",
+    "course_name": "Applications of IoT in Electrical Engineering",
+    "practical_hours": 2,
+    "teacher_id": "308",
+    "teacher_name": "Amutha C",
+    "staff_code": "105099",
+    "room_id": "66",
+    "room_number": "B318",
+    "block": "B Block",
+    "capacity": 35,
+    "student_count": 68,
+    "total_students": 136,
+    "is_batched": true,
+    "batch_info": "Batch 1",
+    "num_batches": 2,
+    "batch_number": 1,
+    "batch_label": "Batch 1",
+    "schedule_type": "lab",
+    "group_name": "Electrical & Electronics Engineering_S6_G2",
+    "group_index": 2,
+    "department": "Electrical & Electronics Engineering",
+    "semester": 6,
+    "day_pattern": "Monday-Fri",
+    "is_co_scheduled": false,
+    "co_schedule_id": null,
+    "co_schedule_group_size": 1,
+    "co_schedule_partner_teachers": null,
+    "co_schedule_info": "Single session",
+    "capacity_info": "68/35",
+    "sessionIndex": 565
+  },
+  {
+    "day": "wed",
+    "session_name": "L4",
+    "time_range": "1:20 - 3:00",
     "course_instance_id": "62",
     "course_code": "EE23631",
     "course_code_display": "EE23631",
@@ -20979,43 +20979,6 @@
     "sessionIndex": 566
   },
   {
-    "day": "wed",
-    "session_name": "L4",
-    "time_range": "1:20 - 3:00",
-    "course_instance_id": "62",
-    "course_code": "EE23631",
-    "course_code_display": "EE23631",
-    "course_name": "Applications of IoT in Electrical Engineering",
-    "practical_hours": 2,
-    "teacher_id": "308",
-    "teacher_name": "Amutha C",
-    "staff_code": "105099",
-    "room_id": "66",
-    "room_number": "B318",
-    "block": "B Block",
-    "capacity": 35,
-    "student_count": 68,
-    "total_students": 136,
-    "is_batched": true,
-    "batch_info": "Batch 1",
-    "num_batches": 2,
-    "batch_number": 1,
-    "batch_label": "Batch 1",
-    "schedule_type": "lab",
-    "group_name": "Electrical & Electronics Engineering_S6_G2",
-    "group_index": 2,
-    "department": "Electrical & Electronics Engineering",
-    "semester": 6,
-    "day_pattern": "Monday-Fri",
-    "is_co_scheduled": false,
-    "co_schedule_id": null,
-    "co_schedule_group_size": 1,
-    "co_schedule_partner_teachers": null,
-    "co_schedule_info": "Single session",
-    "capacity_info": "68/35",
-    "sessionIndex": 567
-  },
-  {
     "day": "monday",
     "session_name": "L2",
     "time_range": "10:00 - 11:40",
@@ -21050,7 +21013,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "68/35",
-    "sessionIndex": 568
+    "sessionIndex": 567
   },
   {
     "day": "thur",
@@ -21087,7 +21050,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "68/35",
-    "sessionIndex": 569
+    "sessionIndex": 568
   },
   {
     "day": "monday",
@@ -21124,12 +21087,49 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "68/35",
-    "sessionIndex": 570
+    "sessionIndex": 569
   },
   {
     "day": "wed",
     "session_name": "L1",
     "time_range": "8:00 - 9:40",
+    "course_instance_id": "689",
+    "course_code": "EE23622",
+    "course_code_display": "EE23622",
+    "course_name": "Applications of AI and ML in Electrical Engineering",
+    "practical_hours": 4,
+    "teacher_id": "307",
+    "teacher_name": "Shyam D",
+    "staff_code": "105096",
+    "room_id": "66",
+    "room_number": "B318",
+    "block": "B Block",
+    "capacity": 35,
+    "student_count": 68,
+    "total_students": 136,
+    "is_batched": true,
+    "batch_info": "Batch 1",
+    "num_batches": 2,
+    "batch_number": 1,
+    "batch_label": "Batch 1",
+    "schedule_type": "lab",
+    "group_name": "Electrical & Electronics Engineering_S6_G1",
+    "group_index": 1,
+    "department": "Electrical & Electronics Engineering",
+    "semester": 6,
+    "day_pattern": "Monday-Fri",
+    "is_co_scheduled": false,
+    "co_schedule_id": null,
+    "co_schedule_group_size": 1,
+    "co_schedule_partner_teachers": null,
+    "co_schedule_info": "Single session",
+    "capacity_info": "68/35",
+    "sessionIndex": 570
+  },
+  {
+    "day": "thur",
+    "session_name": "L3",
+    "time_range": "11:50 - 1:20",
     "course_instance_id": "689",
     "course_code": "EE23622",
     "course_code_display": "EE23622",
@@ -21164,43 +21164,6 @@
     "sessionIndex": 571
   },
   {
-    "day": "thur",
-    "session_name": "L3",
-    "time_range": "11:50 - 1:20",
-    "course_instance_id": "689",
-    "course_code": "EE23622",
-    "course_code_display": "EE23622",
-    "course_name": "Applications of AI and ML in Electrical Engineering",
-    "practical_hours": 4,
-    "teacher_id": "307",
-    "teacher_name": "Shyam D",
-    "staff_code": "105096",
-    "room_id": "66",
-    "room_number": "B318",
-    "block": "B Block",
-    "capacity": 35,
-    "student_count": 68,
-    "total_students": 136,
-    "is_batched": true,
-    "batch_info": "Batch 1",
-    "num_batches": 2,
-    "batch_number": 1,
-    "batch_label": "Batch 1",
-    "schedule_type": "lab",
-    "group_name": "Electrical & Electronics Engineering_S6_G1",
-    "group_index": 1,
-    "department": "Electrical & Electronics Engineering",
-    "semester": 6,
-    "day_pattern": "Monday-Fri",
-    "is_co_scheduled": false,
-    "co_schedule_id": null,
-    "co_schedule_group_size": 1,
-    "co_schedule_partner_teachers": null,
-    "co_schedule_info": "Single session",
-    "capacity_info": "68/35",
-    "sessionIndex": 572
-  },
-  {
     "day": "fri",
     "session_name": "L4",
     "time_range": "1:20 - 3:00",
@@ -21235,7 +21198,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "68/35",
-    "sessionIndex": 573
+    "sessionIndex": 572
   },
   {
     "day": "fri",
@@ -21272,7 +21235,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "68/35",
-    "sessionIndex": 574
+    "sessionIndex": 573
   },
   {
     "day": "fri",
@@ -21309,7 +21272,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "68/35",
-    "sessionIndex": 575
+    "sessionIndex": 574
   },
   {
     "day": "tuesday",
@@ -21346,7 +21309,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "68/35",
-    "sessionIndex": 576
+    "sessionIndex": 575
   },
   {
     "day": "thur",
@@ -21383,7 +21346,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "68/35",
-    "sessionIndex": 577
+    "sessionIndex": 576
   },
   {
     "day": "tuesday",
@@ -21420,7 +21383,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "68/35",
-    "sessionIndex": 578
+    "sessionIndex": 577
   },
   {
     "day": "thur",
@@ -21457,7 +21420,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "68/35",
-    "sessionIndex": 579
+    "sessionIndex": 578
   },
   {
     "day": "fri",
@@ -21494,7 +21457,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "68/35",
-    "sessionIndex": 580
+    "sessionIndex": 579
   },
   {
     "day": "saturday",
@@ -21531,7 +21494,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "68/35",
-    "sessionIndex": 581
+    "sessionIndex": 580
   },
   {
     "day": "wed",
@@ -21556,6 +21519,43 @@
     "num_batches": 2,
     "batch_number": 1,
     "batch_label": "Batch 1",
+    "schedule_type": "lab",
+    "group_name": "Electronics & Communication Engineering_S6_G1",
+    "group_index": 1,
+    "department": "Electronics & Communication Engineering",
+    "semester": 6,
+    "day_pattern": "Tuesday-Saturday",
+    "is_co_scheduled": false,
+    "co_schedule_id": null,
+    "co_schedule_group_size": 1,
+    "co_schedule_partner_teachers": null,
+    "co_schedule_info": "Single session",
+    "capacity_info": "67/35",
+    "sessionIndex": 581
+  },
+  {
+    "day": "wed",
+    "session_name": "L5",
+    "time_range": "3:00 - 4:40",
+    "course_instance_id": "128",
+    "course_code": "EC23631",
+    "course_code_display": "EC23631",
+    "course_name": "VLSI and Chip Design",
+    "practical_hours": 2,
+    "teacher_id": "374",
+    "teacher_name": "Saranya J",
+    "staff_code": "102135",
+    "room_id": "48",
+    "room_number": "B203",
+    "block": "B Block",
+    "capacity": 35,
+    "student_count": 67,
+    "total_students": 271,
+    "is_batched": true,
+    "batch_info": "Batch 2",
+    "num_batches": 2,
+    "batch_number": 2,
+    "batch_label": "Batch 2",
     "schedule_type": "lab",
     "group_name": "Electronics & Communication Engineering_S6_G1",
     "group_index": 1,
@@ -21571,43 +21571,6 @@
     "sessionIndex": 582
   },
   {
-    "day": "wed",
-    "session_name": "L5",
-    "time_range": "3:00 - 4:40",
-    "course_instance_id": "128",
-    "course_code": "EC23631",
-    "course_code_display": "EC23631",
-    "course_name": "VLSI and Chip Design",
-    "practical_hours": 2,
-    "teacher_id": "374",
-    "teacher_name": "Saranya J",
-    "staff_code": "102135",
-    "room_id": "48",
-    "room_number": "B203",
-    "block": "B Block",
-    "capacity": 35,
-    "student_count": 67,
-    "total_students": 271,
-    "is_batched": true,
-    "batch_info": "Batch 2",
-    "num_batches": 2,
-    "batch_number": 2,
-    "batch_label": "Batch 2",
-    "schedule_type": "lab",
-    "group_name": "Electronics & Communication Engineering_S6_G1",
-    "group_index": 1,
-    "department": "Electronics & Communication Engineering",
-    "semester": 6,
-    "day_pattern": "Tuesday-Saturday",
-    "is_co_scheduled": false,
-    "co_schedule_id": null,
-    "co_schedule_group_size": 1,
-    "co_schedule_partner_teachers": null,
-    "co_schedule_info": "Single session",
-    "capacity_info": "67/35",
-    "sessionIndex": 583
-  },
-  {
     "day": "fri",
     "session_name": "L3",
     "time_range": "11:50 - 1:20",
@@ -21642,7 +21605,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "68/35",
-    "sessionIndex": 584
+    "sessionIndex": 583
   },
   {
     "day": "fri",
@@ -21679,7 +21642,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "68/35",
-    "sessionIndex": 585
+    "sessionIndex": 584
   },
   {
     "day": "thur",
@@ -21716,7 +21679,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "68/35",
-    "sessionIndex": 586
+    "sessionIndex": 585
   },
   {
     "day": "saturday",
@@ -21753,7 +21716,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "68/35",
-    "sessionIndex": 587
+    "sessionIndex": 586
   },
   {
     "day": "thur",
@@ -21790,7 +21753,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "68/35",
-    "sessionIndex": 588
+    "sessionIndex": 587
   },
   {
     "day": "fri",
@@ -21827,7 +21790,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "68/35",
-    "sessionIndex": 589
+    "sessionIndex": 588
   },
   {
     "day": "tuesday",
@@ -21864,7 +21827,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "68/35",
-    "sessionIndex": 590
+    "sessionIndex": 589
   },
   {
     "day": "saturday",
@@ -21901,7 +21864,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "68/35",
-    "sessionIndex": 591
+    "sessionIndex": 590
   },
   {
     "day": "tuesday",
@@ -21938,7 +21901,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "68/35",
-    "sessionIndex": 592
+    "sessionIndex": 591
   },
   {
     "day": "tuesday",
@@ -21975,7 +21938,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "68/35",
-    "sessionIndex": 593
+    "sessionIndex": 592
   },
   {
     "day": "tuesday",
@@ -22012,7 +21975,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "68/35",
-    "sessionIndex": 594
+    "sessionIndex": 593
   },
   {
     "day": "tuesday",
@@ -22049,7 +22012,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "68/35",
-    "sessionIndex": 595
+    "sessionIndex": 594
   },
   {
     "day": "tuesday",
@@ -22086,7 +22049,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "67/35",
-    "sessionIndex": 596
+    "sessionIndex": 595
   },
   {
     "day": "tuesday",
@@ -22123,12 +22086,49 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "67/35",
-    "sessionIndex": 597
+    "sessionIndex": 596
   },
   {
     "day": "tuesday",
     "session_name": "L3",
     "time_range": "11:50 - 1:20",
+    "course_instance_id": "69",
+    "course_code": "FT23611",
+    "course_code_display": "FT23611",
+    "course_name": "Food Packaging Technology Laboratory",
+    "practical_hours": 4,
+    "teacher_id": "431",
+    "teacher_name": "V Sudhakar",
+    "staff_code": "300017",
+    "room_id": "114",
+    "room_number": "CG002",
+    "block": "C Block",
+    "capacity": 35,
+    "student_count": 61,
+    "total_students": 61,
+    "is_batched": true,
+    "batch_info": "Batch 1",
+    "num_batches": 2,
+    "batch_number": 1,
+    "batch_label": "Batch 1",
+    "schedule_type": "lab",
+    "group_name": "Food Technology_S6_G2",
+    "group_index": 2,
+    "department": "Food Technology",
+    "semester": 6,
+    "day_pattern": "Tuesday-Saturday",
+    "is_co_scheduled": false,
+    "co_schedule_id": null,
+    "co_schedule_group_size": 1,
+    "co_schedule_partner_teachers": null,
+    "co_schedule_info": "Single session",
+    "capacity_info": "61/35",
+    "sessionIndex": 597
+  },
+  {
+    "day": "tuesday",
+    "session_name": "L4",
+    "time_range": "1:20 - 3:00",
     "course_instance_id": "69",
     "course_code": "FT23611",
     "course_code_display": "FT23611",
@@ -22163,9 +22163,9 @@
     "sessionIndex": 598
   },
   {
-    "day": "tuesday",
-    "session_name": "L4",
-    "time_range": "1:20 - 3:00",
+    "day": "thur",
+    "session_name": "L3",
+    "time_range": "11:50 - 1:20",
     "course_instance_id": "69",
     "course_code": "FT23611",
     "course_code_display": "FT23611",
@@ -22181,10 +22181,10 @@
     "student_count": 61,
     "total_students": 61,
     "is_batched": true,
-    "batch_info": "Batch 1",
+    "batch_info": "Batch 2",
     "num_batches": 2,
-    "batch_number": 1,
-    "batch_label": "Batch 1",
+    "batch_number": 2,
+    "batch_label": "Batch 2",
     "schedule_type": "lab",
     "group_name": "Food Technology_S6_G2",
     "group_index": 2,
@@ -22201,8 +22201,8 @@
   },
   {
     "day": "thur",
-    "session_name": "L3",
-    "time_range": "11:50 - 1:20",
+    "session_name": "L4",
+    "time_range": "1:20 - 3:00",
     "course_instance_id": "69",
     "course_code": "FT23611",
     "course_code_display": "FT23611",
@@ -22237,43 +22237,6 @@
     "sessionIndex": 600
   },
   {
-    "day": "thur",
-    "session_name": "L4",
-    "time_range": "1:20 - 3:00",
-    "course_instance_id": "69",
-    "course_code": "FT23611",
-    "course_code_display": "FT23611",
-    "course_name": "Food Packaging Technology Laboratory",
-    "practical_hours": 4,
-    "teacher_id": "431",
-    "teacher_name": "V Sudhakar",
-    "staff_code": "300017",
-    "room_id": "114",
-    "room_number": "CG002",
-    "block": "C Block",
-    "capacity": 35,
-    "student_count": 61,
-    "total_students": 61,
-    "is_batched": true,
-    "batch_info": "Batch 2",
-    "num_batches": 2,
-    "batch_number": 2,
-    "batch_label": "Batch 2",
-    "schedule_type": "lab",
-    "group_name": "Food Technology_S6_G2",
-    "group_index": 2,
-    "department": "Food Technology",
-    "semester": 6,
-    "day_pattern": "Tuesday-Saturday",
-    "is_co_scheduled": false,
-    "co_schedule_id": null,
-    "co_schedule_group_size": 1,
-    "co_schedule_partner_teachers": null,
-    "co_schedule_info": "Single session",
-    "capacity_info": "61/35",
-    "sessionIndex": 601
-  },
-  {
     "day": "wed",
     "session_name": "L3",
     "time_range": "11:50 - 1:20",
@@ -22308,7 +22271,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "61/35",
-    "sessionIndex": 602
+    "sessionIndex": 601
   },
   {
     "day": "wed",
@@ -22345,7 +22308,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "61/35",
-    "sessionIndex": 603
+    "sessionIndex": 602
   },
   {
     "day": "fri",
@@ -22382,7 +22345,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "61/35",
-    "sessionIndex": 604
+    "sessionIndex": 603
   },
   {
     "day": "fri",
@@ -22419,7 +22382,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "61/35",
-    "sessionIndex": 605
+    "sessionIndex": 604
   },
   {
     "day": "monday",
@@ -22456,7 +22419,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "66/140",
-    "sessionIndex": 606
+    "sessionIndex": 605
   },
   {
     "day": "monday",
@@ -22493,7 +22456,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "66/140",
-    "sessionIndex": 607
+    "sessionIndex": 606
   },
   {
     "day": "wed",
@@ -22530,7 +22493,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "67/140",
-    "sessionIndex": 608
+    "sessionIndex": 607
   },
   {
     "day": "tuesday",
@@ -22567,7 +22530,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "66/70",
-    "sessionIndex": 609
+    "sessionIndex": 608
   },
   {
     "day": "monday",
@@ -22604,7 +22567,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "66/70",
-    "sessionIndex": 610
+    "sessionIndex": 609
   },
   {
     "day": "monday",
@@ -22641,7 +22604,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "66/70",
-    "sessionIndex": 611
+    "sessionIndex": 610
   },
   {
     "day": "monday",
@@ -22678,7 +22641,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "66/140",
-    "sessionIndex": 612
+    "sessionIndex": 611
   },
   {
     "day": "thur",
@@ -22715,7 +22678,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "66/140",
-    "sessionIndex": 613
+    "sessionIndex": 612
   },
   {
     "day": "monday",
@@ -22752,7 +22715,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "66/70",
-    "sessionIndex": 614
+    "sessionIndex": 613
   },
   {
     "day": "thur",
@@ -22789,7 +22752,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "66/140",
-    "sessionIndex": 615
+    "sessionIndex": 614
   },
   {
     "day": "wed",
@@ -22826,7 +22789,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "66/70",
-    "sessionIndex": 616
+    "sessionIndex": 615
   },
   {
     "day": "tuesday",
@@ -22863,7 +22826,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "66/70",
-    "sessionIndex": 617
+    "sessionIndex": 616
   },
   {
     "day": "thur",
@@ -22900,7 +22863,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "66/35",
-    "sessionIndex": 618
+    "sessionIndex": 617
   },
   {
     "day": "thur",
@@ -22937,12 +22900,12 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "66/35",
-    "sessionIndex": 619
+    "sessionIndex": 618
   },
   {
     "day": "fri",
-    "session_name": "L2",
-    "time_range": "10:00 - 11:40",
+    "session_name": "L3",
+    "time_range": "11:50 - 1:20",
     "course_instance_id": "378",
     "course_code": "ME23622",
     "course_code_display": "ME23622",
@@ -22974,7 +22937,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "66/35",
-    "sessionIndex": 620
+    "sessionIndex": 619
   },
   {
     "day": "saturday",
@@ -23011,7 +22974,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "66/35",
-    "sessionIndex": 621
+    "sessionIndex": 620
   },
   {
     "day": "thur",
@@ -23048,12 +23011,12 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "66/35",
-    "sessionIndex": 622
+    "sessionIndex": 621
   },
   {
     "day": "fri",
-    "session_name": "L3",
-    "time_range": "11:50 - 1:20",
+    "session_name": "L2",
+    "time_range": "10:00 - 11:40",
     "course_instance_id": "830",
     "course_code": "ME23622",
     "course_code_display": "ME23622",
@@ -23085,7 +23048,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "66/35",
-    "sessionIndex": 623
+    "sessionIndex": 622
   },
   {
     "day": "saturday",
@@ -23122,7 +23085,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "66/35",
-    "sessionIndex": 624
+    "sessionIndex": 623
   },
   {
     "day": "wed",
@@ -23159,7 +23122,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "66/70",
-    "sessionIndex": 625
+    "sessionIndex": 624
   },
   {
     "day": "tuesday",
@@ -23196,7 +23159,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/35",
-    "sessionIndex": 626
+    "sessionIndex": 625
   },
   {
     "day": "thur",
@@ -23233,7 +23196,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/35",
-    "sessionIndex": 627
+    "sessionIndex": 626
   },
   {
     "day": "tuesday",
@@ -23270,7 +23233,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/35",
-    "sessionIndex": 628
+    "sessionIndex": 627
   },
   {
     "day": "wed",
@@ -23307,7 +23270,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/35",
-    "sessionIndex": 629
+    "sessionIndex": 628
   },
   {
     "day": "tuesday",
@@ -23344,7 +23307,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "67/35",
-    "sessionIndex": 630
+    "sessionIndex": 629
   },
   {
     "day": "wed",
@@ -23381,7 +23344,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "67/35",
-    "sessionIndex": 631
+    "sessionIndex": 630
   },
   {
     "day": "wed",
@@ -23418,7 +23381,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "67/35",
-    "sessionIndex": 632
+    "sessionIndex": 631
   },
   {
     "day": "thur",
@@ -23455,7 +23418,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "67/35",
-    "sessionIndex": 633
+    "sessionIndex": 632
   },
   {
     "day": "thur",
@@ -23492,7 +23455,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "67/35",
-    "sessionIndex": 634
+    "sessionIndex": 633
   },
   {
     "day": "fri",
@@ -23529,7 +23492,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "67/35",
-    "sessionIndex": 635
+    "sessionIndex": 634
   },
   {
     "day": "saturday",
@@ -23554,6 +23517,43 @@
     "num_batches": 2,
     "batch_number": 1,
     "batch_label": "Batch 1",
+    "schedule_type": "lab",
+    "group_name": "Artificial Intelligence & Data Science_S8_G1",
+    "group_index": 1,
+    "department": "Artificial Intelligence & Data Science",
+    "semester": 8,
+    "day_pattern": "Monday-Saturday",
+    "is_co_scheduled": false,
+    "co_schedule_id": null,
+    "co_schedule_group_size": 1,
+    "co_schedule_partner_teachers": null,
+    "co_schedule_info": "Single session",
+    "capacity_info": "69/35",
+    "sessionIndex": 635
+  },
+  {
+    "day": "saturday",
+    "session_name": "L3",
+    "time_range": "11:50 - 1:20",
+    "course_instance_id": "1366",
+    "course_code": "AD19P78",
+    "course_code_display": "AD19P78",
+    "course_name": "Speech Processing and Analytics",
+    "practical_hours": 2,
+    "teacher_id": "19",
+    "teacher_name": "S Renuka Devi",
+    "staff_code": "101285",
+    "room_id": "183",
+    "room_number": "KFL01",
+    "block": "K Block",
+    "capacity": 35,
+    "student_count": 69,
+    "total_students": 69,
+    "is_batched": true,
+    "batch_info": "Batch 2",
+    "num_batches": 2,
+    "batch_number": 2,
+    "batch_label": "Batch 2",
     "schedule_type": "lab",
     "group_name": "Artificial Intelligence & Data Science_S8_G1",
     "group_index": 1,
@@ -23569,43 +23569,6 @@
     "sessionIndex": 636
   },
   {
-    "day": "saturday",
-    "session_name": "L3",
-    "time_range": "11:50 - 1:20",
-    "course_instance_id": "1366",
-    "course_code": "AD19P78",
-    "course_code_display": "AD19P78",
-    "course_name": "Speech Processing and Analytics",
-    "practical_hours": 2,
-    "teacher_id": "19",
-    "teacher_name": "S Renuka Devi",
-    "staff_code": "101285",
-    "room_id": "183",
-    "room_number": "KFL01",
-    "block": "K Block",
-    "capacity": 35,
-    "student_count": 69,
-    "total_students": 69,
-    "is_batched": true,
-    "batch_info": "Batch 2",
-    "num_batches": 2,
-    "batch_number": 2,
-    "batch_label": "Batch 2",
-    "schedule_type": "lab",
-    "group_name": "Artificial Intelligence & Data Science_S8_G1",
-    "group_index": 1,
-    "department": "Artificial Intelligence & Data Science",
-    "semester": 8,
-    "day_pattern": "Monday-Saturday",
-    "is_co_scheduled": false,
-    "co_schedule_id": null,
-    "co_schedule_group_size": 1,
-    "co_schedule_partner_teachers": null,
-    "co_schedule_info": "Single session",
-    "capacity_info": "69/35",
-    "sessionIndex": 637
-  },
-  {
     "day": "fri",
     "session_name": "L2",
     "time_range": "10:00 - 11:40",
@@ -23640,7 +23603,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "69/35",
-    "sessionIndex": 638
+    "sessionIndex": 637
   },
   {
     "day": "fri",
@@ -23677,44 +23640,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "69/35",
-    "sessionIndex": 639
-  },
-  {
-    "day": "fri",
-    "session_name": "L4",
-    "time_range": "1:20 - 3:00",
-    "course_instance_id": "486",
-    "course_code": "AI19P82",
-    "course_code_display": "AI19P82",
-    "course_name": "Business Intelligence and Analytics",
-    "practical_hours": 2,
-    "teacher_id": "46",
-    "teacher_name": "Sangeetha K",
-    "staff_code": "103195",
-    "room_id": "183",
-    "room_number": "KFL01",
-    "block": "K Block",
-    "capacity": 35,
-    "student_count": 70,
-    "total_students": 70,
-    "is_batched": true,
-    "batch_info": "Batch 1",
-    "num_batches": 2,
-    "batch_number": 1,
-    "batch_label": "Batch 1",
-    "schedule_type": "lab",
-    "group_name": "Artificial Intelligence & Machine Learning_S8_G1",
-    "group_index": 1,
-    "department": "Artificial Intelligence & Machine Learning",
-    "semester": 8,
-    "day_pattern": "Monday-Saturday",
-    "is_co_scheduled": false,
-    "co_schedule_id": null,
-    "co_schedule_group_size": 1,
-    "co_schedule_partner_teachers": null,
-    "co_schedule_info": "Single session",
-    "capacity_info": "70/35",
-    "sessionIndex": 640
+    "sessionIndex": 638
   },
   {
     "day": "saturday",
@@ -23751,7 +23677,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/35",
-    "sessionIndex": 641
+    "sessionIndex": 639
   },
   {
     "day": "monday",
@@ -23788,7 +23714,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/35",
-    "sessionIndex": 642
+    "sessionIndex": 640
   },
   {
     "day": "monday",
@@ -23825,7 +23751,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/35",
-    "sessionIndex": 643
+    "sessionIndex": 641
   },
   {
     "day": "wed",
@@ -23862,7 +23788,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "67/35",
-    "sessionIndex": 644
+    "sessionIndex": 642
   },
   {
     "day": "thur",
@@ -23899,7 +23825,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "67/35",
-    "sessionIndex": 645
+    "sessionIndex": 643
   },
   {
     "day": "thur",
@@ -23936,7 +23862,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "66/35",
-    "sessionIndex": 646
+    "sessionIndex": 644
   },
   {
     "day": "fri",
@@ -23973,7 +23899,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "66/35",
-    "sessionIndex": 647
+    "sessionIndex": 645
   },
   {
     "day": "tuesday",
@@ -24010,7 +23936,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "23/35",
-    "sessionIndex": 648
+    "sessionIndex": 646
   },
   {
     "day": "thur",
@@ -24047,7 +23973,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "10/35",
-    "sessionIndex": 649
+    "sessionIndex": 647
   },
   {
     "day": "saturday",
@@ -24084,7 +24010,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/35",
-    "sessionIndex": 650
+    "sessionIndex": 648
   },
   {
     "day": "saturday",
@@ -24121,7 +24047,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/35",
-    "sessionIndex": 651
+    "sessionIndex": 649
   },
   {
     "day": "fri",
@@ -24158,7 +24084,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "67/35",
-    "sessionIndex": 652
+    "sessionIndex": 650
   },
   {
     "day": "saturday",
@@ -24195,7 +24121,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "67/35",
-    "sessionIndex": 653
+    "sessionIndex": 651
   },
   {
     "day": "tuesday",
@@ -24232,7 +24158,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "64/35",
-    "sessionIndex": 654
+    "sessionIndex": 652
   },
   {
     "day": "fri",
@@ -24269,7 +24195,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "64/35",
-    "sessionIndex": 655
+    "sessionIndex": 653
   },
   {
     "day": "tuesday",
@@ -24306,7 +24232,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "65/35",
-    "sessionIndex": 656
+    "sessionIndex": 654
   },
   {
     "day": "thur",
@@ -24343,7 +24269,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/35",
-    "sessionIndex": 657
+    "sessionIndex": 655
   },
   {
     "day": "saturday",
@@ -24380,7 +24306,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/35",
-    "sessionIndex": 658
+    "sessionIndex": 656
   },
   {
     "day": "wed",
@@ -24417,7 +24343,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "70/35",
-    "sessionIndex": 659
+    "sessionIndex": 657
   },
   {
     "day": "wed",
@@ -24454,7 +24380,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "60/35",
-    "sessionIndex": 660
+    "sessionIndex": 658
   },
   {
     "day": "wed",
@@ -24491,7 +24417,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "66/35",
-    "sessionIndex": 661
+    "sessionIndex": 659
   },
   {
     "day": "wed",
@@ -24528,7 +24454,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "66/35",
-    "sessionIndex": 662
+    "sessionIndex": 660
   },
   {
     "day": "fri",
@@ -24565,7 +24491,7 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "66/35",
-    "sessionIndex": 663
+    "sessionIndex": 661
   },
   {
     "day": "saturday",
@@ -24602,6 +24528,80 @@
     "co_schedule_partner_teachers": null,
     "co_schedule_info": "Single session",
     "capacity_info": "32/35",
-    "sessionIndex": 2003
+    "sessionIndex": 662
+  },
+  {
+    "day": "fri",
+    "session_name": "L5",
+    "time_range": "3:00 - 4:40",
+    "course_instance_id": "526",
+    "course_code": "CS23634",
+    "course_code_display": "CS23634 Batch 2",
+    "course_name": "Fundamentals of Generative AI and Prompt Engineering",
+    "practical_hours": 2,
+    "teacher_id": "58",
+    "teacher_name": "Sowmia K R",
+    "staff_code": "103178",
+    "room_id": "184",
+    "room_number": "KFL02",
+    "block": "K Block",
+    "capacity": 35,
+    "student_count": 67,
+    "total_students": 199,
+    "is_batched": 1,
+    "batch_info": "Batch 2",
+    "num_batches": 2,
+    "batch_number": 2,
+    "batch_label": "Batch 2",
+    "schedule_type": "lab",
+    "group_name": "Artificial Intelligence & Machine Learning_S6_G1",
+    "group_index": 1,
+    "department": "Artificial Intelligence & Machine Learning",
+    "semester": 6,
+    "day_pattern": "Monday-Fri",
+    "is_co_scheduled": false,
+    "co_schedule_id": null,
+    "co_schedule_group_size": 1,
+    "co_schedule_partner_teachers": null,
+    "co_schedule_info": "Single session",
+    "capacity_info": "67/35",
+    "sessionIndex": 663
+  },
+  {
+    "day": "fri",
+    "session_name": "L4",
+    "time_range": "1:20 - 3:00",
+    "course_instance_id": "486",
+    "course_code": "AI19P82",
+    "course_code_display": "AI19P82 Batch 1",
+    "course_name": "Business Intelligence and Analytics",
+    "practical_hours": 2,
+    "teacher_id": "46",
+    "teacher_name": "Sangeetha K",
+    "staff_code": "103195",
+    "room_id": "184",
+    "room_number": "KFL02",
+    "block": "K Block",
+    "capacity": 35,
+    "student_count": 70,
+    "total_students": 70,
+    "is_batched": 1,
+    "batch_info": "Batch 1",
+    "num_batches": 2,
+    "batch_number": 1,
+    "batch_label": "Batch 1",
+    "schedule_type": "lab",
+    "group_name": "Artificial Intelligence & Machine Learning_S8_G1",
+    "group_index": 1,
+    "department": "Artificial Intelligence & Machine Learning",
+    "semester": 8,
+    "day_pattern": "Monday-Saturday",
+    "is_co_scheduled": false,
+    "co_schedule_id": null,
+    "co_schedule_group_size": 1,
+    "co_schedule_partner_teachers": null,
+    "co_schedule_info": "Single session",
+    "capacity_info": "70/35",
+    "sessionIndex": 664
   }
 ]

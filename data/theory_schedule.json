@@ -27,7 +27,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 664
+    "sessionIndex": 665
   },
   {
     "day": "wed",
@@ -57,7 +57,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 665
+    "sessionIndex": 666
   },
   {
     "day": "thur",
@@ -83,36 +83,6 @@
     "partner_instance_id": null,
     "group_name": "Aeronautical Engineering_S4_G1",
     "group_index": 1,
-    "department": "Aeronautical Engineering",
-    "semester": 4,
-    "day_pattern": "Tuesday-Saturday",
-    "capacity": 70,
-    "sessionIndex": 666
-  },
-  {
-    "day": "tuesday",
-    "time_slot": "11:00 - 11:50",
-    "slot_index": 3,
-    "course_instance_id": "1012",
-    "course_code": "AE23433",
-    "course_name": "Aircraft Systems and Instruments",
-    "session_type": "Lecture",
-    "session_number": 1,
-    "teacher_id": "9",
-    "teacher_name": "Pradesh S",
-    "staff_code": "130111",
-    "room_id": "53",
-    "room_number": "B211",
-    "block": "B Block",
-    "student_count": 66,
-    "lecture_hours": 3,
-    "tutorial_hours": 0,
-    "schedule_type": "theory",
-    "is_co_scheduled": false,
-    "capacity_info": "66/70",
-    "partner_instance_id": null,
-    "group_name": "Aeronautical Engineering_S4_G2",
-    "group_index": 2,
     "department": "Aeronautical Engineering",
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
@@ -19080,66 +19050,6 @@
     "sessionIndex": 1299
   },
   {
-    "day": "wed",
-    "time_slot": "4:00 - 4:50",
-    "slot_index": 8,
-    "course_instance_id": "1435",
-    "course_code": "CS23633",
-    "course_name": "Cloud Computing",
-    "session_type": "Lecture",
-    "session_number": 2,
-    "teacher_id": "281",
-    "teacher_name": "P Muneeshwari",
-    "staff_code": "101284",
-    "room_id": "11",
-    "room_number": "A204",
-    "block": "A Block",
-    "student_count": 70,
-    "lecture_hours": 2,
-    "tutorial_hours": 0,
-    "schedule_type": "theory",
-    "is_co_scheduled": false,
-    "capacity_info": "70/70",
-    "partner_instance_id": null,
-    "group_name": "Computer Science & Engineering_S6_G3",
-    "group_index": 3,
-    "department": "Computer Science & Engineering",
-    "semester": 6,
-    "day_pattern": "Tuesday-Saturday",
-    "capacity": 70,
-    "sessionIndex": 1300
-  },
-  {
-    "day": "wed",
-    "time_slot": "4:00 - 4:50",
-    "slot_index": 8,
-    "course_instance_id": "1489",
-    "course_code": "CS23631",
-    "course_name": "Compiler Design",
-    "session_type": "Lecture",
-    "session_number": 2,
-    "teacher_id": "285",
-    "teacher_name": "P Kumar",
-    "staff_code": "103003",
-    "room_id": "21",
-    "room_number": "A308",
-    "block": "A Block",
-    "student_count": 70,
-    "lecture_hours": 3,
-    "tutorial_hours": 0,
-    "schedule_type": "theory",
-    "is_co_scheduled": false,
-    "capacity_info": "70/70",
-    "partner_instance_id": null,
-    "group_name": "Computer Science & Engineering_S6_G3",
-    "group_index": 3,
-    "department": "Computer Science & Engineering",
-    "semester": 6,
-    "day_pattern": "Tuesday-Saturday",
-    "capacity": 70,
-    "sessionIndex": 1301
-  },
-  {
     "day": "thur",
     "time_slot": "2:10 - 3:00",
     "slot_index": 6,
@@ -19167,7 +19077,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1302
+    "sessionIndex": 1300
   },
   {
     "day": "thur",
@@ -19197,7 +19107,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1303
+    "sessionIndex": 1301
   },
   {
     "day": "thur",
@@ -19227,7 +19137,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1304
+    "sessionIndex": 1302
   },
   {
     "day": "thur",
@@ -19257,7 +19167,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1305
+    "sessionIndex": 1303
   },
   {
     "day": "saturday",
@@ -19287,7 +19197,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1306
+    "sessionIndex": 1304
   },
   {
     "day": "saturday",
@@ -19317,7 +19227,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1307
+    "sessionIndex": 1305
   },
   {
     "day": "saturday",
@@ -19347,7 +19257,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1308
+    "sessionIndex": 1306
   },
   {
     "day": "saturday",
@@ -19377,7 +19287,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1309
+    "sessionIndex": 1307
   },
   {
     "day": "thur",
@@ -19407,7 +19317,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1310
+    "sessionIndex": 1308
   },
   {
     "day": "thur",
@@ -19437,7 +19347,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1311
+    "sessionIndex": 1309
   },
   {
     "day": "thur",
@@ -19467,7 +19377,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1312
+    "sessionIndex": 1310
   },
   {
     "day": "thur",
@@ -19497,7 +19407,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1313
+    "sessionIndex": 1311
   },
   {
     "day": "thur",
@@ -19527,7 +19437,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1314
+    "sessionIndex": 1312
   },
   {
     "day": "fri",
@@ -19557,7 +19467,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1315
+    "sessionIndex": 1313
   },
   {
     "day": "fri",
@@ -19587,7 +19497,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1316
+    "sessionIndex": 1314
   },
   {
     "day": "saturday",
@@ -19617,7 +19527,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1317
+    "sessionIndex": 1315
   },
   {
     "day": "saturday",
@@ -19647,7 +19557,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1318
+    "sessionIndex": 1316
   },
   {
     "day": "saturday",
@@ -19677,7 +19587,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1319
+    "sessionIndex": 1317
   },
   {
     "day": "saturday",
@@ -19707,7 +19617,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1320
+    "sessionIndex": 1318
   },
   {
     "day": "saturday",
@@ -19737,7 +19647,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1321
+    "sessionIndex": 1319
   },
   {
     "day": "tuesday",
@@ -19767,7 +19677,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1322
+    "sessionIndex": 1320
   },
   {
     "day": "tuesday",
@@ -19797,7 +19707,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1323
+    "sessionIndex": 1321
   },
   {
     "day": "tuesday",
@@ -19827,7 +19737,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1324
+    "sessionIndex": 1322
   },
   {
     "day": "tuesday",
@@ -19857,7 +19767,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1325
+    "sessionIndex": 1323
   },
   {
     "day": "tuesday",
@@ -19887,7 +19797,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1326
+    "sessionIndex": 1324
   },
   {
     "day": "tuesday",
@@ -19917,7 +19827,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1327
+    "sessionIndex": 1325
   },
   {
     "day": "tuesday",
@@ -19947,7 +19857,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1328
+    "sessionIndex": 1326
   },
   {
     "day": "tuesday",
@@ -19977,7 +19887,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1329
+    "sessionIndex": 1327
   },
   {
     "day": "tuesday",
@@ -20007,7 +19917,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1330
+    "sessionIndex": 1328
   },
   {
     "day": "thur",
@@ -20037,7 +19947,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1331
+    "sessionIndex": 1329
   },
   {
     "day": "saturday",
@@ -20067,7 +19977,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1332
+    "sessionIndex": 1330
   },
   {
     "day": "saturday",
@@ -20097,7 +20007,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1333
+    "sessionIndex": 1331
   },
   {
     "day": "saturday",
@@ -20127,7 +20037,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1334
+    "sessionIndex": 1332
   },
   {
     "day": "saturday",
@@ -20157,7 +20067,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1335
+    "sessionIndex": 1333
   },
   {
     "day": "saturday",
@@ -20187,7 +20097,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1336
+    "sessionIndex": 1334
   },
   {
     "day": "saturday",
@@ -20217,7 +20127,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1337
+    "sessionIndex": 1335
   },
   {
     "day": "tuesday",
@@ -20247,7 +20157,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1338
+    "sessionIndex": 1336
   },
   {
     "day": "tuesday",
@@ -20277,7 +20187,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1339
+    "sessionIndex": 1337
   },
   {
     "day": "tuesday",
@@ -20307,7 +20217,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1340
+    "sessionIndex": 1338
   },
   {
     "day": "tuesday",
@@ -20337,7 +20247,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1341
+    "sessionIndex": 1339
   },
   {
     "day": "wed",
@@ -20367,7 +20277,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1342
+    "sessionIndex": 1340
   },
   {
     "day": "wed",
@@ -20397,7 +20307,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1343
+    "sessionIndex": 1341
   },
   {
     "day": "fri",
@@ -20427,7 +20337,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1344
+    "sessionIndex": 1342
   },
   {
     "day": "fri",
@@ -20457,7 +20367,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1345
+    "sessionIndex": 1343
   },
   {
     "day": "saturday",
@@ -20487,7 +20397,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1346
+    "sessionIndex": 1344
   },
   {
     "day": "saturday",
@@ -20517,7 +20427,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1347
+    "sessionIndex": 1345
   },
   {
     "day": "saturday",
@@ -20547,7 +20457,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1348
+    "sessionIndex": 1346
   },
   {
     "day": "saturday",
@@ -20577,7 +20487,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1349
+    "sessionIndex": 1347
   },
   {
     "day": "thur",
@@ -20607,7 +20517,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1350
+    "sessionIndex": 1348
   },
   {
     "day": "thur",
@@ -20637,7 +20547,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1351
+    "sessionIndex": 1349
   },
   {
     "day": "fri",
@@ -20667,7 +20577,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1352
+    "sessionIndex": 1350
   },
   {
     "day": "fri",
@@ -20697,7 +20607,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1353
+    "sessionIndex": 1351
   },
   {
     "day": "saturday",
@@ -20727,7 +20637,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1354
+    "sessionIndex": 1352
   },
   {
     "day": "saturday",
@@ -20757,7 +20667,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1355
+    "sessionIndex": 1353
   },
   {
     "day": "tuesday",
@@ -20787,7 +20697,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1356
+    "sessionIndex": 1354
   },
   {
     "day": "tuesday",
@@ -20817,7 +20727,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1357
+    "sessionIndex": 1355
   },
   {
     "day": "thur",
@@ -20847,7 +20757,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1358
+    "sessionIndex": 1356
   },
   {
     "day": "thur",
@@ -20877,7 +20787,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1359
+    "sessionIndex": 1357
   },
   {
     "day": "thur",
@@ -20907,7 +20817,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1360
+    "sessionIndex": 1358
   },
   {
     "day": "thur",
@@ -20937,7 +20847,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1361
+    "sessionIndex": 1359
   },
   {
     "day": "tuesday",
@@ -20967,7 +20877,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1362
+    "sessionIndex": 1360
   },
   {
     "day": "tuesday",
@@ -20997,7 +20907,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1363
+    "sessionIndex": 1361
   },
   {
     "day": "thur",
@@ -21027,7 +20937,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1364
+    "sessionIndex": 1362
   },
   {
     "day": "fri",
@@ -21057,7 +20967,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1365
+    "sessionIndex": 1363
   },
   {
     "day": "fri",
@@ -21087,7 +20997,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1366
+    "sessionIndex": 1364
   },
   {
     "day": "saturday",
@@ -21117,7 +21027,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1367
+    "sessionIndex": 1365
   },
   {
     "day": "thur",
@@ -21147,7 +21057,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1368
+    "sessionIndex": 1366
   },
   {
     "day": "fri",
@@ -21177,7 +21087,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1369
+    "sessionIndex": 1367
   },
   {
     "day": "saturday",
@@ -21207,7 +21117,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1370
+    "sessionIndex": 1368
   },
   {
     "day": "wed",
@@ -21237,7 +21147,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1371
+    "sessionIndex": 1369
   },
   {
     "day": "fri",
@@ -21267,7 +21177,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1372
+    "sessionIndex": 1370
   },
   {
     "day": "saturday",
@@ -21297,7 +21207,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1373
+    "sessionIndex": 1371
   },
   {
     "day": "tuesday",
@@ -21327,7 +21237,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1374
+    "sessionIndex": 1372
   },
   {
     "day": "tuesday",
@@ -21357,7 +21267,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1375
+    "sessionIndex": 1373
   },
   {
     "day": "wed",
@@ -21387,7 +21297,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1376
+    "sessionIndex": 1374
   },
   {
     "day": "fri",
@@ -21417,7 +21327,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1377
+    "sessionIndex": 1375
   },
   {
     "day": "saturday",
@@ -21447,7 +21357,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1378
+    "sessionIndex": 1376
   },
   {
     "day": "saturday",
@@ -21477,7 +21387,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1379
+    "sessionIndex": 1377
   },
   {
     "day": "wed",
@@ -21507,7 +21417,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1380
+    "sessionIndex": 1378
   },
   {
     "day": "wed",
@@ -21537,7 +21447,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1381
+    "sessionIndex": 1379
   },
   {
     "day": "thur",
@@ -21567,7 +21477,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1382
+    "sessionIndex": 1380
   },
   {
     "day": "thur",
@@ -21597,7 +21507,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1383
+    "sessionIndex": 1381
   },
   {
     "day": "tuesday",
@@ -21627,7 +21537,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1384
+    "sessionIndex": 1382
   },
   {
     "day": "tuesday",
@@ -21657,7 +21567,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1385
+    "sessionIndex": 1383
   },
   {
     "day": "tuesday",
@@ -21687,7 +21597,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1386
+    "sessionIndex": 1384
   },
   {
     "day": "tuesday",
@@ -21717,7 +21627,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1387
+    "sessionIndex": 1385
   },
   {
     "day": "wed",
@@ -21747,7 +21657,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1388
+    "sessionIndex": 1386
   },
   {
     "day": "wed",
@@ -21777,7 +21687,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1389
+    "sessionIndex": 1387
   },
   {
     "day": "tuesday",
@@ -21807,7 +21717,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1390
+    "sessionIndex": 1388
   },
   {
     "day": "tuesday",
@@ -21837,7 +21747,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1391
+    "sessionIndex": 1389
   },
   {
     "day": "fri",
@@ -21867,7 +21777,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1392
+    "sessionIndex": 1390
   },
   {
     "day": "fri",
@@ -21897,7 +21807,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1393
+    "sessionIndex": 1391
   },
   {
     "day": "fri",
@@ -21927,7 +21837,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1394
+    "sessionIndex": 1392
   },
   {
     "day": "fri",
@@ -21957,7 +21867,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1395
+    "sessionIndex": 1393
   },
   {
     "day": "tuesday",
@@ -21987,7 +21897,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1396
+    "sessionIndex": 1394
   },
   {
     "day": "tuesday",
@@ -22017,7 +21927,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1397
+    "sessionIndex": 1395
   },
   {
     "day": "thur",
@@ -22047,7 +21957,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1398
+    "sessionIndex": 1396
   },
   {
     "day": "thur",
@@ -22077,7 +21987,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1399
+    "sessionIndex": 1397
   },
   {
     "day": "fri",
@@ -22107,7 +22017,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1400
+    "sessionIndex": 1398
   },
   {
     "day": "tuesday",
@@ -22137,7 +22047,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1401
+    "sessionIndex": 1399
   },
   {
     "day": "tuesday",
@@ -22167,7 +22077,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1402
+    "sessionIndex": 1400
   },
   {
     "day": "fri",
@@ -22197,7 +22107,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1403
+    "sessionIndex": 1401
   },
   {
     "day": "fri",
@@ -22227,7 +22137,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1404
+    "sessionIndex": 1402
   },
   {
     "day": "monday",
@@ -22257,7 +22167,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1405
+    "sessionIndex": 1403
   },
   {
     "day": "monday",
@@ -22287,7 +22197,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1406
+    "sessionIndex": 1404
   },
   {
     "day": "tuesday",
@@ -22317,7 +22227,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1407
+    "sessionIndex": 1405
   },
   {
     "day": "tuesday",
@@ -22347,7 +22257,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1408
+    "sessionIndex": 1406
   },
   {
     "day": "wed",
@@ -22377,7 +22287,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1409
+    "sessionIndex": 1407
   },
   {
     "day": "wed",
@@ -22407,7 +22317,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1410
+    "sessionIndex": 1408
   },
   {
     "day": "tuesday",
@@ -22437,7 +22347,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1411
+    "sessionIndex": 1409
   },
   {
     "day": "tuesday",
@@ -22467,7 +22377,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1412
+    "sessionIndex": 1410
   },
   {
     "day": "thur",
@@ -22497,7 +22407,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1413
+    "sessionIndex": 1411
   },
   {
     "day": "thur",
@@ -22527,7 +22437,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1414
+    "sessionIndex": 1412
   },
   {
     "day": "fri",
@@ -22557,7 +22467,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1415
+    "sessionIndex": 1413
   },
   {
     "day": "fri",
@@ -22587,7 +22497,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1416
+    "sessionIndex": 1414
   },
   {
     "day": "monday",
@@ -22617,7 +22527,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1417
+    "sessionIndex": 1415
   },
   {
     "day": "monday",
@@ -22647,7 +22557,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1418
+    "sessionIndex": 1416
   },
   {
     "day": "monday",
@@ -22677,7 +22587,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1419
+    "sessionIndex": 1417
   },
   {
     "day": "monday",
@@ -22707,7 +22617,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1420
+    "sessionIndex": 1418
   },
   {
     "day": "tuesday",
@@ -22737,7 +22647,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1421
+    "sessionIndex": 1419
   },
   {
     "day": "tuesday",
@@ -22767,7 +22677,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1422
+    "sessionIndex": 1420
   },
   {
     "day": "tuesday",
@@ -22797,7 +22707,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1423
+    "sessionIndex": 1421
   },
   {
     "day": "tuesday",
@@ -22827,7 +22737,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1424
+    "sessionIndex": 1422
   },
   {
     "day": "tuesday",
@@ -22857,7 +22767,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1425
+    "sessionIndex": 1423
   },
   {
     "day": "tuesday",
@@ -22887,7 +22797,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1426
+    "sessionIndex": 1424
   },
   {
     "day": "wed",
@@ -22917,7 +22827,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1427
+    "sessionIndex": 1425
   },
   {
     "day": "wed",
@@ -22947,7 +22857,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1428
+    "sessionIndex": 1426
   },
   {
     "day": "monday",
@@ -22977,7 +22887,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1429
+    "sessionIndex": 1427
   },
   {
     "day": "monday",
@@ -23007,7 +22917,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1430
+    "sessionIndex": 1428
   },
   {
     "day": "monday",
@@ -23037,7 +22947,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1431
+    "sessionIndex": 1429
   },
   {
     "day": "fri",
@@ -23067,7 +22977,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1432
+    "sessionIndex": 1430
   },
   {
     "day": "fri",
@@ -23097,7 +23007,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1433
+    "sessionIndex": 1431
   },
   {
     "day": "fri",
@@ -23127,7 +23037,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1434
+    "sessionIndex": 1432
   },
   {
     "day": "fri",
@@ -23157,7 +23067,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1435
+    "sessionIndex": 1433
   },
   {
     "day": "fri",
@@ -23187,7 +23097,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1436
+    "sessionIndex": 1434
   },
   {
     "day": "fri",
@@ -23217,7 +23127,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1437
+    "sessionIndex": 1435
   },
   {
     "day": "wed",
@@ -23247,7 +23157,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1438
+    "sessionIndex": 1436
   },
   {
     "day": "fri",
@@ -23277,7 +23187,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1439
+    "sessionIndex": 1437
   },
   {
     "day": "saturday",
@@ -23307,7 +23217,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1440
+    "sessionIndex": 1438
   },
   {
     "day": "tuesday",
@@ -23337,7 +23247,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1441
+    "sessionIndex": 1439
   },
   {
     "day": "tuesday",
@@ -23367,7 +23277,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1442
+    "sessionIndex": 1440
   },
   {
     "day": "tuesday",
@@ -23397,7 +23307,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1443
+    "sessionIndex": 1441
   },
   {
     "day": "tuesday",
@@ -23427,7 +23337,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1444
+    "sessionIndex": 1442
   },
   {
     "day": "tuesday",
@@ -23457,7 +23367,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1445
+    "sessionIndex": 1443
   },
   {
     "day": "tuesday",
@@ -23487,7 +23397,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1446
+    "sessionIndex": 1444
   },
   {
     "day": "tuesday",
@@ -23517,7 +23427,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1447
+    "sessionIndex": 1445
   },
   {
     "day": "wed",
@@ -23547,7 +23457,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1448
+    "sessionIndex": 1446
   },
   {
     "day": "wed",
@@ -23577,7 +23487,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1449
+    "sessionIndex": 1447
   },
   {
     "day": "wed",
@@ -23607,7 +23517,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1450
+    "sessionIndex": 1448
   },
   {
     "day": "wed",
@@ -23637,7 +23547,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1451
+    "sessionIndex": 1449
   },
   {
     "day": "wed",
@@ -23667,7 +23577,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1452
+    "sessionIndex": 1450
   },
   {
     "day": "wed",
@@ -23697,7 +23607,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1453
+    "sessionIndex": 1451
   },
   {
     "day": "wed",
@@ -23727,7 +23637,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1454
+    "sessionIndex": 1452
   },
   {
     "day": "saturday",
@@ -23757,7 +23667,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1455
+    "sessionIndex": 1453
   },
   {
     "day": "saturday",
@@ -23787,7 +23697,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1456
+    "sessionIndex": 1454
   },
   {
     "day": "saturday",
@@ -23817,7 +23727,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1457
+    "sessionIndex": 1455
   },
   {
     "day": "saturday",
@@ -23847,7 +23757,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1458
+    "sessionIndex": 1456
   },
   {
     "day": "tuesday",
@@ -23877,7 +23787,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1459
+    "sessionIndex": 1457
   },
   {
     "day": "tuesday",
@@ -23907,7 +23817,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1460
+    "sessionIndex": 1458
   },
   {
     "day": "tuesday",
@@ -23937,7 +23847,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1461
+    "sessionIndex": 1459
   },
   {
     "day": "tuesday",
@@ -23967,7 +23877,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1462
+    "sessionIndex": 1460
   },
   {
     "day": "tuesday",
@@ -23997,7 +23907,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1463
+    "sessionIndex": 1461
   },
   {
     "day": "thur",
@@ -24027,7 +23937,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1464
+    "sessionIndex": 1462
   },
   {
     "day": "thur",
@@ -24057,7 +23967,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1465
+    "sessionIndex": 1463
   },
   {
     "day": "thur",
@@ -24087,7 +23997,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1466
+    "sessionIndex": 1464
   },
   {
     "day": "thur",
@@ -24117,7 +24027,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1467
+    "sessionIndex": 1465
   },
   {
     "day": "thur",
@@ -24147,7 +24057,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1468
+    "sessionIndex": 1466
   },
   {
     "day": "saturday",
@@ -24177,7 +24087,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1469
+    "sessionIndex": 1467
   },
   {
     "day": "saturday",
@@ -24207,7 +24117,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1470
+    "sessionIndex": 1468
   },
   {
     "day": "saturday",
@@ -24237,7 +24147,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1471
+    "sessionIndex": 1469
   },
   {
     "day": "saturday",
@@ -24267,7 +24177,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1472
+    "sessionIndex": 1470
   },
   {
     "day": "saturday",
@@ -24297,7 +24207,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1473
+    "sessionIndex": 1471
   },
   {
     "day": "wed",
@@ -24327,7 +24237,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1474
+    "sessionIndex": 1472
   },
   {
     "day": "wed",
@@ -24357,7 +24267,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1475
+    "sessionIndex": 1473
   },
   {
     "day": "wed",
@@ -24387,7 +24297,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1476
+    "sessionIndex": 1474
   },
   {
     "day": "wed",
@@ -24417,7 +24327,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1477
+    "sessionIndex": 1475
   },
   {
     "day": "wed",
@@ -24447,7 +24357,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1478
+    "sessionIndex": 1476
   },
   {
     "day": "wed",
@@ -24477,7 +24387,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1479
+    "sessionIndex": 1477
   },
   {
     "day": "thur",
@@ -24507,7 +24417,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1480
+    "sessionIndex": 1478
   },
   {
     "day": "thur",
@@ -24537,7 +24447,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1481
+    "sessionIndex": 1479
   },
   {
     "day": "thur",
@@ -24567,7 +24477,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1482
+    "sessionIndex": 1480
   },
   {
     "day": "thur",
@@ -24597,7 +24507,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1483
+    "sessionIndex": 1481
   },
   {
     "day": "thur",
@@ -24627,7 +24537,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1484
+    "sessionIndex": 1482
   },
   {
     "day": "thur",
@@ -24657,7 +24567,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1485
+    "sessionIndex": 1483
   },
   {
     "day": "fri",
@@ -24687,7 +24597,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1486
+    "sessionIndex": 1484
   },
   {
     "day": "fri",
@@ -24717,7 +24627,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1487
+    "sessionIndex": 1485
   },
   {
     "day": "fri",
@@ -24747,7 +24657,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1488
+    "sessionIndex": 1486
   },
   {
     "day": "fri",
@@ -24777,7 +24687,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1489
+    "sessionIndex": 1487
   },
   {
     "day": "fri",
@@ -24807,7 +24717,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1490
+    "sessionIndex": 1488
   },
   {
     "day": "fri",
@@ -24837,7 +24747,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1491
+    "sessionIndex": 1489
   },
   {
     "day": "thur",
@@ -24867,7 +24777,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1492
+    "sessionIndex": 1490
   },
   {
     "day": "thur",
@@ -24897,7 +24807,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1493
+    "sessionIndex": 1491
   },
   {
     "day": "thur",
@@ -24927,7 +24837,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1494
+    "sessionIndex": 1492
   },
   {
     "day": "thur",
@@ -24957,7 +24867,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1495
+    "sessionIndex": 1493
   },
   {
     "day": "thur",
@@ -24987,7 +24897,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1496
+    "sessionIndex": 1494
   },
   {
     "day": "thur",
@@ -25017,7 +24927,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1497
+    "sessionIndex": 1495
   },
   {
     "day": "thur",
@@ -25047,7 +24957,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1498
+    "sessionIndex": 1496
   },
   {
     "day": "thur",
@@ -25077,7 +24987,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1499
+    "sessionIndex": 1497
   },
   {
     "day": "thur",
@@ -25107,7 +25017,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1500
+    "sessionIndex": 1498
   },
   {
     "day": "thur",
@@ -25137,7 +25047,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1501
+    "sessionIndex": 1499
   },
   {
     "day": "thur",
@@ -25167,7 +25077,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1502
+    "sessionIndex": 1500
   },
   {
     "day": "thur",
@@ -25197,7 +25107,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1503
+    "sessionIndex": 1501
   },
   {
     "day": "fri",
@@ -25227,7 +25137,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1504
+    "sessionIndex": 1502
   },
   {
     "day": "fri",
@@ -25257,7 +25167,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1505
+    "sessionIndex": 1503
   },
   {
     "day": "fri",
@@ -25287,7 +25197,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1506
+    "sessionIndex": 1504
   },
   {
     "day": "fri",
@@ -25317,7 +25227,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1507
+    "sessionIndex": 1505
   },
   {
     "day": "fri",
@@ -25347,7 +25257,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1508
+    "sessionIndex": 1506
   },
   {
     "day": "fri",
@@ -25377,7 +25287,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1509
+    "sessionIndex": 1507
   },
   {
     "day": "wed",
@@ -25407,7 +25317,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1510
+    "sessionIndex": 1508
   },
   {
     "day": "wed",
@@ -25437,7 +25347,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1511
+    "sessionIndex": 1509
   },
   {
     "day": "wed",
@@ -25467,7 +25377,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1512
+    "sessionIndex": 1510
   },
   {
     "day": "wed",
@@ -25497,7 +25407,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1513
+    "sessionIndex": 1511
   },
   {
     "day": "wed",
@@ -25527,7 +25437,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1514
+    "sessionIndex": 1512
   },
   {
     "day": "wed",
@@ -25557,7 +25467,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1515
+    "sessionIndex": 1513
   },
   {
     "day": "thur",
@@ -25587,7 +25497,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1516
+    "sessionIndex": 1514
   },
   {
     "day": "thur",
@@ -25617,7 +25527,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1517
+    "sessionIndex": 1515
   },
   {
     "day": "thur",
@@ -25647,7 +25557,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1518
+    "sessionIndex": 1516
   },
   {
     "day": "thur",
@@ -25677,7 +25587,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1519
+    "sessionIndex": 1517
   },
   {
     "day": "thur",
@@ -25707,7 +25617,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1520
+    "sessionIndex": 1518
   },
   {
     "day": "thur",
@@ -25737,7 +25647,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1521
+    "sessionIndex": 1519
   },
   {
     "day": "fri",
@@ -25767,7 +25677,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1522
+    "sessionIndex": 1520
   },
   {
     "day": "fri",
@@ -25797,7 +25707,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1523
+    "sessionIndex": 1521
   },
   {
     "day": "fri",
@@ -25827,7 +25737,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1524
+    "sessionIndex": 1522
   },
   {
     "day": "fri",
@@ -25857,7 +25767,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1525
+    "sessionIndex": 1523
   },
   {
     "day": "fri",
@@ -25887,7 +25797,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1526
+    "sessionIndex": 1524
   },
   {
     "day": "fri",
@@ -25917,7 +25827,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1527
+    "sessionIndex": 1525
   },
   {
     "day": "wed",
@@ -25947,7 +25857,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1528
+    "sessionIndex": 1526
   },
   {
     "day": "wed",
@@ -25977,7 +25887,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1529
+    "sessionIndex": 1527
   },
   {
     "day": "wed",
@@ -26007,7 +25917,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1530
+    "sessionIndex": 1528
   },
   {
     "day": "thur",
@@ -26037,7 +25947,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1531
+    "sessionIndex": 1529
   },
   {
     "day": "thur",
@@ -26067,7 +25977,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1532
+    "sessionIndex": 1530
   },
   {
     "day": "thur",
@@ -26097,7 +26007,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1533
+    "sessionIndex": 1531
   },
   {
     "day": "fri",
@@ -26127,7 +26037,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1534
+    "sessionIndex": 1532
   },
   {
     "day": "fri",
@@ -26157,7 +26067,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1535
+    "sessionIndex": 1533
   },
   {
     "day": "fri",
@@ -26187,7 +26097,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1536
+    "sessionIndex": 1534
   },
   {
     "day": "fri",
@@ -26217,7 +26127,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1537
+    "sessionIndex": 1535
   },
   {
     "day": "fri",
@@ -26247,7 +26157,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1538
+    "sessionIndex": 1536
   },
   {
     "day": "fri",
@@ -26277,7 +26187,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1539
+    "sessionIndex": 1537
   },
   {
     "day": "saturday",
@@ -26307,7 +26217,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1540
+    "sessionIndex": 1538
   },
   {
     "day": "saturday",
@@ -26337,7 +26247,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1541
+    "sessionIndex": 1539
   },
   {
     "day": "saturday",
@@ -26367,7 +26277,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1542
+    "sessionIndex": 1540
   },
   {
     "day": "saturday",
@@ -26397,7 +26307,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1543
+    "sessionIndex": 1541
   },
   {
     "day": "fri",
@@ -26427,7 +26337,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1544
+    "sessionIndex": 1542
   },
   {
     "day": "fri",
@@ -26457,7 +26367,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1545
+    "sessionIndex": 1543
   },
   {
     "day": "fri",
@@ -26487,7 +26397,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1546
+    "sessionIndex": 1544
   },
   {
     "day": "fri",
@@ -26517,7 +26427,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1547
+    "sessionIndex": 1545
   },
   {
     "day": "tuesday",
@@ -26547,7 +26457,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1548
+    "sessionIndex": 1546
   },
   {
     "day": "wed",
@@ -26577,7 +26487,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1549
+    "sessionIndex": 1547
   },
   {
     "day": "wed",
@@ -26607,7 +26517,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1550
+    "sessionIndex": 1548
   },
   {
     "day": "wed",
@@ -26637,7 +26547,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1551
+    "sessionIndex": 1549
   },
   {
     "day": "thur",
@@ -26667,7 +26577,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1552
+    "sessionIndex": 1550
   },
   {
     "day": "thur",
@@ -26697,7 +26607,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1553
+    "sessionIndex": 1551
   },
   {
     "day": "thur",
@@ -26727,7 +26637,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1554
+    "sessionIndex": 1552
   },
   {
     "day": "saturday",
@@ -26757,7 +26667,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1555
+    "sessionIndex": 1553
   },
   {
     "day": "saturday",
@@ -26787,7 +26697,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1556
+    "sessionIndex": 1554
   },
   {
     "day": "saturday",
@@ -26817,7 +26727,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1557
+    "sessionIndex": 1555
   },
   {
     "day": "saturday",
@@ -26847,7 +26757,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1558
+    "sessionIndex": 1556
   },
   {
     "day": "saturday",
@@ -26877,7 +26787,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1559
+    "sessionIndex": 1557
   },
   {
     "day": "wed",
@@ -26907,7 +26817,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1560
+    "sessionIndex": 1558
   },
   {
     "day": "wed",
@@ -26937,7 +26847,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1561
+    "sessionIndex": 1559
   },
   {
     "day": "wed",
@@ -26967,7 +26877,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1562
+    "sessionIndex": 1560
   },
   {
     "day": "wed",
@@ -26997,7 +26907,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1563
+    "sessionIndex": 1561
   },
   {
     "day": "thur",
@@ -27027,7 +26937,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1564
+    "sessionIndex": 1562
   },
   {
     "day": "thur",
@@ -27057,7 +26967,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1565
+    "sessionIndex": 1563
   },
   {
     "day": "thur",
@@ -27087,7 +26997,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1566
+    "sessionIndex": 1564
   },
   {
     "day": "thur",
@@ -27117,7 +27027,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1567
+    "sessionIndex": 1565
   },
   {
     "day": "tuesday",
@@ -27147,7 +27057,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1568
+    "sessionIndex": 1566
   },
   {
     "day": "tuesday",
@@ -27177,7 +27087,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1569
+    "sessionIndex": 1567
   },
   {
     "day": "tuesday",
@@ -27207,7 +27117,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1570
+    "sessionIndex": 1568
   },
   {
     "day": "tuesday",
@@ -27237,7 +27147,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1571
+    "sessionIndex": 1569
   },
   {
     "day": "wed",
@@ -27253,6 +27163,66 @@
     "staff_code": "102101",
     "room_id": "22",
     "room_number": "A309",
+    "block": "A Block",
+    "student_count": 68,
+    "lecture_hours": 4,
+    "tutorial_hours": 0,
+    "schedule_type": "theory",
+    "is_co_scheduled": false,
+    "capacity_info": "68/70",
+    "partner_instance_id": null,
+    "group_name": "Electronics & Communication Engineering_S6_G5",
+    "group_index": 5,
+    "department": "Electronics & Communication Engineering",
+    "semester": 6,
+    "day_pattern": "Tuesday-Saturday",
+    "capacity": 70,
+    "sessionIndex": 1570
+  },
+  {
+    "day": "wed",
+    "time_slot": "8:00 - 8:50",
+    "slot_index": 0,
+    "course_instance_id": "496",
+    "course_code": "GE23627",
+    "course_name": "Design Thinking and Innovation",
+    "session_type": "Lecture",
+    "session_number": 1,
+    "teacher_id": "361",
+    "teacher_name": "Gururaj D",
+    "staff_code": "102143",
+    "room_id": "18",
+    "room_number": "A303",
+    "block": "A Block",
+    "student_count": 68,
+    "lecture_hours": 4,
+    "tutorial_hours": 0,
+    "schedule_type": "theory",
+    "is_co_scheduled": false,
+    "capacity_info": "68/70",
+    "partner_instance_id": null,
+    "group_name": "Electronics & Communication Engineering_S6_G5",
+    "group_index": 5,
+    "department": "Electronics & Communication Engineering",
+    "semester": 6,
+    "day_pattern": "Tuesday-Saturday",
+    "capacity": 70,
+    "sessionIndex": 1571
+  },
+  {
+    "day": "wed",
+    "time_slot": "8:00 - 8:50",
+    "slot_index": 0,
+    "course_instance_id": "497",
+    "course_code": "GE23627",
+    "course_name": "Design Thinking and Innovation",
+    "session_type": "Lecture",
+    "session_number": 1,
+    "teacher_id": "353",
+    "teacher_name": "Shaik Thasleem Bhanu",
+    "staff_code": "102121",
+    "room_id": "19",
+    "room_number": "A304",
     "block": "A Block",
     "student_count": 68,
     "lecture_hours": 4,
@@ -27273,66 +27243,6 @@
     "day": "wed",
     "time_slot": "8:00 - 8:50",
     "slot_index": 0,
-    "course_instance_id": "496",
-    "course_code": "GE23627",
-    "course_name": "Design Thinking and Innovation",
-    "session_type": "Lecture",
-    "session_number": 1,
-    "teacher_id": "361",
-    "teacher_name": "Gururaj D",
-    "staff_code": "102143",
-    "room_id": "18",
-    "room_number": "A303",
-    "block": "A Block",
-    "student_count": 68,
-    "lecture_hours": 4,
-    "tutorial_hours": 0,
-    "schedule_type": "theory",
-    "is_co_scheduled": false,
-    "capacity_info": "68/70",
-    "partner_instance_id": null,
-    "group_name": "Electronics & Communication Engineering_S6_G5",
-    "group_index": 5,
-    "department": "Electronics & Communication Engineering",
-    "semester": 6,
-    "day_pattern": "Tuesday-Saturday",
-    "capacity": 70,
-    "sessionIndex": 1573
-  },
-  {
-    "day": "wed",
-    "time_slot": "8:00 - 8:50",
-    "slot_index": 0,
-    "course_instance_id": "497",
-    "course_code": "GE23627",
-    "course_name": "Design Thinking and Innovation",
-    "session_type": "Lecture",
-    "session_number": 1,
-    "teacher_id": "353",
-    "teacher_name": "Shaik Thasleem Bhanu",
-    "staff_code": "102121",
-    "room_id": "19",
-    "room_number": "A304",
-    "block": "A Block",
-    "student_count": 68,
-    "lecture_hours": 4,
-    "tutorial_hours": 0,
-    "schedule_type": "theory",
-    "is_co_scheduled": false,
-    "capacity_info": "68/70",
-    "partner_instance_id": null,
-    "group_name": "Electronics & Communication Engineering_S6_G5",
-    "group_index": 5,
-    "department": "Electronics & Communication Engineering",
-    "semester": 6,
-    "day_pattern": "Tuesday-Saturday",
-    "capacity": 70,
-    "sessionIndex": 1574
-  },
-  {
-    "day": "wed",
-    "time_slot": "8:00 - 8:50",
-    "slot_index": 0,
     "course_instance_id": "499",
     "course_code": "GE23627",
     "course_name": "Design Thinking and Innovation",
@@ -27357,7 +27267,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1575
+    "sessionIndex": 1573
   },
   {
     "day": "wed",
@@ -27373,6 +27283,66 @@
     "staff_code": "102101",
     "room_id": "22",
     "room_number": "A309",
+    "block": "A Block",
+    "student_count": 68,
+    "lecture_hours": 4,
+    "tutorial_hours": 0,
+    "schedule_type": "theory",
+    "is_co_scheduled": false,
+    "capacity_info": "68/70",
+    "partner_instance_id": null,
+    "group_name": "Electronics & Communication Engineering_S6_G5",
+    "group_index": 5,
+    "department": "Electronics & Communication Engineering",
+    "semester": 6,
+    "day_pattern": "Tuesday-Saturday",
+    "capacity": 70,
+    "sessionIndex": 1574
+  },
+  {
+    "day": "wed",
+    "time_slot": "9:00 - 9:50",
+    "slot_index": 1,
+    "course_instance_id": "496",
+    "course_code": "GE23627",
+    "course_name": "Design Thinking and Innovation",
+    "session_type": "Lecture",
+    "session_number": 2,
+    "teacher_id": "361",
+    "teacher_name": "Gururaj D",
+    "staff_code": "102143",
+    "room_id": "18",
+    "room_number": "A303",
+    "block": "A Block",
+    "student_count": 68,
+    "lecture_hours": 4,
+    "tutorial_hours": 0,
+    "schedule_type": "theory",
+    "is_co_scheduled": false,
+    "capacity_info": "68/70",
+    "partner_instance_id": null,
+    "group_name": "Electronics & Communication Engineering_S6_G5",
+    "group_index": 5,
+    "department": "Electronics & Communication Engineering",
+    "semester": 6,
+    "day_pattern": "Tuesday-Saturday",
+    "capacity": 70,
+    "sessionIndex": 1575
+  },
+  {
+    "day": "wed",
+    "time_slot": "9:00 - 9:50",
+    "slot_index": 1,
+    "course_instance_id": "497",
+    "course_code": "GE23627",
+    "course_name": "Design Thinking and Innovation",
+    "session_type": "Lecture",
+    "session_number": 2,
+    "teacher_id": "353",
+    "teacher_name": "Shaik Thasleem Bhanu",
+    "staff_code": "102121",
+    "room_id": "19",
+    "room_number": "A304",
     "block": "A Block",
     "student_count": 68,
     "lecture_hours": 4,
@@ -27393,66 +27363,6 @@
     "day": "wed",
     "time_slot": "9:00 - 9:50",
     "slot_index": 1,
-    "course_instance_id": "496",
-    "course_code": "GE23627",
-    "course_name": "Design Thinking and Innovation",
-    "session_type": "Lecture",
-    "session_number": 2,
-    "teacher_id": "361",
-    "teacher_name": "Gururaj D",
-    "staff_code": "102143",
-    "room_id": "18",
-    "room_number": "A303",
-    "block": "A Block",
-    "student_count": 68,
-    "lecture_hours": 4,
-    "tutorial_hours": 0,
-    "schedule_type": "theory",
-    "is_co_scheduled": false,
-    "capacity_info": "68/70",
-    "partner_instance_id": null,
-    "group_name": "Electronics & Communication Engineering_S6_G5",
-    "group_index": 5,
-    "department": "Electronics & Communication Engineering",
-    "semester": 6,
-    "day_pattern": "Tuesday-Saturday",
-    "capacity": 70,
-    "sessionIndex": 1577
-  },
-  {
-    "day": "wed",
-    "time_slot": "9:00 - 9:50",
-    "slot_index": 1,
-    "course_instance_id": "497",
-    "course_code": "GE23627",
-    "course_name": "Design Thinking and Innovation",
-    "session_type": "Lecture",
-    "session_number": 2,
-    "teacher_id": "353",
-    "teacher_name": "Shaik Thasleem Bhanu",
-    "staff_code": "102121",
-    "room_id": "19",
-    "room_number": "A304",
-    "block": "A Block",
-    "student_count": 68,
-    "lecture_hours": 4,
-    "tutorial_hours": 0,
-    "schedule_type": "theory",
-    "is_co_scheduled": false,
-    "capacity_info": "68/70",
-    "partner_instance_id": null,
-    "group_name": "Electronics & Communication Engineering_S6_G5",
-    "group_index": 5,
-    "department": "Electronics & Communication Engineering",
-    "semester": 6,
-    "day_pattern": "Tuesday-Saturday",
-    "capacity": 70,
-    "sessionIndex": 1578
-  },
-  {
-    "day": "wed",
-    "time_slot": "9:00 - 9:50",
-    "slot_index": 1,
     "course_instance_id": "499",
     "course_code": "GE23627",
     "course_name": "Design Thinking and Innovation",
@@ -27477,7 +27387,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1579
+    "sessionIndex": 1577
   },
   {
     "day": "saturday",
@@ -27493,6 +27403,66 @@
     "staff_code": "102101",
     "room_id": "22",
     "room_number": "A309",
+    "block": "A Block",
+    "student_count": 68,
+    "lecture_hours": 4,
+    "tutorial_hours": 0,
+    "schedule_type": "theory",
+    "is_co_scheduled": false,
+    "capacity_info": "68/70",
+    "partner_instance_id": null,
+    "group_name": "Electronics & Communication Engineering_S6_G5",
+    "group_index": 5,
+    "department": "Electronics & Communication Engineering",
+    "semester": 6,
+    "day_pattern": "Tuesday-Saturday",
+    "capacity": 70,
+    "sessionIndex": 1578
+  },
+  {
+    "day": "saturday",
+    "time_slot": "3:00 - 3:50",
+    "slot_index": 7,
+    "course_instance_id": "496",
+    "course_code": "GE23627",
+    "course_name": "Design Thinking and Innovation",
+    "session_type": "Lecture",
+    "session_number": 3,
+    "teacher_id": "361",
+    "teacher_name": "Gururaj D",
+    "staff_code": "102143",
+    "room_id": "8",
+    "room_number": "A110",
+    "block": "A Block",
+    "student_count": 68,
+    "lecture_hours": 4,
+    "tutorial_hours": 0,
+    "schedule_type": "theory",
+    "is_co_scheduled": false,
+    "capacity_info": "68/70",
+    "partner_instance_id": null,
+    "group_name": "Electronics & Communication Engineering_S6_G5",
+    "group_index": 5,
+    "department": "Electronics & Communication Engineering",
+    "semester": 6,
+    "day_pattern": "Tuesday-Saturday",
+    "capacity": 70,
+    "sessionIndex": 1579
+  },
+  {
+    "day": "saturday",
+    "time_slot": "3:00 - 3:50",
+    "slot_index": 7,
+    "course_instance_id": "497",
+    "course_code": "GE23627",
+    "course_name": "Design Thinking and Innovation",
+    "session_type": "Lecture",
+    "session_number": 3,
+    "teacher_id": "353",
+    "teacher_name": "Shaik Thasleem Bhanu",
+    "staff_code": "102121",
+    "room_id": "9",
+    "room_number": "A202",
     "block": "A Block",
     "student_count": 68,
     "lecture_hours": 4,
@@ -27513,66 +27483,6 @@
     "day": "saturday",
     "time_slot": "3:00 - 3:50",
     "slot_index": 7,
-    "course_instance_id": "496",
-    "course_code": "GE23627",
-    "course_name": "Design Thinking and Innovation",
-    "session_type": "Lecture",
-    "session_number": 3,
-    "teacher_id": "361",
-    "teacher_name": "Gururaj D",
-    "staff_code": "102143",
-    "room_id": "8",
-    "room_number": "A110",
-    "block": "A Block",
-    "student_count": 68,
-    "lecture_hours": 4,
-    "tutorial_hours": 0,
-    "schedule_type": "theory",
-    "is_co_scheduled": false,
-    "capacity_info": "68/70",
-    "partner_instance_id": null,
-    "group_name": "Electronics & Communication Engineering_S6_G5",
-    "group_index": 5,
-    "department": "Electronics & Communication Engineering",
-    "semester": 6,
-    "day_pattern": "Tuesday-Saturday",
-    "capacity": 70,
-    "sessionIndex": 1581
-  },
-  {
-    "day": "saturday",
-    "time_slot": "3:00 - 3:50",
-    "slot_index": 7,
-    "course_instance_id": "497",
-    "course_code": "GE23627",
-    "course_name": "Design Thinking and Innovation",
-    "session_type": "Lecture",
-    "session_number": 3,
-    "teacher_id": "353",
-    "teacher_name": "Shaik Thasleem Bhanu",
-    "staff_code": "102121",
-    "room_id": "9",
-    "room_number": "A202",
-    "block": "A Block",
-    "student_count": 68,
-    "lecture_hours": 4,
-    "tutorial_hours": 0,
-    "schedule_type": "theory",
-    "is_co_scheduled": false,
-    "capacity_info": "68/70",
-    "partner_instance_id": null,
-    "group_name": "Electronics & Communication Engineering_S6_G5",
-    "group_index": 5,
-    "department": "Electronics & Communication Engineering",
-    "semester": 6,
-    "day_pattern": "Tuesday-Saturday",
-    "capacity": 70,
-    "sessionIndex": 1582
-  },
-  {
-    "day": "saturday",
-    "time_slot": "3:00 - 3:50",
-    "slot_index": 7,
     "course_instance_id": "499",
     "course_code": "GE23627",
     "course_name": "Design Thinking and Innovation",
@@ -27597,7 +27507,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1583
+    "sessionIndex": 1581
   },
   {
     "day": "saturday",
@@ -27627,7 +27537,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1584
+    "sessionIndex": 1582
   },
   {
     "day": "saturday",
@@ -27657,7 +27567,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1585
+    "sessionIndex": 1583
   },
   {
     "day": "saturday",
@@ -27687,7 +27597,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1586
+    "sessionIndex": 1584
   },
   {
     "day": "saturday",
@@ -27717,7 +27627,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1587
+    "sessionIndex": 1585
   },
   {
     "day": "tuesday",
@@ -27747,7 +27657,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1588
+    "sessionIndex": 1586
   },
   {
     "day": "tuesday",
@@ -27777,7 +27687,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1589
+    "sessionIndex": 1587
   },
   {
     "day": "saturday",
@@ -27807,7 +27717,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1590
+    "sessionIndex": 1588
   },
   {
     "day": "wed",
@@ -27837,7 +27747,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1591
+    "sessionIndex": 1589
   },
   {
     "day": "saturday",
@@ -27867,7 +27777,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1592
+    "sessionIndex": 1590
   },
   {
     "day": "thur",
@@ -27897,7 +27807,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1593
+    "sessionIndex": 1591
   },
   {
     "day": "fri",
@@ -27927,7 +27837,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1594
+    "sessionIndex": 1592
   },
   {
     "day": "thur",
@@ -27957,7 +27867,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1595
+    "sessionIndex": 1593
   },
   {
     "day": "fri",
@@ -27987,7 +27897,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1596
+    "sessionIndex": 1594
   },
   {
     "day": "saturday",
@@ -28017,7 +27927,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1597
+    "sessionIndex": 1595
   },
   {
     "day": "wed",
@@ -28047,7 +27957,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1598
+    "sessionIndex": 1596
   },
   {
     "day": "thur",
@@ -28077,7 +27987,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1599
+    "sessionIndex": 1597
   },
   {
     "day": "fri",
@@ -28107,7 +28017,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1600
+    "sessionIndex": 1598
   },
   {
     "day": "tuesday",
@@ -28137,7 +28047,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1601
+    "sessionIndex": 1599
   },
   {
     "day": "wed",
@@ -28167,7 +28077,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1602
+    "sessionIndex": 1600
   },
   {
     "day": "thur",
@@ -28197,7 +28107,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1603
+    "sessionIndex": 1601
   },
   {
     "day": "fri",
@@ -28227,7 +28137,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1604
+    "sessionIndex": 1602
   },
   {
     "day": "fri",
@@ -28257,7 +28167,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1605
+    "sessionIndex": 1603
   },
   {
     "day": "saturday",
@@ -28287,7 +28197,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1606
+    "sessionIndex": 1604
   },
   {
     "day": "saturday",
@@ -28317,7 +28227,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1607
+    "sessionIndex": 1605
   },
   {
     "day": "wed",
@@ -28347,7 +28257,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1608
+    "sessionIndex": 1606
   },
   {
     "day": "wed",
@@ -28377,7 +28287,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1609
+    "sessionIndex": 1607
   },
   {
     "day": "thur",
@@ -28407,7 +28317,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1610
+    "sessionIndex": 1608
   },
   {
     "day": "thur",
@@ -28437,7 +28347,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1611
+    "sessionIndex": 1609
   },
   {
     "day": "fri",
@@ -28467,7 +28377,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1612
+    "sessionIndex": 1610
   },
   {
     "day": "saturday",
@@ -28497,7 +28407,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1613
+    "sessionIndex": 1611
   },
   {
     "day": "tuesday",
@@ -28527,7 +28437,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1614
+    "sessionIndex": 1612
   },
   {
     "day": "tuesday",
@@ -28557,7 +28467,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1615
+    "sessionIndex": 1613
   },
   {
     "day": "saturday",
@@ -28587,7 +28497,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1616
+    "sessionIndex": 1614
   },
   {
     "day": "saturday",
@@ -28617,7 +28527,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1617
+    "sessionIndex": 1615
   },
   {
     "day": "saturday",
@@ -28647,7 +28557,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1618
+    "sessionIndex": 1616
   },
   {
     "day": "saturday",
@@ -28677,7 +28587,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1619
+    "sessionIndex": 1617
   },
   {
     "day": "tuesday",
@@ -28707,7 +28617,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1620
+    "sessionIndex": 1618
   },
   {
     "day": "tuesday",
@@ -28737,7 +28647,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1621
+    "sessionIndex": 1619
   },
   {
     "day": "fri",
@@ -28767,7 +28677,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1622
+    "sessionIndex": 1620
   },
   {
     "day": "fri",
@@ -28797,7 +28707,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1623
+    "sessionIndex": 1621
   },
   {
     "day": "saturday",
@@ -28827,7 +28737,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1624
+    "sessionIndex": 1622
   },
   {
     "day": "saturday",
@@ -28857,7 +28767,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1625
+    "sessionIndex": 1623
   },
   {
     "day": "tuesday",
@@ -28887,7 +28797,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1626
+    "sessionIndex": 1624
   },
   {
     "day": "tuesday",
@@ -28917,7 +28827,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1627
+    "sessionIndex": 1625
   },
   {
     "day": "tuesday",
@@ -28947,7 +28857,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1628
+    "sessionIndex": 1626
   },
   {
     "day": "tuesday",
@@ -28977,7 +28887,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1629
+    "sessionIndex": 1627
   },
   {
     "day": "tuesday",
@@ -29007,7 +28917,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1630
+    "sessionIndex": 1628
   },
   {
     "day": "tuesday",
@@ -29037,7 +28947,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1631
+    "sessionIndex": 1629
   },
   {
     "day": "wed",
@@ -29067,7 +28977,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1632
+    "sessionIndex": 1630
   },
   {
     "day": "wed",
@@ -29097,7 +29007,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1633
+    "sessionIndex": 1631
   },
   {
     "day": "wed",
@@ -29127,7 +29037,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1634
+    "sessionIndex": 1632
   },
   {
     "day": "fri",
@@ -29157,7 +29067,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1635
+    "sessionIndex": 1633
   },
   {
     "day": "fri",
@@ -29187,7 +29097,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1636
+    "sessionIndex": 1634
   },
   {
     "day": "monday",
@@ -29217,7 +29127,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1637
+    "sessionIndex": 1635
   },
   {
     "day": "monday",
@@ -29247,7 +29157,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1638
+    "sessionIndex": 1636
   },
   {
     "day": "wed",
@@ -29277,7 +29187,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1639
+    "sessionIndex": 1637
   },
   {
     "day": "wed",
@@ -29307,7 +29217,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1640
+    "sessionIndex": 1638
   },
   {
     "day": "wed",
@@ -29337,7 +29247,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1641
+    "sessionIndex": 1639
   },
   {
     "day": "thur",
@@ -29367,7 +29277,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1642
+    "sessionIndex": 1640
   },
   {
     "day": "thur",
@@ -29397,7 +29307,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1643
+    "sessionIndex": 1641
   },
   {
     "day": "thur",
@@ -29427,7 +29337,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1644
+    "sessionIndex": 1642
   },
   {
     "day": "fri",
@@ -29457,7 +29367,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1645
+    "sessionIndex": 1643
   },
   {
     "day": "fri",
@@ -29487,7 +29397,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1646
+    "sessionIndex": 1644
   },
   {
     "day": "fri",
@@ -29517,7 +29427,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1647
+    "sessionIndex": 1645
   },
   {
     "day": "fri",
@@ -29547,7 +29457,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1648
+    "sessionIndex": 1646
   },
   {
     "day": "monday",
@@ -29577,7 +29487,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1649
+    "sessionIndex": 1647
   },
   {
     "day": "thur",
@@ -29607,7 +29517,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1650
+    "sessionIndex": 1648
   },
   {
     "day": "thur",
@@ -29637,7 +29547,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1651
+    "sessionIndex": 1649
   },
   {
     "day": "thur",
@@ -29667,7 +29577,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1652
+    "sessionIndex": 1650
   },
   {
     "day": "thur",
@@ -29697,7 +29607,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1653
+    "sessionIndex": 1651
   },
   {
     "day": "thur",
@@ -29727,7 +29637,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1654
+    "sessionIndex": 1652
   },
   {
     "day": "fri",
@@ -29757,7 +29667,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1655
+    "sessionIndex": 1653
   },
   {
     "day": "fri",
@@ -29787,7 +29697,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1656
+    "sessionIndex": 1654
   },
   {
     "day": "fri",
@@ -29817,7 +29727,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1657
+    "sessionIndex": 1655
   },
   {
     "day": "fri",
@@ -29847,7 +29757,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1658
+    "sessionIndex": 1656
   },
   {
     "day": "tuesday",
@@ -29877,7 +29787,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1659
+    "sessionIndex": 1657
   },
   {
     "day": "tuesday",
@@ -29907,7 +29817,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1660
+    "sessionIndex": 1658
   },
   {
     "day": "thur",
@@ -29937,7 +29847,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1661
+    "sessionIndex": 1659
   },
   {
     "day": "thur",
@@ -29967,7 +29877,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1662
+    "sessionIndex": 1660
   },
   {
     "day": "thur",
@@ -29997,7 +29907,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1663
+    "sessionIndex": 1661
   },
   {
     "day": "fri",
@@ -30027,7 +29937,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1664
+    "sessionIndex": 1662
   },
   {
     "day": "fri",
@@ -30057,7 +29967,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1665
+    "sessionIndex": 1663
   },
   {
     "day": "fri",
@@ -30087,7 +29997,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1666
+    "sessionIndex": 1664
   },
   {
     "day": "fri",
@@ -30117,7 +30027,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1667
+    "sessionIndex": 1665
   },
   {
     "day": "fri",
@@ -30147,7 +30057,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1668
+    "sessionIndex": 1666
   },
   {
     "day": "fri",
@@ -30177,7 +30087,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1669
+    "sessionIndex": 1667
   },
   {
     "day": "fri",
@@ -30207,7 +30117,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1670
+    "sessionIndex": 1668
   },
   {
     "day": "fri",
@@ -30237,7 +30147,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1671
+    "sessionIndex": 1669
   },
   {
     "day": "monday",
@@ -30267,7 +30177,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1672
+    "sessionIndex": 1670
   },
   {
     "day": "monday",
@@ -30297,7 +30207,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1673
+    "sessionIndex": 1671
   },
   {
     "day": "tuesday",
@@ -30327,7 +30237,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1674
+    "sessionIndex": 1672
   },
   {
     "day": "tuesday",
@@ -30357,7 +30267,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1675
+    "sessionIndex": 1673
   },
   {
     "day": "tuesday",
@@ -30387,7 +30297,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1676
+    "sessionIndex": 1674
   },
   {
     "day": "wed",
@@ -30417,7 +30327,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1677
+    "sessionIndex": 1675
   },
   {
     "day": "wed",
@@ -30447,7 +30357,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1678
+    "sessionIndex": 1676
   },
   {
     "day": "monday",
@@ -30477,7 +30387,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1679
+    "sessionIndex": 1677
   },
   {
     "day": "monday",
@@ -30507,7 +30417,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1680
+    "sessionIndex": 1678
   },
   {
     "day": "monday",
@@ -30537,7 +30447,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1681
+    "sessionIndex": 1679
   },
   {
     "day": "monday",
@@ -30567,7 +30477,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1682
+    "sessionIndex": 1680
   },
   {
     "day": "monday",
@@ -30597,7 +30507,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1683
+    "sessionIndex": 1681
   },
   {
     "day": "monday",
@@ -30627,7 +30537,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1684
+    "sessionIndex": 1682
   },
   {
     "day": "wed",
@@ -30657,7 +30567,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1685
+    "sessionIndex": 1683
   },
   {
     "day": "wed",
@@ -30687,7 +30597,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1686
+    "sessionIndex": 1684
   },
   {
     "day": "fri",
@@ -30717,7 +30627,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1687
+    "sessionIndex": 1685
   },
   {
     "day": "fri",
@@ -30747,7 +30657,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1688
+    "sessionIndex": 1686
   },
   {
     "day": "fri",
@@ -30777,7 +30687,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1689
+    "sessionIndex": 1687
   },
   {
     "day": "fri",
@@ -30807,7 +30717,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1690
+    "sessionIndex": 1688
   },
   {
     "day": "tuesday",
@@ -30823,6 +30733,66 @@
     "staff_code": "103200",
     "room_id": "12",
     "room_number": "A205",
+    "block": "A Block",
+    "student_count": 66,
+    "lecture_hours": 4,
+    "tutorial_hours": 0,
+    "schedule_type": "theory",
+    "is_co_scheduled": false,
+    "capacity_info": "66/70",
+    "partner_instance_id": null,
+    "group_name": "Information Technology_S6_G4",
+    "group_index": 4,
+    "department": "Information Technology",
+    "semester": 6,
+    "day_pattern": "Monday-Fri",
+    "capacity": 70,
+    "sessionIndex": 1689
+  },
+  {
+    "day": "tuesday",
+    "time_slot": "11:00 - 11:50",
+    "slot_index": 3,
+    "course_instance_id": "161",
+    "course_code": "GE23627",
+    "course_name": "Design Thinking and Innovation",
+    "session_type": "Lecture",
+    "session_number": 1,
+    "teacher_id": "439",
+    "teacher_name": "Padmini S",
+    "staff_code": "103227",
+    "room_id": "18",
+    "room_number": "A303",
+    "block": "A Block",
+    "student_count": 67,
+    "lecture_hours": 4,
+    "tutorial_hours": 0,
+    "schedule_type": "theory",
+    "is_co_scheduled": false,
+    "capacity_info": "67/70",
+    "partner_instance_id": null,
+    "group_name": "Information Technology_S6_G4",
+    "group_index": 4,
+    "department": "Information Technology",
+    "semester": 6,
+    "day_pattern": "Monday-Fri",
+    "capacity": 70,
+    "sessionIndex": 1690
+  },
+  {
+    "day": "tuesday",
+    "time_slot": "11:00 - 11:50",
+    "slot_index": 3,
+    "course_instance_id": "162",
+    "course_code": "GE23627",
+    "course_name": "Design Thinking and Innovation",
+    "session_type": "Lecture",
+    "session_number": 1,
+    "teacher_id": "442",
+    "teacher_name": "Priyanka D",
+    "staff_code": "103253",
+    "room_id": "19",
+    "room_number": "A304",
     "block": "A Block",
     "student_count": 66,
     "lecture_hours": 4,
@@ -30843,66 +30813,6 @@
     "day": "tuesday",
     "time_slot": "11:00 - 11:50",
     "slot_index": 3,
-    "course_instance_id": "161",
-    "course_code": "GE23627",
-    "course_name": "Design Thinking and Innovation",
-    "session_type": "Lecture",
-    "session_number": 1,
-    "teacher_id": "439",
-    "teacher_name": "Padmini S",
-    "staff_code": "103227",
-    "room_id": "18",
-    "room_number": "A303",
-    "block": "A Block",
-    "student_count": 67,
-    "lecture_hours": 4,
-    "tutorial_hours": 0,
-    "schedule_type": "theory",
-    "is_co_scheduled": false,
-    "capacity_info": "67/70",
-    "partner_instance_id": null,
-    "group_name": "Information Technology_S6_G4",
-    "group_index": 4,
-    "department": "Information Technology",
-    "semester": 6,
-    "day_pattern": "Monday-Fri",
-    "capacity": 70,
-    "sessionIndex": 1692
-  },
-  {
-    "day": "tuesday",
-    "time_slot": "11:00 - 11:50",
-    "slot_index": 3,
-    "course_instance_id": "162",
-    "course_code": "GE23627",
-    "course_name": "Design Thinking and Innovation",
-    "session_type": "Lecture",
-    "session_number": 1,
-    "teacher_id": "442",
-    "teacher_name": "Priyanka D",
-    "staff_code": "103253",
-    "room_id": "19",
-    "room_number": "A304",
-    "block": "A Block",
-    "student_count": 66,
-    "lecture_hours": 4,
-    "tutorial_hours": 0,
-    "schedule_type": "theory",
-    "is_co_scheduled": false,
-    "capacity_info": "66/70",
-    "partner_instance_id": null,
-    "group_name": "Information Technology_S6_G4",
-    "group_index": 4,
-    "department": "Information Technology",
-    "semester": 6,
-    "day_pattern": "Monday-Fri",
-    "capacity": 70,
-    "sessionIndex": 1693
-  },
-  {
-    "day": "tuesday",
-    "time_slot": "11:00 - 11:50",
-    "slot_index": 3,
     "course_instance_id": "163",
     "course_code": "GE23627",
     "course_name": "Design Thinking and Innovation",
@@ -30927,7 +30837,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1694
+    "sessionIndex": 1692
   },
   {
     "day": "tuesday",
@@ -30957,7 +30867,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1695
+    "sessionIndex": 1693
   },
   {
     "day": "tuesday",
@@ -30987,7 +30897,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1696
+    "sessionIndex": 1694
   },
   {
     "day": "tuesday",
@@ -31017,7 +30927,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1697
+    "sessionIndex": 1695
   },
   {
     "day": "tuesday",
@@ -31047,7 +30957,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1698
+    "sessionIndex": 1696
   },
   {
     "day": "fri",
@@ -31063,6 +30973,66 @@
     "staff_code": "103200",
     "room_id": "9",
     "room_number": "A202",
+    "block": "A Block",
+    "student_count": 66,
+    "lecture_hours": 4,
+    "tutorial_hours": 0,
+    "schedule_type": "theory",
+    "is_co_scheduled": false,
+    "capacity_info": "66/70",
+    "partner_instance_id": null,
+    "group_name": "Information Technology_S6_G4",
+    "group_index": 4,
+    "department": "Information Technology",
+    "semester": 6,
+    "day_pattern": "Monday-Fri",
+    "capacity": 70,
+    "sessionIndex": 1697
+  },
+  {
+    "day": "fri",
+    "time_slot": "3:00 - 3:50",
+    "slot_index": 7,
+    "course_instance_id": "161",
+    "course_code": "GE23627",
+    "course_name": "Design Thinking and Innovation",
+    "session_type": "Lecture",
+    "session_number": 3,
+    "teacher_id": "439",
+    "teacher_name": "Padmini S",
+    "staff_code": "103227",
+    "room_id": "24",
+    "room_number": "A311",
+    "block": "A Block",
+    "student_count": 67,
+    "lecture_hours": 4,
+    "tutorial_hours": 0,
+    "schedule_type": "theory",
+    "is_co_scheduled": false,
+    "capacity_info": "67/70",
+    "partner_instance_id": null,
+    "group_name": "Information Technology_S6_G4",
+    "group_index": 4,
+    "department": "Information Technology",
+    "semester": 6,
+    "day_pattern": "Monday-Fri",
+    "capacity": 70,
+    "sessionIndex": 1698
+  },
+  {
+    "day": "fri",
+    "time_slot": "3:00 - 3:50",
+    "slot_index": 7,
+    "course_instance_id": "162",
+    "course_code": "GE23627",
+    "course_name": "Design Thinking and Innovation",
+    "session_type": "Lecture",
+    "session_number": 3,
+    "teacher_id": "442",
+    "teacher_name": "Priyanka D",
+    "staff_code": "103253",
+    "room_id": "8",
+    "room_number": "A110",
     "block": "A Block",
     "student_count": 66,
     "lecture_hours": 4,
@@ -31083,66 +31053,6 @@
     "day": "fri",
     "time_slot": "3:00 - 3:50",
     "slot_index": 7,
-    "course_instance_id": "161",
-    "course_code": "GE23627",
-    "course_name": "Design Thinking and Innovation",
-    "session_type": "Lecture",
-    "session_number": 3,
-    "teacher_id": "439",
-    "teacher_name": "Padmini S",
-    "staff_code": "103227",
-    "room_id": "24",
-    "room_number": "A311",
-    "block": "A Block",
-    "student_count": 67,
-    "lecture_hours": 4,
-    "tutorial_hours": 0,
-    "schedule_type": "theory",
-    "is_co_scheduled": false,
-    "capacity_info": "67/70",
-    "partner_instance_id": null,
-    "group_name": "Information Technology_S6_G4",
-    "group_index": 4,
-    "department": "Information Technology",
-    "semester": 6,
-    "day_pattern": "Monday-Fri",
-    "capacity": 70,
-    "sessionIndex": 1700
-  },
-  {
-    "day": "fri",
-    "time_slot": "3:00 - 3:50",
-    "slot_index": 7,
-    "course_instance_id": "162",
-    "course_code": "GE23627",
-    "course_name": "Design Thinking and Innovation",
-    "session_type": "Lecture",
-    "session_number": 3,
-    "teacher_id": "442",
-    "teacher_name": "Priyanka D",
-    "staff_code": "103253",
-    "room_id": "8",
-    "room_number": "A110",
-    "block": "A Block",
-    "student_count": 66,
-    "lecture_hours": 4,
-    "tutorial_hours": 0,
-    "schedule_type": "theory",
-    "is_co_scheduled": false,
-    "capacity_info": "66/70",
-    "partner_instance_id": null,
-    "group_name": "Information Technology_S6_G4",
-    "group_index": 4,
-    "department": "Information Technology",
-    "semester": 6,
-    "day_pattern": "Monday-Fri",
-    "capacity": 70,
-    "sessionIndex": 1701
-  },
-  {
-    "day": "fri",
-    "time_slot": "3:00 - 3:50",
-    "slot_index": 7,
     "course_instance_id": "163",
     "course_code": "GE23627",
     "course_name": "Design Thinking and Innovation",
@@ -31167,7 +31077,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1702
+    "sessionIndex": 1700
   },
   {
     "day": "fri",
@@ -31197,7 +31107,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1703
+    "sessionIndex": 1701
   },
   {
     "day": "fri",
@@ -31227,7 +31137,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1704
+    "sessionIndex": 1702
   },
   {
     "day": "fri",
@@ -31257,7 +31167,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1705
+    "sessionIndex": 1703
   },
   {
     "day": "fri",
@@ -31287,7 +31197,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1706
+    "sessionIndex": 1704
   },
   {
     "day": "tuesday",
@@ -31317,7 +31227,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1707
+    "sessionIndex": 1705
   },
   {
     "day": "wed",
@@ -31347,7 +31257,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1708
+    "sessionIndex": 1706
   },
   {
     "day": "thur",
@@ -31377,7 +31287,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1709
+    "sessionIndex": 1707
   },
   {
     "day": "thur",
@@ -31407,7 +31317,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1710
+    "sessionIndex": 1708
   },
   {
     "day": "thur",
@@ -31437,7 +31347,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1711
+    "sessionIndex": 1709
   },
   {
     "day": "thur",
@@ -31467,7 +31377,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1712
+    "sessionIndex": 1710
   },
   {
     "day": "thur",
@@ -31497,7 +31407,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1713
+    "sessionIndex": 1711
   },
   {
     "day": "thur",
@@ -31527,7 +31437,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1714
+    "sessionIndex": 1712
   },
   {
     "day": "fri",
@@ -31557,7 +31467,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1715
+    "sessionIndex": 1713
   },
   {
     "day": "fri",
@@ -31587,7 +31497,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1716
+    "sessionIndex": 1714
   },
   {
     "day": "fri",
@@ -31617,7 +31527,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1717
+    "sessionIndex": 1715
   },
   {
     "day": "fri",
@@ -31647,7 +31557,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1718
+    "sessionIndex": 1716
   },
   {
     "day": "wed",
@@ -31677,7 +31587,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1719
+    "sessionIndex": 1717
   },
   {
     "day": "wed",
@@ -31707,7 +31617,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1720
+    "sessionIndex": 1718
   },
   {
     "day": "wed",
@@ -31737,7 +31647,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1721
+    "sessionIndex": 1719
   },
   {
     "day": "wed",
@@ -31767,7 +31677,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1722
+    "sessionIndex": 1720
   },
   {
     "day": "thur",
@@ -31797,7 +31707,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1723
+    "sessionIndex": 1721
   },
   {
     "day": "thur",
@@ -31827,7 +31737,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1724
+    "sessionIndex": 1722
   },
   {
     "day": "thur",
@@ -31857,7 +31767,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1725
+    "sessionIndex": 1723
   },
   {
     "day": "thur",
@@ -31887,7 +31797,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1726
+    "sessionIndex": 1724
   },
   {
     "day": "tuesday",
@@ -31917,7 +31827,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1727
+    "sessionIndex": 1725
   },
   {
     "day": "tuesday",
@@ -31947,7 +31857,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1728
+    "sessionIndex": 1726
   },
   {
     "day": "thur",
@@ -31977,7 +31887,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1729
+    "sessionIndex": 1727
   },
   {
     "day": "thur",
@@ -32007,7 +31917,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1730
+    "sessionIndex": 1728
   },
   {
     "day": "thur",
@@ -32037,7 +31947,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1731
+    "sessionIndex": 1729
   },
   {
     "day": "thur",
@@ -32067,7 +31977,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1732
+    "sessionIndex": 1730
   },
   {
     "day": "fri",
@@ -32097,7 +32007,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1733
+    "sessionIndex": 1731
   },
   {
     "day": "fri",
@@ -32127,7 +32037,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1734
+    "sessionIndex": 1732
   },
   {
     "day": "fri",
@@ -32157,7 +32067,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1735
+    "sessionIndex": 1733
   },
   {
     "day": "fri",
@@ -32187,7 +32097,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1736
+    "sessionIndex": 1734
   },
   {
     "day": "saturday",
@@ -32217,7 +32127,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1737
+    "sessionIndex": 1735
   },
   {
     "day": "saturday",
@@ -32247,7 +32157,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1738
+    "sessionIndex": 1736
   },
   {
     "day": "tuesday",
@@ -32277,7 +32187,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1739
+    "sessionIndex": 1737
   },
   {
     "day": "tuesday",
@@ -32307,7 +32217,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1740
+    "sessionIndex": 1738
   },
   {
     "day": "thur",
@@ -32337,7 +32247,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1741
+    "sessionIndex": 1739
   },
   {
     "day": "thur",
@@ -32367,7 +32277,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1742
+    "sessionIndex": 1740
   },
   {
     "day": "fri",
@@ -32397,7 +32307,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1743
+    "sessionIndex": 1741
   },
   {
     "day": "fri",
@@ -32427,7 +32337,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1744
+    "sessionIndex": 1742
   },
   {
     "day": "tuesday",
@@ -32457,7 +32367,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1745
+    "sessionIndex": 1743
   },
   {
     "day": "tuesday",
@@ -32487,7 +32397,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1746
+    "sessionIndex": 1744
   },
   {
     "day": "wed",
@@ -32517,7 +32427,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1747
+    "sessionIndex": 1745
   },
   {
     "day": "wed",
@@ -32547,7 +32457,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1748
+    "sessionIndex": 1746
   },
   {
     "day": "wed",
@@ -32577,7 +32487,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1749
+    "sessionIndex": 1747
   },
   {
     "day": "wed",
@@ -32607,7 +32517,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1750
+    "sessionIndex": 1748
   },
   {
     "day": "wed",
@@ -32637,7 +32547,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1751
+    "sessionIndex": 1749
   },
   {
     "day": "wed",
@@ -32667,7 +32577,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1752
+    "sessionIndex": 1750
   },
   {
     "day": "thur",
@@ -32697,7 +32607,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1753
+    "sessionIndex": 1751
   },
   {
     "day": "thur",
@@ -32727,7 +32637,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1754
+    "sessionIndex": 1752
   },
   {
     "day": "thur",
@@ -32757,7 +32667,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1755
+    "sessionIndex": 1753
   },
   {
     "day": "thur",
@@ -32787,7 +32697,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1756
+    "sessionIndex": 1754
   },
   {
     "day": "tuesday",
@@ -32817,7 +32727,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1757
+    "sessionIndex": 1755
   },
   {
     "day": "wed",
@@ -32847,7 +32757,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1758
+    "sessionIndex": 1756
   },
   {
     "day": "thur",
@@ -32877,7 +32787,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1759
+    "sessionIndex": 1757
   },
   {
     "day": "thur",
@@ -32907,7 +32817,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1760
+    "sessionIndex": 1758
   },
   {
     "day": "tuesday",
@@ -32937,7 +32847,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1761
+    "sessionIndex": 1759
   },
   {
     "day": "tuesday",
@@ -32967,7 +32877,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1762
+    "sessionIndex": 1760
   },
   {
     "day": "thur",
@@ -32997,7 +32907,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1763
+    "sessionIndex": 1761
   },
   {
     "day": "thur",
@@ -33027,7 +32937,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1764
+    "sessionIndex": 1762
   },
   {
     "day": "fri",
@@ -33057,7 +32967,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1765
+    "sessionIndex": 1763
   },
   {
     "day": "fri",
@@ -33087,7 +32997,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1766
+    "sessionIndex": 1764
   },
   {
     "day": "tuesday",
@@ -33098,6 +33008,66 @@
     "course_name": "Design Thinking and Innovation",
     "session_type": "Lecture",
     "session_number": 1,
+    "teacher_id": "565",
+    "teacher_name": "A Paramasivam",
+    "staff_code": "104209",
+    "room_id": "20",
+    "room_number": "A305",
+    "block": "A Block",
+    "student_count": 66,
+    "lecture_hours": 4,
+    "tutorial_hours": 0,
+    "schedule_type": "theory",
+    "is_co_scheduled": false,
+    "capacity_info": "66/70",
+    "partner_instance_id": null,
+    "group_name": "Mechanical Engineering_S6_G5",
+    "group_index": 5,
+    "department": "Mechanical Engineering",
+    "semester": 6,
+    "day_pattern": "Tuesday-Saturday",
+    "capacity": 70,
+    "sessionIndex": 1765
+  },
+  {
+    "day": "tuesday",
+    "time_slot": "8:00 - 8:50",
+    "slot_index": 0,
+    "course_instance_id": "1231",
+    "course_code": "GE23627",
+    "course_name": "Design Thinking and Innovation",
+    "session_type": "Lecture",
+    "session_number": 1,
+    "teacher_id": "559",
+    "teacher_name": "Pannerselvan S",
+    "staff_code": "104102",
+    "room_id": "23",
+    "room_number": "A310",
+    "block": "A Block",
+    "student_count": 66,
+    "lecture_hours": 4,
+    "tutorial_hours": 0,
+    "schedule_type": "theory",
+    "is_co_scheduled": false,
+    "capacity_info": "66/70",
+    "partner_instance_id": null,
+    "group_name": "Mechanical Engineering_S6_G5",
+    "group_index": 5,
+    "department": "Mechanical Engineering",
+    "semester": 6,
+    "day_pattern": "Tuesday-Saturday",
+    "capacity": 70,
+    "sessionIndex": 1766
+  },
+  {
+    "day": "tuesday",
+    "time_slot": "9:00 - 9:50",
+    "slot_index": 1,
+    "course_instance_id": "1230",
+    "course_code": "GE23627",
+    "course_name": "Design Thinking and Innovation",
+    "session_type": "Lecture",
+    "session_number": 2,
     "teacher_id": "565",
     "teacher_name": "A Paramasivam",
     "staff_code": "104209",
@@ -33121,13 +33091,13 @@
   },
   {
     "day": "tuesday",
-    "time_slot": "8:00 - 8:50",
-    "slot_index": 0,
+    "time_slot": "9:00 - 9:50",
+    "slot_index": 1,
     "course_instance_id": "1231",
     "course_code": "GE23627",
     "course_name": "Design Thinking and Innovation",
     "session_type": "Lecture",
-    "session_number": 1,
+    "session_number": 2,
     "teacher_id": "559",
     "teacher_name": "Pannerselvan S",
     "staff_code": "104102",
@@ -33150,19 +33120,19 @@
     "sessionIndex": 1768
   },
   {
-    "day": "tuesday",
-    "time_slot": "9:00 - 9:50",
-    "slot_index": 1,
+    "day": "saturday",
+    "time_slot": "1:20 - 2:10",
+    "slot_index": 5,
     "course_instance_id": "1230",
     "course_code": "GE23627",
     "course_name": "Design Thinking and Innovation",
     "session_type": "Lecture",
-    "session_number": 2,
+    "session_number": 3,
     "teacher_id": "565",
     "teacher_name": "A Paramasivam",
     "staff_code": "104209",
-    "room_id": "20",
-    "room_number": "A305",
+    "room_id": "9",
+    "room_number": "A202",
     "block": "A Block",
     "student_count": 66,
     "lecture_hours": 4,
@@ -33180,19 +33150,19 @@
     "sessionIndex": 1769
   },
   {
-    "day": "tuesday",
-    "time_slot": "9:00 - 9:50",
-    "slot_index": 1,
+    "day": "saturday",
+    "time_slot": "1:20 - 2:10",
+    "slot_index": 5,
     "course_instance_id": "1231",
     "course_code": "GE23627",
     "course_name": "Design Thinking and Innovation",
     "session_type": "Lecture",
-    "session_number": 2,
+    "session_number": 3,
     "teacher_id": "559",
     "teacher_name": "Pannerselvan S",
     "staff_code": "104102",
-    "room_id": "23",
-    "room_number": "A310",
+    "room_id": "22",
+    "room_number": "A309",
     "block": "A Block",
     "student_count": 66,
     "lecture_hours": 4,
@@ -33211,13 +33181,13 @@
   },
   {
     "day": "saturday",
-    "time_slot": "1:20 - 2:10",
-    "slot_index": 5,
+    "time_slot": "2:10 - 3:00",
+    "slot_index": 6,
     "course_instance_id": "1230",
     "course_code": "GE23627",
     "course_name": "Design Thinking and Innovation",
     "session_type": "Lecture",
-    "session_number": 3,
+    "session_number": 4,
     "teacher_id": "565",
     "teacher_name": "A Paramasivam",
     "staff_code": "104209",
@@ -33241,13 +33211,13 @@
   },
   {
     "day": "saturday",
-    "time_slot": "1:20 - 2:10",
-    "slot_index": 5,
+    "time_slot": "2:10 - 3:00",
+    "slot_index": 6,
     "course_instance_id": "1231",
     "course_code": "GE23627",
     "course_name": "Design Thinking and Innovation",
     "session_type": "Lecture",
-    "session_number": 3,
+    "session_number": 4,
     "teacher_id": "559",
     "teacher_name": "Pannerselvan S",
     "staff_code": "104102",
@@ -33268,66 +33238,6 @@
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
     "sessionIndex": 1772
-  },
-  {
-    "day": "saturday",
-    "time_slot": "2:10 - 3:00",
-    "slot_index": 6,
-    "course_instance_id": "1230",
-    "course_code": "GE23627",
-    "course_name": "Design Thinking and Innovation",
-    "session_type": "Lecture",
-    "session_number": 4,
-    "teacher_id": "565",
-    "teacher_name": "A Paramasivam",
-    "staff_code": "104209",
-    "room_id": "9",
-    "room_number": "A202",
-    "block": "A Block",
-    "student_count": 66,
-    "lecture_hours": 4,
-    "tutorial_hours": 0,
-    "schedule_type": "theory",
-    "is_co_scheduled": false,
-    "capacity_info": "66/70",
-    "partner_instance_id": null,
-    "group_name": "Mechanical Engineering_S6_G5",
-    "group_index": 5,
-    "department": "Mechanical Engineering",
-    "semester": 6,
-    "day_pattern": "Tuesday-Saturday",
-    "capacity": 70,
-    "sessionIndex": 1773
-  },
-  {
-    "day": "saturday",
-    "time_slot": "2:10 - 3:00",
-    "slot_index": 6,
-    "course_instance_id": "1231",
-    "course_code": "GE23627",
-    "course_name": "Design Thinking and Innovation",
-    "session_type": "Lecture",
-    "session_number": 4,
-    "teacher_id": "559",
-    "teacher_name": "Pannerselvan S",
-    "staff_code": "104102",
-    "room_id": "22",
-    "room_number": "A309",
-    "block": "A Block",
-    "student_count": 66,
-    "lecture_hours": 4,
-    "tutorial_hours": 0,
-    "schedule_type": "theory",
-    "is_co_scheduled": false,
-    "capacity_info": "66/70",
-    "partner_instance_id": null,
-    "group_name": "Mechanical Engineering_S6_G5",
-    "group_index": 5,
-    "department": "Mechanical Engineering",
-    "semester": 6,
-    "day_pattern": "Tuesday-Saturday",
-    "capacity": 70,
-    "sessionIndex": 1774
   },
   {
     "day": "wed",
@@ -33357,7 +33267,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1775
+    "sessionIndex": 1773
   },
   {
     "day": "wed",
@@ -33387,7 +33297,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1776
+    "sessionIndex": 1774
   },
   {
     "day": "wed",
@@ -33417,7 +33327,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1777
+    "sessionIndex": 1775
   },
   {
     "day": "wed",
@@ -33447,7 +33357,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1778
+    "sessionIndex": 1776
   },
   {
     "day": "fri",
@@ -33477,7 +33387,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1779
+    "sessionIndex": 1777
   },
   {
     "day": "fri",
@@ -33507,7 +33417,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1780
+    "sessionIndex": 1778
   },
   {
     "day": "tuesday",
@@ -33537,7 +33447,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1781
+    "sessionIndex": 1779
   },
   {
     "day": "tuesday",
@@ -33567,7 +33477,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1782
+    "sessionIndex": 1780
   },
   {
     "day": "tuesday",
@@ -33597,7 +33507,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1783
+    "sessionIndex": 1781
   },
   {
     "day": "tuesday",
@@ -33627,7 +33537,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1784
+    "sessionIndex": 1782
   },
   {
     "day": "thur",
@@ -33657,7 +33567,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1785
+    "sessionIndex": 1783
   },
   {
     "day": "thur",
@@ -33687,7 +33597,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1786
+    "sessionIndex": 1784
   },
   {
     "day": "wed",
@@ -33717,7 +33627,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1787
+    "sessionIndex": 1785
   },
   {
     "day": "fri",
@@ -33747,7 +33657,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1788
+    "sessionIndex": 1786
   },
   {
     "day": "saturday",
@@ -33777,7 +33687,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1789
+    "sessionIndex": 1787
   },
   {
     "day": "saturday",
@@ -33807,7 +33717,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1790
+    "sessionIndex": 1788
   },
   {
     "day": "saturday",
@@ -33837,7 +33747,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1791
+    "sessionIndex": 1789
   },
   {
     "day": "saturday",
@@ -33867,7 +33777,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1792
+    "sessionIndex": 1790
   },
   {
     "day": "saturday",
@@ -33897,7 +33807,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1793
+    "sessionIndex": 1791
   },
   {
     "day": "saturday",
@@ -33927,7 +33837,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1794
+    "sessionIndex": 1792
   },
   {
     "day": "monday",
@@ -33957,7 +33867,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1795
+    "sessionIndex": 1793
   },
   {
     "day": "tuesday",
@@ -33987,7 +33897,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1796
+    "sessionIndex": 1794
   },
   {
     "day": "tuesday",
@@ -34017,7 +33927,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1797
+    "sessionIndex": 1795
   },
   {
     "day": "wed",
@@ -34047,7 +33957,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1798
+    "sessionIndex": 1796
   },
   {
     "day": "monday",
@@ -34077,7 +33987,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1799
+    "sessionIndex": 1797
   },
   {
     "day": "wed",
@@ -34107,7 +34017,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1800
+    "sessionIndex": 1798
   },
   {
     "day": "thur",
@@ -34137,7 +34047,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1801
+    "sessionIndex": 1799
   },
   {
     "day": "tuesday",
@@ -34167,7 +34077,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1802
+    "sessionIndex": 1800
   },
   {
     "day": "wed",
@@ -34197,7 +34107,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1803
+    "sessionIndex": 1801
   },
   {
     "day": "fri",
@@ -34227,7 +34137,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1804
+    "sessionIndex": 1802
   },
   {
     "day": "monday",
@@ -34257,7 +34167,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1805
+    "sessionIndex": 1803
   },
   {
     "day": "monday",
@@ -34287,7 +34197,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1806
+    "sessionIndex": 1804
   },
   {
     "day": "tuesday",
@@ -34317,7 +34227,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1807
+    "sessionIndex": 1805
   },
   {
     "day": "thur",
@@ -34347,7 +34257,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1808
+    "sessionIndex": 1806
   },
   {
     "day": "thur",
@@ -34377,7 +34287,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1809
+    "sessionIndex": 1807
   },
   {
     "day": "tuesday",
@@ -34407,7 +34317,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1810
+    "sessionIndex": 1808
   },
   {
     "day": "thur",
@@ -34437,7 +34347,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1811
+    "sessionIndex": 1809
   },
   {
     "day": "thur",
@@ -34467,7 +34377,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1812
+    "sessionIndex": 1810
   },
   {
     "day": "monday",
@@ -34497,7 +34407,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1813
+    "sessionIndex": 1811
   },
   {
     "day": "thur",
@@ -34527,7 +34437,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1814
+    "sessionIndex": 1812
   },
   {
     "day": "fri",
@@ -34557,7 +34467,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1815
+    "sessionIndex": 1813
   },
   {
     "day": "monday",
@@ -34587,7 +34497,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1816
+    "sessionIndex": 1814
   },
   {
     "day": "tuesday",
@@ -34617,7 +34527,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1817
+    "sessionIndex": 1815
   },
   {
     "day": "wed",
@@ -34647,7 +34557,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1818
+    "sessionIndex": 1816
   },
   {
     "day": "monday",
@@ -34677,7 +34587,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1819
+    "sessionIndex": 1817
   },
   {
     "day": "monday",
@@ -34707,7 +34617,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1820
+    "sessionIndex": 1818
   },
   {
     "day": "fri",
@@ -34737,7 +34647,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1821
+    "sessionIndex": 1819
   },
   {
     "day": "fri",
@@ -34767,7 +34677,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1822
+    "sessionIndex": 1820
   },
   {
     "day": "monday",
@@ -34797,7 +34707,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1823
+    "sessionIndex": 1821
   },
   {
     "day": "monday",
@@ -34827,7 +34737,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1824
+    "sessionIndex": 1822
   },
   {
     "day": "fri",
@@ -34857,7 +34767,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1825
+    "sessionIndex": 1823
   },
   {
     "day": "tuesday",
@@ -34887,7 +34797,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1826
+    "sessionIndex": 1824
   },
   {
     "day": "wed",
@@ -34917,7 +34827,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1827
+    "sessionIndex": 1825
   },
   {
     "day": "thur",
@@ -34947,7 +34857,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1828
+    "sessionIndex": 1826
   },
   {
     "day": "monday",
@@ -34977,7 +34887,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1829
+    "sessionIndex": 1827
   },
   {
     "day": "tuesday",
@@ -35007,7 +34917,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1830
+    "sessionIndex": 1828
   },
   {
     "day": "fri",
@@ -35037,7 +34947,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1831
+    "sessionIndex": 1829
   },
   {
     "day": "thur",
@@ -35067,7 +34977,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1832
+    "sessionIndex": 1830
   },
   {
     "day": "fri",
@@ -35097,7 +35007,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1833
+    "sessionIndex": 1831
   },
   {
     "day": "fri",
@@ -35127,7 +35037,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1834
+    "sessionIndex": 1832
   },
   {
     "day": "monday",
@@ -35157,7 +35067,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1835
+    "sessionIndex": 1833
   },
   {
     "day": "monday",
@@ -35187,7 +35097,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1836
+    "sessionIndex": 1834
   },
   {
     "day": "wed",
@@ -35217,7 +35127,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1837
+    "sessionIndex": 1835
   },
   {
     "day": "fri",
@@ -35247,7 +35157,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1838
+    "sessionIndex": 1836
   },
   {
     "day": "wed",
@@ -35277,7 +35187,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1839
+    "sessionIndex": 1837
   },
   {
     "day": "thur",
@@ -35307,7 +35217,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1840
+    "sessionIndex": 1838
   },
   {
     "day": "fri",
@@ -35337,7 +35247,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1841
+    "sessionIndex": 1839
   },
   {
     "day": "thur",
@@ -35367,7 +35277,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1842
+    "sessionIndex": 1840
   },
   {
     "day": "fri",
@@ -35397,7 +35307,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1843
+    "sessionIndex": 1841
   },
   {
     "day": "monday",
@@ -35427,7 +35337,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1844
+    "sessionIndex": 1842
   },
   {
     "day": "tuesday",
@@ -35457,7 +35367,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1845
+    "sessionIndex": 1843
   },
   {
     "day": "wed",
@@ -35487,7 +35397,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1846
+    "sessionIndex": 1844
   },
   {
     "day": "tuesday",
@@ -35517,7 +35427,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1847
+    "sessionIndex": 1845
   },
   {
     "day": "wed",
@@ -35547,7 +35457,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1848
+    "sessionIndex": 1846
   },
   {
     "day": "thur",
@@ -35577,7 +35487,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1849
+    "sessionIndex": 1847
   },
   {
     "day": "monday",
@@ -35607,7 +35517,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1850
+    "sessionIndex": 1848
   },
   {
     "day": "monday",
@@ -35637,7 +35547,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1851
+    "sessionIndex": 1849
   },
   {
     "day": "tuesday",
@@ -35667,7 +35577,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1852
+    "sessionIndex": 1850
   },
   {
     "day": "tuesday",
@@ -35697,7 +35607,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1853
+    "sessionIndex": 1851
   },
   {
     "day": "tuesday",
@@ -35727,7 +35637,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1854
+    "sessionIndex": 1852
   },
   {
     "day": "fri",
@@ -35757,7 +35667,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1855
+    "sessionIndex": 1853
   },
   {
     "day": "fri",
@@ -35787,7 +35697,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1856
+    "sessionIndex": 1854
   },
   {
     "day": "monday",
@@ -35817,7 +35727,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1857
+    "sessionIndex": 1855
   },
   {
     "day": "wed",
@@ -35847,7 +35757,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1858
+    "sessionIndex": 1856
   },
   {
     "day": "thur",
@@ -35877,7 +35787,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1859
+    "sessionIndex": 1857
   },
   {
     "day": "monday",
@@ -35907,7 +35817,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1860
+    "sessionIndex": 1858
   },
   {
     "day": "monday",
@@ -35937,7 +35847,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1861
+    "sessionIndex": 1859
   },
   {
     "day": "fri",
@@ -35967,7 +35877,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1862
+    "sessionIndex": 1860
   },
   {
     "day": "fri",
@@ -35983,6 +35893,66 @@
     "staff_code": "114049",
     "room_id": "8",
     "room_number": "A110",
+    "block": "A Block",
+    "student_count": 25,
+    "lecture_hours": 3,
+    "tutorial_hours": 0,
+    "schedule_type": "theory",
+    "is_co_scheduled": false,
+    "capacity_info": "25/70",
+    "partner_instance_id": null,
+    "group_name": "Aeronautical Engineering_S8_G1",
+    "group_index": 1,
+    "department": "Aeronautical Engineering",
+    "semester": 8,
+    "day_pattern": "Monday-Saturday",
+    "capacity": 70,
+    "sessionIndex": 1861
+  },
+  {
+    "day": "fri",
+    "time_slot": "12:00 - 12:50",
+    "slot_index": 4,
+    "course_instance_id": "972",
+    "course_code": "AE19PE02",
+    "course_name": "Turbo Machines",
+    "session_type": "Lecture",
+    "session_number": 1,
+    "teacher_id": "8",
+    "teacher_name": "Harikrishnan Ravichandran",
+    "staff_code": "114083",
+    "room_id": "1",
+    "room_number": "A102",
+    "block": "A Block",
+    "student_count": 24,
+    "lecture_hours": 3,
+    "tutorial_hours": 0,
+    "schedule_type": "theory",
+    "is_co_scheduled": false,
+    "capacity_info": "24/70",
+    "partner_instance_id": null,
+    "group_name": "Aeronautical Engineering_S8_G1",
+    "group_index": 1,
+    "department": "Aeronautical Engineering",
+    "semester": 8,
+    "day_pattern": "Monday-Saturday",
+    "capacity": 70,
+    "sessionIndex": 1862
+  },
+  {
+    "day": "fri",
+    "time_slot": "1:20 - 2:10",
+    "slot_index": 5,
+    "course_instance_id": "631",
+    "course_code": "AE19PE02",
+    "course_name": "Introduction to Aeroacoustics",
+    "session_type": "Lecture",
+    "session_number": 2,
+    "teacher_id": "12",
+    "teacher_name": "Surendra Bogadi",
+    "staff_code": "114049",
+    "room_id": "2",
+    "room_number": "A103",
     "block": "A Block",
     "student_count": 25,
     "lecture_hours": 3,
@@ -36001,18 +35971,18 @@
   },
   {
     "day": "fri",
-    "time_slot": "12:00 - 12:50",
-    "slot_index": 4,
+    "time_slot": "1:20 - 2:10",
+    "slot_index": 5,
     "course_instance_id": "972",
     "course_code": "AE19PE02",
     "course_name": "Turbo Machines",
     "session_type": "Lecture",
-    "session_number": 1,
+    "session_number": 2,
     "teacher_id": "8",
     "teacher_name": "Harikrishnan Ravichandran",
     "staff_code": "114083",
-    "room_id": "1",
-    "room_number": "A102",
+    "room_id": "6",
+    "room_number": "A108",
     "block": "A Block",
     "student_count": 24,
     "lecture_hours": 3,
@@ -36030,19 +36000,19 @@
     "sessionIndex": 1864
   },
   {
-    "day": "fri",
-    "time_slot": "1:20 - 2:10",
-    "slot_index": 5,
+    "day": "saturday",
+    "time_slot": "2:10 - 3:00",
+    "slot_index": 6,
     "course_instance_id": "631",
     "course_code": "AE19PE02",
     "course_name": "Introduction to Aeroacoustics",
     "session_type": "Lecture",
-    "session_number": 2,
+    "session_number": 3,
     "teacher_id": "12",
     "teacher_name": "Surendra Bogadi",
     "staff_code": "114049",
-    "room_id": "2",
-    "room_number": "A103",
+    "room_id": "6",
+    "room_number": "A108",
     "block": "A Block",
     "student_count": 25,
     "lecture_hours": 3,
@@ -36060,19 +36030,19 @@
     "sessionIndex": 1865
   },
   {
-    "day": "fri",
-    "time_slot": "1:20 - 2:10",
-    "slot_index": 5,
+    "day": "saturday",
+    "time_slot": "2:10 - 3:00",
+    "slot_index": 6,
     "course_instance_id": "972",
     "course_code": "AE19PE02",
     "course_name": "Turbo Machines",
     "session_type": "Lecture",
-    "session_number": 2,
+    "session_number": 3,
     "teacher_id": "8",
     "teacher_name": "Harikrishnan Ravichandran",
     "staff_code": "114083",
-    "room_id": "6",
-    "room_number": "A108",
+    "room_id": "7",
+    "room_number": "A109",
     "block": "A Block",
     "student_count": 24,
     "lecture_hours": 3,
@@ -36090,66 +36060,6 @@
     "sessionIndex": 1866
   },
   {
-    "day": "saturday",
-    "time_slot": "2:10 - 3:00",
-    "slot_index": 6,
-    "course_instance_id": "631",
-    "course_code": "AE19PE02",
-    "course_name": "Introduction to Aeroacoustics",
-    "session_type": "Lecture",
-    "session_number": 3,
-    "teacher_id": "12",
-    "teacher_name": "Surendra Bogadi",
-    "staff_code": "114049",
-    "room_id": "6",
-    "room_number": "A108",
-    "block": "A Block",
-    "student_count": 25,
-    "lecture_hours": 3,
-    "tutorial_hours": 0,
-    "schedule_type": "theory",
-    "is_co_scheduled": false,
-    "capacity_info": "25/70",
-    "partner_instance_id": null,
-    "group_name": "Aeronautical Engineering_S8_G1",
-    "group_index": 1,
-    "department": "Aeronautical Engineering",
-    "semester": 8,
-    "day_pattern": "Monday-Saturday",
-    "capacity": 70,
-    "sessionIndex": 1867
-  },
-  {
-    "day": "saturday",
-    "time_slot": "2:10 - 3:00",
-    "slot_index": 6,
-    "course_instance_id": "972",
-    "course_code": "AE19PE02",
-    "course_name": "Turbo Machines",
-    "session_type": "Lecture",
-    "session_number": 3,
-    "teacher_id": "8",
-    "teacher_name": "Harikrishnan Ravichandran",
-    "staff_code": "114083",
-    "room_id": "7",
-    "room_number": "A109",
-    "block": "A Block",
-    "student_count": 24,
-    "lecture_hours": 3,
-    "tutorial_hours": 0,
-    "schedule_type": "theory",
-    "is_co_scheduled": false,
-    "capacity_info": "24/70",
-    "partner_instance_id": null,
-    "group_name": "Aeronautical Engineering_S8_G1",
-    "group_index": 1,
-    "department": "Aeronautical Engineering",
-    "semester": 8,
-    "day_pattern": "Monday-Saturday",
-    "capacity": 70,
-    "sessionIndex": 1868
-  },
-  {
     "day": "fri",
     "time_slot": "8:00 - 8:50",
     "slot_index": 0,
@@ -36170,6 +36080,66 @@
     "schedule_type": "theory",
     "is_co_scheduled": false,
     "capacity_info": "25/70",
+    "partner_instance_id": null,
+    "group_name": "Aeronautical Engineering_S8_G2",
+    "group_index": 2,
+    "department": "Aeronautical Engineering",
+    "semester": 8,
+    "day_pattern": "Monday-Saturday",
+    "capacity": 70,
+    "sessionIndex": 1867
+  },
+  {
+    "day": "fri",
+    "time_slot": "8:00 - 8:50",
+    "slot_index": 0,
+    "course_instance_id": "1385",
+    "course_code": "AE19PE01",
+    "course_name": "Drone Safety Rules & Regulations",
+    "session_type": "Lecture",
+    "session_number": 1,
+    "teacher_id": "13",
+    "teacher_name": "Nithiyanantham K K",
+    "staff_code": "114075",
+    "room_id": "7",
+    "room_number": "A109",
+    "block": "A Block",
+    "student_count": 24,
+    "lecture_hours": 3,
+    "tutorial_hours": 0,
+    "schedule_type": "theory",
+    "is_co_scheduled": false,
+    "capacity_info": "24/70",
+    "partner_instance_id": null,
+    "group_name": "Aeronautical Engineering_S8_G2",
+    "group_index": 2,
+    "department": "Aeronautical Engineering",
+    "semester": 8,
+    "day_pattern": "Monday-Saturday",
+    "capacity": 70,
+    "sessionIndex": 1868
+  },
+  {
+    "day": "fri",
+    "time_slot": "2:10 - 3:00",
+    "slot_index": 6,
+    "course_instance_id": "1385",
+    "course_code": "AE19PE01",
+    "course_name": "Drone Safety Rules & Regulations",
+    "session_type": "Lecture",
+    "session_number": 2,
+    "teacher_id": "13",
+    "teacher_name": "Nithiyanantham K K",
+    "staff_code": "114075",
+    "room_id": "7",
+    "room_number": "A109",
+    "block": "A Block",
+    "student_count": 24,
+    "lecture_hours": 3,
+    "tutorial_hours": 0,
+    "schedule_type": "theory",
+    "is_co_scheduled": false,
+    "capacity_info": "24/70",
     "partner_instance_id": null,
     "group_name": "Aeronautical Engineering_S8_G2",
     "group_index": 2,
@@ -36180,66 +36150,6 @@
     "sessionIndex": 1869
   },
   {
-    "day": "fri",
-    "time_slot": "8:00 - 8:50",
-    "slot_index": 0,
-    "course_instance_id": "1385",
-    "course_code": "AE19PE01",
-    "course_name": "Drone Safety Rules & Regulations",
-    "session_type": "Lecture",
-    "session_number": 1,
-    "teacher_id": "13",
-    "teacher_name": "Nithiyanantham K K",
-    "staff_code": "114075",
-    "room_id": "7",
-    "room_number": "A109",
-    "block": "A Block",
-    "student_count": 24,
-    "lecture_hours": 3,
-    "tutorial_hours": 0,
-    "schedule_type": "theory",
-    "is_co_scheduled": false,
-    "capacity_info": "24/70",
-    "partner_instance_id": null,
-    "group_name": "Aeronautical Engineering_S8_G2",
-    "group_index": 2,
-    "department": "Aeronautical Engineering",
-    "semester": 8,
-    "day_pattern": "Monday-Saturday",
-    "capacity": 70,
-    "sessionIndex": 1870
-  },
-  {
-    "day": "fri",
-    "time_slot": "2:10 - 3:00",
-    "slot_index": 6,
-    "course_instance_id": "1385",
-    "course_code": "AE19PE01",
-    "course_name": "Drone Safety Rules & Regulations",
-    "session_type": "Lecture",
-    "session_number": 2,
-    "teacher_id": "13",
-    "teacher_name": "Nithiyanantham K K",
-    "staff_code": "114075",
-    "room_id": "7",
-    "room_number": "A109",
-    "block": "A Block",
-    "student_count": 24,
-    "lecture_hours": 3,
-    "tutorial_hours": 0,
-    "schedule_type": "theory",
-    "is_co_scheduled": false,
-    "capacity_info": "24/70",
-    "partner_instance_id": null,
-    "group_name": "Aeronautical Engineering_S8_G2",
-    "group_index": 2,
-    "department": "Aeronautical Engineering",
-    "semester": 8,
-    "day_pattern": "Monday-Saturday",
-    "capacity": 70,
-    "sessionIndex": 1871
-  },
-  {
     "day": "saturday",
     "time_slot": "8:00 - 8:50",
     "slot_index": 0,
@@ -36267,7 +36177,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1872
+    "sessionIndex": 1870
   },
   {
     "day": "saturday",
@@ -36297,7 +36207,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1873
+    "sessionIndex": 1871
   },
   {
     "day": "saturday",
@@ -36327,7 +36237,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1874
+    "sessionIndex": 1872
   },
   {
     "day": "fri",
@@ -36357,7 +36267,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1875
+    "sessionIndex": 1873
   },
   {
     "day": "saturday",
@@ -36387,7 +36297,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1876
+    "sessionIndex": 1874
   },
   {
     "day": "saturday",
@@ -36417,7 +36327,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1877
+    "sessionIndex": 1875
   },
   {
     "day": "saturday",
@@ -36447,7 +36357,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1878
+    "sessionIndex": 1876
   },
   {
     "day": "saturday",
@@ -36477,7 +36387,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1879
+    "sessionIndex": 1877
   },
   {
     "day": "saturday",
@@ -36507,7 +36417,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1880
+    "sessionIndex": 1878
   },
   {
     "day": "fri",
@@ -36523,6 +36433,66 @@
     "staff_code": "103213",
     "room_id": "6",
     "room_number": "A108",
+    "block": "A Block",
+    "student_count": 70,
+    "lecture_hours": 3,
+    "tutorial_hours": 0,
+    "schedule_type": "theory",
+    "is_co_scheduled": false,
+    "capacity_info": "70/70",
+    "partner_instance_id": null,
+    "group_name": "Artificial Intelligence & Machine Learning_S8_G2",
+    "group_index": 2,
+    "department": "Artificial Intelligence & Machine Learning",
+    "semester": 8,
+    "day_pattern": "Monday-Saturday",
+    "capacity": 70,
+    "sessionIndex": 1879
+  },
+  {
+    "day": "fri",
+    "time_slot": "11:00 - 11:50",
+    "slot_index": 3,
+    "course_instance_id": "576",
+    "course_code": "OBT1905",
+    "course_name": "Medical Science for Engineers",
+    "session_type": "Lecture",
+    "session_number": 2,
+    "teacher_id": "49",
+    "teacher_name": "V Akshaya",
+    "staff_code": "103213",
+    "room_id": "1",
+    "room_number": "A102",
+    "block": "A Block",
+    "student_count": 70,
+    "lecture_hours": 3,
+    "tutorial_hours": 0,
+    "schedule_type": "theory",
+    "is_co_scheduled": false,
+    "capacity_info": "70/70",
+    "partner_instance_id": null,
+    "group_name": "Artificial Intelligence & Machine Learning_S8_G2",
+    "group_index": 2,
+    "department": "Artificial Intelligence & Machine Learning",
+    "semester": 8,
+    "day_pattern": "Monday-Saturday",
+    "capacity": 70,
+    "sessionIndex": 1880
+  },
+  {
+    "day": "saturday",
+    "time_slot": "12:00 - 12:50",
+    "slot_index": 4,
+    "course_instance_id": "576",
+    "course_code": "OBT1905",
+    "course_name": "Medical Science for Engineers",
+    "session_type": "Lecture",
+    "session_number": 3,
+    "teacher_id": "49",
+    "teacher_name": "V Akshaya",
+    "staff_code": "103213",
+    "room_id": "7",
+    "room_number": "A109",
     "block": "A Block",
     "student_count": 70,
     "lecture_hours": 3,
@@ -36541,66 +36511,6 @@
   },
   {
     "day": "fri",
-    "time_slot": "11:00 - 11:50",
-    "slot_index": 3,
-    "course_instance_id": "576",
-    "course_code": "OBT1905",
-    "course_name": "Medical Science for Engineers",
-    "session_type": "Lecture",
-    "session_number": 2,
-    "teacher_id": "49",
-    "teacher_name": "V Akshaya",
-    "staff_code": "103213",
-    "room_id": "1",
-    "room_number": "A102",
-    "block": "A Block",
-    "student_count": 70,
-    "lecture_hours": 3,
-    "tutorial_hours": 0,
-    "schedule_type": "theory",
-    "is_co_scheduled": false,
-    "capacity_info": "70/70",
-    "partner_instance_id": null,
-    "group_name": "Artificial Intelligence & Machine Learning_S8_G2",
-    "group_index": 2,
-    "department": "Artificial Intelligence & Machine Learning",
-    "semester": 8,
-    "day_pattern": "Monday-Saturday",
-    "capacity": 70,
-    "sessionIndex": 1882
-  },
-  {
-    "day": "saturday",
-    "time_slot": "12:00 - 12:50",
-    "slot_index": 4,
-    "course_instance_id": "576",
-    "course_code": "OBT1905",
-    "course_name": "Medical Science for Engineers",
-    "session_type": "Lecture",
-    "session_number": 3,
-    "teacher_id": "49",
-    "teacher_name": "V Akshaya",
-    "staff_code": "103213",
-    "room_id": "7",
-    "room_number": "A109",
-    "block": "A Block",
-    "student_count": 70,
-    "lecture_hours": 3,
-    "tutorial_hours": 0,
-    "schedule_type": "theory",
-    "is_co_scheduled": false,
-    "capacity_info": "70/70",
-    "partner_instance_id": null,
-    "group_name": "Artificial Intelligence & Machine Learning_S8_G2",
-    "group_index": 2,
-    "department": "Artificial Intelligence & Machine Learning",
-    "semester": 8,
-    "day_pattern": "Monday-Saturday",
-    "capacity": 70,
-    "sessionIndex": 1883
-  },
-  {
-    "day": "fri",
     "time_slot": "9:00 - 9:50",
     "slot_index": 1,
     "course_instance_id": "313",
@@ -36627,7 +36537,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1884
+    "sessionIndex": 1882
   },
   {
     "day": "saturday",
@@ -36657,7 +36567,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1885
+    "sessionIndex": 1883
   },
   {
     "day": "saturday",
@@ -36687,7 +36597,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1886
+    "sessionIndex": 1884
   },
   {
     "day": "fri",
@@ -36717,7 +36627,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1887
+    "sessionIndex": 1885
   },
   {
     "day": "fri",
@@ -36747,7 +36657,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1888
+    "sessionIndex": 1886
   },
   {
     "day": "saturday",
@@ -36777,7 +36687,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1889
+    "sessionIndex": 1887
   },
   {
     "day": "tuesday",
@@ -36807,7 +36717,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1890
+    "sessionIndex": 1888
   },
   {
     "day": "tuesday",
@@ -36837,7 +36747,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1891
+    "sessionIndex": 1889
   },
   {
     "day": "monday",
@@ -36867,7 +36777,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1892
+    "sessionIndex": 1890
   },
   {
     "day": "tuesday",
@@ -36897,7 +36807,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1893
+    "sessionIndex": 1891
   },
   {
     "day": "tuesday",
@@ -36927,7 +36837,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1894
+    "sessionIndex": 1892
   },
   {
     "day": "fri",
@@ -36957,7 +36867,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1895
+    "sessionIndex": 1893
   },
   {
     "day": "fri",
@@ -36987,7 +36897,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1896
+    "sessionIndex": 1894
   },
   {
     "day": "saturday",
@@ -37017,7 +36927,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1897
+    "sessionIndex": 1895
   },
   {
     "day": "monday",
@@ -37028,6 +36938,66 @@
     "course_name": "Construction Economics and Project Management",
     "session_type": "Lecture",
     "session_number": 1,
+    "teacher_id": "182",
+    "teacher_name": "Jeya Arthi A J",
+    "staff_code": "128039",
+    "room_id": "1",
+    "room_number": "A102",
+    "block": "A Block",
+    "student_count": 44,
+    "lecture_hours": 3,
+    "tutorial_hours": 0,
+    "schedule_type": "theory",
+    "is_co_scheduled": false,
+    "capacity_info": "44/70",
+    "partner_instance_id": null,
+    "group_name": "Civil Engineering_S8_G1",
+    "group_index": 1,
+    "department": "Civil Engineering",
+    "semester": 8,
+    "day_pattern": "Monday-Saturday",
+    "capacity": 70,
+    "sessionIndex": 1896
+  },
+  {
+    "day": "tuesday",
+    "time_slot": "8:00 - 8:50",
+    "slot_index": 0,
+    "course_instance_id": "15",
+    "course_code": "CE19801",
+    "course_name": "Construction Economics and Project Management",
+    "session_type": "Lecture",
+    "session_number": 2,
+    "teacher_id": "182",
+    "teacher_name": "Jeya Arthi A J",
+    "staff_code": "128039",
+    "room_id": "1",
+    "room_number": "A102",
+    "block": "A Block",
+    "student_count": 44,
+    "lecture_hours": 3,
+    "tutorial_hours": 0,
+    "schedule_type": "theory",
+    "is_co_scheduled": false,
+    "capacity_info": "44/70",
+    "partner_instance_id": null,
+    "group_name": "Civil Engineering_S8_G1",
+    "group_index": 1,
+    "department": "Civil Engineering",
+    "semester": 8,
+    "day_pattern": "Monday-Saturday",
+    "capacity": 70,
+    "sessionIndex": 1897
+  },
+  {
+    "day": "tuesday",
+    "time_slot": "11:00 - 11:50",
+    "slot_index": 3,
+    "course_instance_id": "15",
+    "course_code": "CE19801",
+    "course_name": "Construction Economics and Project Management",
+    "session_type": "Lecture",
+    "session_number": 3,
     "teacher_id": "182",
     "teacher_name": "Jeya Arthi A J",
     "staff_code": "128039",
@@ -37050,66 +37020,6 @@
     "sessionIndex": 1898
   },
   {
-    "day": "tuesday",
-    "time_slot": "8:00 - 8:50",
-    "slot_index": 0,
-    "course_instance_id": "15",
-    "course_code": "CE19801",
-    "course_name": "Construction Economics and Project Management",
-    "session_type": "Lecture",
-    "session_number": 2,
-    "teacher_id": "182",
-    "teacher_name": "Jeya Arthi A J",
-    "staff_code": "128039",
-    "room_id": "1",
-    "room_number": "A102",
-    "block": "A Block",
-    "student_count": 44,
-    "lecture_hours": 3,
-    "tutorial_hours": 0,
-    "schedule_type": "theory",
-    "is_co_scheduled": false,
-    "capacity_info": "44/70",
-    "partner_instance_id": null,
-    "group_name": "Civil Engineering_S8_G1",
-    "group_index": 1,
-    "department": "Civil Engineering",
-    "semester": 8,
-    "day_pattern": "Monday-Saturday",
-    "capacity": 70,
-    "sessionIndex": 1899
-  },
-  {
-    "day": "tuesday",
-    "time_slot": "11:00 - 11:50",
-    "slot_index": 3,
-    "course_instance_id": "15",
-    "course_code": "CE19801",
-    "course_name": "Construction Economics and Project Management",
-    "session_type": "Lecture",
-    "session_number": 3,
-    "teacher_id": "182",
-    "teacher_name": "Jeya Arthi A J",
-    "staff_code": "128039",
-    "room_id": "1",
-    "room_number": "A102",
-    "block": "A Block",
-    "student_count": 44,
-    "lecture_hours": 3,
-    "tutorial_hours": 0,
-    "schedule_type": "theory",
-    "is_co_scheduled": false,
-    "capacity_info": "44/70",
-    "partner_instance_id": null,
-    "group_name": "Civil Engineering_S8_G1",
-    "group_index": 1,
-    "department": "Civil Engineering",
-    "semester": 8,
-    "day_pattern": "Monday-Saturday",
-    "capacity": 70,
-    "sessionIndex": 1900
-  },
-  {
     "day": "monday",
     "time_slot": "9:00 - 9:50",
     "slot_index": 1,
@@ -37137,7 +37047,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1901
+    "sessionIndex": 1899
   },
   {
     "day": "monday",
@@ -37167,7 +37077,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1902
+    "sessionIndex": 1900
   },
   {
     "day": "monday",
@@ -37197,7 +37107,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1903
+    "sessionIndex": 1901
   },
   {
     "day": "monday",
@@ -37227,7 +37137,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1904
+    "sessionIndex": 1902
   },
   {
     "day": "tuesday",
@@ -37257,7 +37167,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1905
+    "sessionIndex": 1903
   },
   {
     "day": "tuesday",
@@ -37287,7 +37197,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1906
+    "sessionIndex": 1904
   },
   {
     "day": "monday",
@@ -37317,7 +37227,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1907
+    "sessionIndex": 1905
   },
   {
     "day": "monday",
@@ -37347,7 +37257,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1908
+    "sessionIndex": 1906
   },
   {
     "day": "tuesday",
@@ -37377,7 +37287,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1909
+    "sessionIndex": 1907
   },
   {
     "day": "tuesday",
@@ -37407,7 +37317,7 @@
     "semester": 8,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1910
+    "sessionIndex": 1908
   },
   {
     "day": "tuesday",
@@ -37437,7 +37347,7 @@
     "semester": 8,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1911
+    "sessionIndex": 1909
   },
   {
     "day": "wed",
@@ -37448,6 +37358,66 @@
     "course_name": "Services Science & Service Operational Management",
     "session_type": "Lecture",
     "session_number": 2,
+    "teacher_id": "482",
+    "teacher_name": "Kumar K",
+    "staff_code": "111062",
+    "room_id": "6",
+    "room_number": "A108",
+    "block": "A Block",
+    "student_count": 70,
+    "lecture_hours": 3,
+    "tutorial_hours": 0,
+    "schedule_type": "theory",
+    "is_co_scheduled": false,
+    "capacity_info": "70/70",
+    "partner_instance_id": null,
+    "group_name": "Computer Science & Business Systems_S8_G1",
+    "group_index": 1,
+    "department": "Computer Science & Business Systems",
+    "semester": 8,
+    "day_pattern": "Tuesday-Saturday",
+    "capacity": 70,
+    "sessionIndex": 1910
+  },
+  {
+    "day": "wed",
+    "time_slot": "8:00 - 8:50",
+    "slot_index": 0,
+    "course_instance_id": "1464",
+    "course_code": "CB19841",
+    "course_name": "IT Project Management",
+    "session_type": "Lecture",
+    "session_number": 2,
+    "teacher_id": "191",
+    "teacher_name": "Stanlin Prija",
+    "staff_code": "101354",
+    "room_id": "2",
+    "room_number": "A103",
+    "block": "A Block",
+    "student_count": 66,
+    "lecture_hours": 3,
+    "tutorial_hours": 0,
+    "schedule_type": "theory",
+    "is_co_scheduled": false,
+    "capacity_info": "66/70",
+    "partner_instance_id": null,
+    "group_name": "Computer Science & Business Systems_S8_G1",
+    "group_index": 1,
+    "department": "Computer Science & Business Systems",
+    "semester": 8,
+    "day_pattern": "Tuesday-Saturday",
+    "capacity": 70,
+    "sessionIndex": 1911
+  },
+  {
+    "day": "thur",
+    "time_slot": "10:00 - 10:50",
+    "slot_index": 2,
+    "course_instance_id": "1304",
+    "course_code": "BA19802",
+    "course_name": "Services Science & Service Operational Management",
+    "session_type": "Lecture",
+    "session_number": 3,
     "teacher_id": "482",
     "teacher_name": "Kumar K",
     "staff_code": "111062",
@@ -37470,66 +37440,6 @@
     "sessionIndex": 1912
   },
   {
-    "day": "wed",
-    "time_slot": "8:00 - 8:50",
-    "slot_index": 0,
-    "course_instance_id": "1464",
-    "course_code": "CB19841",
-    "course_name": "IT Project Management",
-    "session_type": "Lecture",
-    "session_number": 2,
-    "teacher_id": "191",
-    "teacher_name": "Stanlin Prija",
-    "staff_code": "101354",
-    "room_id": "2",
-    "room_number": "A103",
-    "block": "A Block",
-    "student_count": 66,
-    "lecture_hours": 3,
-    "tutorial_hours": 0,
-    "schedule_type": "theory",
-    "is_co_scheduled": false,
-    "capacity_info": "66/70",
-    "partner_instance_id": null,
-    "group_name": "Computer Science & Business Systems_S8_G1",
-    "group_index": 1,
-    "department": "Computer Science & Business Systems",
-    "semester": 8,
-    "day_pattern": "Tuesday-Saturday",
-    "capacity": 70,
-    "sessionIndex": 1913
-  },
-  {
-    "day": "thur",
-    "time_slot": "10:00 - 10:50",
-    "slot_index": 2,
-    "course_instance_id": "1304",
-    "course_code": "BA19802",
-    "course_name": "Services Science & Service Operational Management",
-    "session_type": "Lecture",
-    "session_number": 3,
-    "teacher_id": "482",
-    "teacher_name": "Kumar K",
-    "staff_code": "111062",
-    "room_id": "6",
-    "room_number": "A108",
-    "block": "A Block",
-    "student_count": 70,
-    "lecture_hours": 3,
-    "tutorial_hours": 0,
-    "schedule_type": "theory",
-    "is_co_scheduled": false,
-    "capacity_info": "70/70",
-    "partner_instance_id": null,
-    "group_name": "Computer Science & Business Systems_S8_G1",
-    "group_index": 1,
-    "department": "Computer Science & Business Systems",
-    "semester": 8,
-    "day_pattern": "Tuesday-Saturday",
-    "capacity": 70,
-    "sessionIndex": 1914
-  },
-  {
     "day": "thur",
     "time_slot": "2:10 - 3:00",
     "slot_index": 6,
@@ -37557,7 +37467,7 @@
     "semester": 8,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1915
+    "sessionIndex": 1913
   },
   {
     "day": "tuesday",
@@ -37568,6 +37478,66 @@
     "course_name": "Marketing Research & Marketing Management",
     "session_type": "Lecture",
     "session_number": 1,
+    "teacher_id": "470",
+    "teacher_name": "Devi Komathy A",
+    "staff_code": "111072",
+    "room_id": "6",
+    "room_number": "A108",
+    "block": "A Block",
+    "student_count": 70,
+    "lecture_hours": 2,
+    "tutorial_hours": 0,
+    "schedule_type": "theory",
+    "is_co_scheduled": false,
+    "capacity_info": "70/70",
+    "partner_instance_id": null,
+    "group_name": "Computer Science & Business Systems_S8_G2",
+    "group_index": 2,
+    "department": "Computer Science & Business Systems",
+    "semester": 8,
+    "day_pattern": "Tuesday-Saturday",
+    "capacity": 70,
+    "sessionIndex": 1914
+  },
+  {
+    "day": "tuesday",
+    "time_slot": "8:00 - 8:50",
+    "slot_index": 0,
+    "course_instance_id": "1307",
+    "course_code": "BA19801",
+    "course_name": "Marketing Research & Marketing Management",
+    "session_type": "Lecture",
+    "session_number": 1,
+    "teacher_id": "480",
+    "teacher_name": "Babitha Lucin Rani B",
+    "staff_code": "111065",
+    "room_id": "8",
+    "room_number": "A110",
+    "block": "A Block",
+    "student_count": 70,
+    "lecture_hours": 2,
+    "tutorial_hours": 0,
+    "schedule_type": "theory",
+    "is_co_scheduled": false,
+    "capacity_info": "70/70",
+    "partner_instance_id": null,
+    "group_name": "Computer Science & Business Systems_S8_G2",
+    "group_index": 2,
+    "department": "Computer Science & Business Systems",
+    "semester": 8,
+    "day_pattern": "Tuesday-Saturday",
+    "capacity": 70,
+    "sessionIndex": 1915
+  },
+  {
+    "day": "saturday",
+    "time_slot": "11:00 - 11:50",
+    "slot_index": 3,
+    "course_instance_id": "1306",
+    "course_code": "BA19801",
+    "course_name": "Marketing Research & Marketing Management",
+    "session_type": "Lecture",
+    "session_number": 2,
     "teacher_id": "470",
     "teacher_name": "Devi Komathy A",
     "staff_code": "111072",
@@ -37590,14 +37560,14 @@
     "sessionIndex": 1916
   },
   {
-    "day": "tuesday",
-    "time_slot": "8:00 - 8:50",
-    "slot_index": 0,
+    "day": "saturday",
+    "time_slot": "11:00 - 11:50",
+    "slot_index": 3,
     "course_instance_id": "1307",
     "course_code": "BA19801",
     "course_name": "Marketing Research & Marketing Management",
     "session_type": "Lecture",
-    "session_number": 1,
+    "session_number": 2,
     "teacher_id": "480",
     "teacher_name": "Babitha Lucin Rani B",
     "staff_code": "111065",
@@ -37620,66 +37590,6 @@
     "sessionIndex": 1917
   },
   {
-    "day": "saturday",
-    "time_slot": "11:00 - 11:50",
-    "slot_index": 3,
-    "course_instance_id": "1306",
-    "course_code": "BA19801",
-    "course_name": "Marketing Research & Marketing Management",
-    "session_type": "Lecture",
-    "session_number": 2,
-    "teacher_id": "470",
-    "teacher_name": "Devi Komathy A",
-    "staff_code": "111072",
-    "room_id": "6",
-    "room_number": "A108",
-    "block": "A Block",
-    "student_count": 70,
-    "lecture_hours": 2,
-    "tutorial_hours": 0,
-    "schedule_type": "theory",
-    "is_co_scheduled": false,
-    "capacity_info": "70/70",
-    "partner_instance_id": null,
-    "group_name": "Computer Science & Business Systems_S8_G2",
-    "group_index": 2,
-    "department": "Computer Science & Business Systems",
-    "semester": 8,
-    "day_pattern": "Tuesday-Saturday",
-    "capacity": 70,
-    "sessionIndex": 1918
-  },
-  {
-    "day": "saturday",
-    "time_slot": "11:00 - 11:50",
-    "slot_index": 3,
-    "course_instance_id": "1307",
-    "course_code": "BA19801",
-    "course_name": "Marketing Research & Marketing Management",
-    "session_type": "Lecture",
-    "session_number": 2,
-    "teacher_id": "480",
-    "teacher_name": "Babitha Lucin Rani B",
-    "staff_code": "111065",
-    "room_id": "8",
-    "room_number": "A110",
-    "block": "A Block",
-    "student_count": 70,
-    "lecture_hours": 2,
-    "tutorial_hours": 0,
-    "schedule_type": "theory",
-    "is_co_scheduled": false,
-    "capacity_info": "70/70",
-    "partner_instance_id": null,
-    "group_name": "Computer Science & Business Systems_S8_G2",
-    "group_index": 2,
-    "department": "Computer Science & Business Systems",
-    "semester": 8,
-    "day_pattern": "Tuesday-Saturday",
-    "capacity": 70,
-    "sessionIndex": 1919
-  },
-  {
     "day": "wed",
     "time_slot": "10:00 - 10:50",
     "slot_index": 2,
@@ -37688,6 +37598,66 @@
     "course_name": "Services Science & Service Operational Management",
     "session_type": "Lecture",
     "session_number": 1,
+    "teacher_id": "482",
+    "teacher_name": "Kumar K",
+    "staff_code": "111062",
+    "room_id": "7",
+    "room_number": "A109",
+    "block": "A Block",
+    "student_count": 70,
+    "lecture_hours": 3,
+    "tutorial_hours": 0,
+    "schedule_type": "theory",
+    "is_co_scheduled": false,
+    "capacity_info": "70/70",
+    "partner_instance_id": null,
+    "group_name": "Computer Science & Business Systems_S8_G3",
+    "group_index": 3,
+    "department": "Computer Science & Business Systems",
+    "semester": 8,
+    "day_pattern": "Tuesday-Saturday",
+    "capacity": 70,
+    "sessionIndex": 1918
+  },
+  {
+    "day": "wed",
+    "time_slot": "10:00 - 10:50",
+    "slot_index": 2,
+    "course_instance_id": "519",
+    "course_code": "CB19841",
+    "course_name": "IT Project Management",
+    "session_type": "Lecture",
+    "session_number": 1,
+    "teacher_id": "192",
+    "teacher_name": "Mistica Dhas Y",
+    "staff_code": "101356",
+    "room_id": "6",
+    "room_number": "A108",
+    "block": "A Block",
+    "student_count": 67,
+    "lecture_hours": 3,
+    "tutorial_hours": 0,
+    "schedule_type": "theory",
+    "is_co_scheduled": false,
+    "capacity_info": "67/70",
+    "partner_instance_id": null,
+    "group_name": "Computer Science & Business Systems_S8_G3",
+    "group_index": 3,
+    "department": "Computer Science & Business Systems",
+    "semester": 8,
+    "day_pattern": "Tuesday-Saturday",
+    "capacity": 70,
+    "sessionIndex": 1919
+  },
+  {
+    "day": "wed",
+    "time_slot": "12:00 - 12:50",
+    "slot_index": 4,
+    "course_instance_id": "1305",
+    "course_code": "BA19802",
+    "course_name": "Services Science & Service Operational Management",
+    "session_type": "Lecture",
+    "session_number": 2,
     "teacher_id": "482",
     "teacher_name": "Kumar K",
     "staff_code": "111062",
@@ -37711,66 +37681,6 @@
   },
   {
     "day": "wed",
-    "time_slot": "10:00 - 10:50",
-    "slot_index": 2,
-    "course_instance_id": "519",
-    "course_code": "CB19841",
-    "course_name": "IT Project Management",
-    "session_type": "Lecture",
-    "session_number": 1,
-    "teacher_id": "192",
-    "teacher_name": "Mistica Dhas Y",
-    "staff_code": "101356",
-    "room_id": "6",
-    "room_number": "A108",
-    "block": "A Block",
-    "student_count": 67,
-    "lecture_hours": 3,
-    "tutorial_hours": 0,
-    "schedule_type": "theory",
-    "is_co_scheduled": false,
-    "capacity_info": "67/70",
-    "partner_instance_id": null,
-    "group_name": "Computer Science & Business Systems_S8_G3",
-    "group_index": 3,
-    "department": "Computer Science & Business Systems",
-    "semester": 8,
-    "day_pattern": "Tuesday-Saturday",
-    "capacity": 70,
-    "sessionIndex": 1921
-  },
-  {
-    "day": "wed",
-    "time_slot": "12:00 - 12:50",
-    "slot_index": 4,
-    "course_instance_id": "1305",
-    "course_code": "BA19802",
-    "course_name": "Services Science & Service Operational Management",
-    "session_type": "Lecture",
-    "session_number": 2,
-    "teacher_id": "482",
-    "teacher_name": "Kumar K",
-    "staff_code": "111062",
-    "room_id": "7",
-    "room_number": "A109",
-    "block": "A Block",
-    "student_count": 70,
-    "lecture_hours": 3,
-    "tutorial_hours": 0,
-    "schedule_type": "theory",
-    "is_co_scheduled": false,
-    "capacity_info": "70/70",
-    "partner_instance_id": null,
-    "group_name": "Computer Science & Business Systems_S8_G3",
-    "group_index": 3,
-    "department": "Computer Science & Business Systems",
-    "semester": 8,
-    "day_pattern": "Tuesday-Saturday",
-    "capacity": 70,
-    "sessionIndex": 1922
-  },
-  {
-    "day": "wed",
     "time_slot": "1:20 - 2:10",
     "slot_index": 5,
     "course_instance_id": "519",
@@ -37797,7 +37707,7 @@
     "semester": 8,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1923
+    "sessionIndex": 1921
   },
   {
     "day": "thur",
@@ -37827,7 +37737,7 @@
     "semester": 8,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1924
+    "sessionIndex": 1922
   },
   {
     "day": "saturday",
@@ -37857,7 +37767,7 @@
     "semester": 8,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1925
+    "sessionIndex": 1923
   },
   {
     "day": "tuesday",
@@ -37887,7 +37797,7 @@
     "semester": 8,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1926
+    "sessionIndex": 1924
   },
   {
     "day": "fri",
@@ -37917,7 +37827,7 @@
     "semester": 8,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1927
+    "sessionIndex": 1925
   },
   {
     "day": "saturday",
@@ -37947,7 +37857,7 @@
     "semester": 8,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1928
+    "sessionIndex": 1926
   },
   {
     "day": "wed",
@@ -37977,7 +37887,7 @@
     "semester": 8,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1929
+    "sessionIndex": 1927
   },
   {
     "day": "fri",
@@ -38007,7 +37917,7 @@
     "semester": 8,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1930
+    "sessionIndex": 1928
   },
   {
     "day": "saturday",
@@ -38037,7 +37947,7 @@
     "semester": 8,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1931
+    "sessionIndex": 1929
   },
   {
     "day": "saturday",
@@ -38067,7 +37977,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1932
+    "sessionIndex": 1930
   },
   {
     "day": "saturday",
@@ -38097,7 +38007,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1933
+    "sessionIndex": 1931
   },
   {
     "day": "fri",
@@ -38127,7 +38037,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1934
+    "sessionIndex": 1932
   },
   {
     "day": "fri",
@@ -38157,7 +38067,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1935
+    "sessionIndex": 1933
   },
   {
     "day": "saturday",
@@ -38187,7 +38097,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1936
+    "sessionIndex": 1934
   },
   {
     "day": "fri",
@@ -38217,7 +38127,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1937
+    "sessionIndex": 1935
   },
   {
     "day": "fri",
@@ -38247,7 +38157,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1938
+    "sessionIndex": 1936
   },
   {
     "day": "saturday",
@@ -38277,7 +38187,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1939
+    "sessionIndex": 1937
   },
   {
     "day": "fri",
@@ -38307,7 +38217,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1940
+    "sessionIndex": 1938
   },
   {
     "day": "fri",
@@ -38337,7 +38247,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1941
+    "sessionIndex": 1939
   },
   {
     "day": "monday",
@@ -38367,7 +38277,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1942
+    "sessionIndex": 1940
   },
   {
     "day": "tuesday",
@@ -38397,7 +38307,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1943
+    "sessionIndex": 1941
   },
   {
     "day": "tuesday",
@@ -38427,7 +38337,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1944
+    "sessionIndex": 1942
   },
   {
     "day": "monday",
@@ -38457,7 +38367,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1945
+    "sessionIndex": 1943
   },
   {
     "day": "tuesday",
@@ -38487,7 +38397,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1946
+    "sessionIndex": 1944
   },
   {
     "day": "tuesday",
@@ -38517,7 +38427,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1947
+    "sessionIndex": 1945
   },
   {
     "day": "fri",
@@ -38547,7 +38457,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1948
+    "sessionIndex": 1946
   },
   {
     "day": "fri",
@@ -38577,7 +38487,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1949
+    "sessionIndex": 1947
   },
   {
     "day": "saturday",
@@ -38607,7 +38517,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1950
+    "sessionIndex": 1948
   },
   {
     "day": "fri",
@@ -38618,6 +38528,66 @@
     "course_name": "Satellite Communication",
     "session_type": "Lecture",
     "session_number": 1,
+    "teacher_id": "373",
+    "teacher_name": "R Jeevani",
+    "staff_code": "102220",
+    "room_id": "1",
+    "room_number": "A102",
+    "block": "A Block",
+    "student_count": 70,
+    "lecture_hours": 3,
+    "tutorial_hours": 0,
+    "schedule_type": "theory",
+    "is_co_scheduled": false,
+    "capacity_info": "70/70",
+    "partner_instance_id": null,
+    "group_name": "Electronics & Communication Engineering_S8_G2",
+    "group_index": 2,
+    "department": "Electronics & Communication Engineering",
+    "semester": 8,
+    "day_pattern": "Monday-Saturday",
+    "capacity": 70,
+    "sessionIndex": 1949
+  },
+  {
+    "day": "saturday",
+    "time_slot": "9:00 - 9:50",
+    "slot_index": 1,
+    "course_instance_id": "143",
+    "course_code": "EC19P88",
+    "course_name": "Satellite Communication",
+    "session_type": "Lecture",
+    "session_number": 2,
+    "teacher_id": "373",
+    "teacher_name": "R Jeevani",
+    "staff_code": "102220",
+    "room_id": "2",
+    "room_number": "A103",
+    "block": "A Block",
+    "student_count": 70,
+    "lecture_hours": 3,
+    "tutorial_hours": 0,
+    "schedule_type": "theory",
+    "is_co_scheduled": false,
+    "capacity_info": "70/70",
+    "partner_instance_id": null,
+    "group_name": "Electronics & Communication Engineering_S8_G2",
+    "group_index": 2,
+    "department": "Electronics & Communication Engineering",
+    "semester": 8,
+    "day_pattern": "Monday-Saturday",
+    "capacity": 70,
+    "sessionIndex": 1950
+  },
+  {
+    "day": "saturday",
+    "time_slot": "2:10 - 3:00",
+    "slot_index": 6,
+    "course_instance_id": "143",
+    "course_code": "EC19P88",
+    "course_name": "Satellite Communication",
+    "session_type": "Lecture",
+    "session_number": 3,
     "teacher_id": "373",
     "teacher_name": "R Jeevani",
     "staff_code": "102220",
@@ -38640,66 +38610,6 @@
     "sessionIndex": 1951
   },
   {
-    "day": "saturday",
-    "time_slot": "9:00 - 9:50",
-    "slot_index": 1,
-    "course_instance_id": "143",
-    "course_code": "EC19P88",
-    "course_name": "Satellite Communication",
-    "session_type": "Lecture",
-    "session_number": 2,
-    "teacher_id": "373",
-    "teacher_name": "R Jeevani",
-    "staff_code": "102220",
-    "room_id": "2",
-    "room_number": "A103",
-    "block": "A Block",
-    "student_count": 70,
-    "lecture_hours": 3,
-    "tutorial_hours": 0,
-    "schedule_type": "theory",
-    "is_co_scheduled": false,
-    "capacity_info": "70/70",
-    "partner_instance_id": null,
-    "group_name": "Electronics & Communication Engineering_S8_G2",
-    "group_index": 2,
-    "department": "Electronics & Communication Engineering",
-    "semester": 8,
-    "day_pattern": "Monday-Saturday",
-    "capacity": 70,
-    "sessionIndex": 1952
-  },
-  {
-    "day": "saturday",
-    "time_slot": "2:10 - 3:00",
-    "slot_index": 6,
-    "course_instance_id": "143",
-    "course_code": "EC19P88",
-    "course_name": "Satellite Communication",
-    "session_type": "Lecture",
-    "session_number": 3,
-    "teacher_id": "373",
-    "teacher_name": "R Jeevani",
-    "staff_code": "102220",
-    "room_id": "1",
-    "room_number": "A102",
-    "block": "A Block",
-    "student_count": 70,
-    "lecture_hours": 3,
-    "tutorial_hours": 0,
-    "schedule_type": "theory",
-    "is_co_scheduled": false,
-    "capacity_info": "70/70",
-    "partner_instance_id": null,
-    "group_name": "Electronics & Communication Engineering_S8_G2",
-    "group_index": 2,
-    "department": "Electronics & Communication Engineering",
-    "semester": 8,
-    "day_pattern": "Monday-Saturday",
-    "capacity": 70,
-    "sessionIndex": 1953
-  },
-  {
     "day": "fri",
     "time_slot": "8:00 - 8:50",
     "slot_index": 0,
@@ -38727,7 +38637,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1954
+    "sessionIndex": 1952
   },
   {
     "day": "fri",
@@ -38757,7 +38667,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1955
+    "sessionIndex": 1953
   },
   {
     "day": "saturday",
@@ -38787,7 +38697,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1956
+    "sessionIndex": 1954
   },
   {
     "day": "fri",
@@ -38817,7 +38727,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1957
+    "sessionIndex": 1955
   },
   {
     "day": "fri",
@@ -38847,7 +38757,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1958
+    "sessionIndex": 1956
   },
   {
     "day": "saturday",
@@ -38877,7 +38787,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1959
+    "sessionIndex": 1957
   },
   {
     "day": "fri",
@@ -38907,7 +38817,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1960
+    "sessionIndex": 1958
   },
   {
     "day": "fri",
@@ -38937,7 +38847,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1961
+    "sessionIndex": 1959
   },
   {
     "day": "saturday",
@@ -38967,7 +38877,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1962
+    "sessionIndex": 1960
   },
   {
     "day": "monday",
@@ -38997,7 +38907,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1963
+    "sessionIndex": 1961
   },
   {
     "day": "tuesday",
@@ -39027,7 +38937,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1964
+    "sessionIndex": 1962
   },
   {
     "day": "tuesday",
@@ -39057,7 +38967,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1965
+    "sessionIndex": 1963
   },
   {
     "day": "monday",
@@ -39087,7 +38997,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1966
+    "sessionIndex": 1964
   },
   {
     "day": "tuesday",
@@ -39117,7 +39027,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1967
+    "sessionIndex": 1965
   },
   {
     "day": "tuesday",
@@ -39147,7 +39057,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1968
+    "sessionIndex": 1966
   },
   {
     "day": "fri",
@@ -39177,7 +39087,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1969
+    "sessionIndex": 1967
   },
   {
     "day": "saturday",
@@ -39207,7 +39117,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1970
+    "sessionIndex": 1968
   },
   {
     "day": "saturday",
@@ -39237,7 +39147,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1971
+    "sessionIndex": 1969
   },
   {
     "day": "fri",
@@ -39267,7 +39177,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1972
+    "sessionIndex": 1970
   },
   {
     "day": "saturday",
@@ -39297,7 +39207,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1973
+    "sessionIndex": 1971
   },
   {
     "day": "saturday",
@@ -39327,7 +39237,7 @@
     "semester": 8,
     "day_pattern": "Monday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1974
+    "sessionIndex": 1972
   },
   {
     "day": "tuesday",
@@ -39357,7 +39267,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 165,
-    "sessionIndex": 1975
+    "sessionIndex": 1973
   },
   {
     "day": "wed",
@@ -39387,7 +39297,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1976
+    "sessionIndex": 1974
   },
   {
     "day": "wed",
@@ -39417,7 +39327,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1977
+    "sessionIndex": 1975
   },
   {
     "day": "monday",
@@ -39447,7 +39357,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1978
+    "sessionIndex": 1976
   },
   {
     "day": "tuesday",
@@ -39477,7 +39387,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1979
+    "sessionIndex": 1977
   },
   {
     "day": "tuesday",
@@ -39507,7 +39417,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1980
+    "sessionIndex": 1978
   },
   {
     "day": "tuesday",
@@ -39537,7 +39447,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1981
+    "sessionIndex": 1979
   },
   {
     "day": "tuesday",
@@ -39567,7 +39477,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1982
+    "sessionIndex": 1980
   },
   {
     "day": "wed",
@@ -39597,7 +39507,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1983
+    "sessionIndex": 1981
   },
   {
     "day": "tuesday",
@@ -39627,7 +39537,7 @@
     "semester": 4,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1984
+    "sessionIndex": 1982
   },
   {
     "day": "wed",
@@ -39657,37 +39567,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1985
-  },
-  {
-    "day": "wed",
-    "time_slot": "3:00 - 3:50",
-    "slot_index": 2,
-    "course_instance_id": "342",
-    "course_code": "CS23633",
-    "course_name": "Cloud Computing",
-    "session_type": "Lecture",
-    "session_number": 2,
-    "teacher_id": "267",
-    "teacher_name": "M Ayyadurai",
-    "staff_code": "101319",
-    "room_id": "226",
-    "room_number": "ANEW104",
-    "block": "A Block",
-    "student_count": 140,
-    "lecture_hours": 2,
-    "tutorial_hours": 0,
-    "schedule_type": "theory",
-    "is_co_scheduled": false,
-    "capacity_info": "140/165",
-    "partner_instance_id": null,
-    "group_name": "Computer Science & Engineering_S6_G6",
-    "group_index": 6,
-    "department": "Computer Science & Engineering",
-    "semester": 6,
-    "day_pattern": "Tuesday-Saturday",
-    "capacity": 165,
-    "sessionIndex": 1986
+    "sessionIndex": 1983
   },
   {
     "day": "wed",
@@ -39717,7 +39597,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1987
+    "sessionIndex": 1984
   },
   {
     "day": "monday",
@@ -39747,7 +39627,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1988
+    "sessionIndex": 1985
   },
   {
     "day": "monday",
@@ -39777,7 +39657,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1989
+    "sessionIndex": 1986
   },
   {
     "day": "monday",
@@ -39807,7 +39687,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1990
+    "sessionIndex": 1987
   },
   {
     "day": "wed",
@@ -39837,7 +39717,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1991
+    "sessionIndex": 1988
   },
   {
     "day": "wed",
@@ -39867,7 +39747,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1992
+    "sessionIndex": 1989
   },
   {
     "day": "wed",
@@ -39897,7 +39777,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1993
+    "sessionIndex": 1990
   },
   {
     "day": "wed",
@@ -39927,7 +39807,7 @@
     "semester": 6,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1994
+    "sessionIndex": 1991
   },
   {
     "day": "tuesday",
@@ -39957,7 +39837,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1995
+    "sessionIndex": 1992
   },
   {
     "day": "monday",
@@ -39987,7 +39867,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1996
+    "sessionIndex": 1993
   },
   {
     "day": "wed",
@@ -40017,7 +39897,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1997
+    "sessionIndex": 1994
   },
   {
     "day": "wed",
@@ -40047,7 +39927,7 @@
     "semester": 4,
     "day_pattern": "Monday-Fri",
     "capacity": 70,
-    "sessionIndex": 1998
+    "sessionIndex": 1995
   },
   {
     "day": "saturday",
@@ -40077,7 +39957,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 1999
+    "sessionIndex": 1996
   },
   {
     "day": "thur",
@@ -40107,7 +39987,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 2000
+    "sessionIndex": 1997
   },
   {
     "day": "fri",
@@ -40137,7 +40017,7 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
-    "sessionIndex": 2001
+    "sessionIndex": 1998
   },
   {
     "day": "fri",
@@ -40167,6 +40047,126 @@
     "semester": 6,
     "day_pattern": "Tuesday-Saturday",
     "capacity": 70,
+    "sessionIndex": 1999
+  },
+  {
+    "day": "tuesday",
+    "time_slot": "8:00 - 8:50",
+    "slot_index": 2,
+    "course_instance_id": "342",
+    "course_code": "CS23633",
+    "course_name": "Cloud Computing",
+    "session_type": "Lecture",
+    "session_number": 2,
+    "teacher_id": "267",
+    "teacher_name": "M Ayyadurai",
+    "staff_code": "101319",
+    "room_id": "225",
+    "room_number": "ANEW103",
+    "block": "A Block",
+    "student_count": 140,
+    "lecture_hours": 2,
+    "tutorial_hours": 0,
+    "schedule_type": "theory",
+    "is_co_scheduled": false,
+    "capacity_info": "140/165",
+    "partner_instance_id": null,
+    "group_name": "Computer Science & Engineering_S6_G6",
+    "group_index": 6,
+    "department": "Computer Science & Engineering",
+    "semester": 6,
+    "day_pattern": "Tuesday-Saturday",
+    "capacity": 165,
+    "sessionIndex": 2000
+  },
+  {
+    "day": "wed",
+    "time_slot": "9:00 - 9:50",
+    "slot_index": 8,
+    "course_instance_id": "1435",
+    "course_code": "CS23633",
+    "course_name": "Cloud Computing",
+    "session_type": "Lecture",
+    "session_number": 2,
+    "teacher_id": "281",
+    "teacher_name": "P Muneeshwari",
+    "staff_code": "101284",
+    "room_id": "40",
+    "room_number": "B106",
+    "block": "B Block",
+    "student_count": 70,
+    "lecture_hours": 2,
+    "tutorial_hours": 0,
+    "schedule_type": "theory",
+    "is_co_scheduled": false,
+    "capacity_info": "70/70",
+    "partner_instance_id": null,
+    "group_name": "Computer Science & Engineering_S6_G3",
+    "group_index": 3,
+    "department": "Computer Science & Engineering",
+    "semester": 6,
+    "day_pattern": "Tuesday-Saturday",
+    "capacity": 70,
+    "sessionIndex": 2001
+  },
+  {
+    "day": "wed",
+    "time_slot": "9:00 - 9:50",
+    "slot_index": 8,
+    "course_instance_id": "1489",
+    "course_code": "CS23631",
+    "course_name": "Compiler Design",
+    "session_type": "Lecture",
+    "session_number": 2,
+    "teacher_id": "285",
+    "teacher_name": "P Kumar",
+    "staff_code": "103003",
+    "room_id": "2",
+    "room_number": "A103",
+    "block": "A Block",
+    "student_count": 70,
+    "lecture_hours": 3,
+    "tutorial_hours": 0,
+    "schedule_type": "theory",
+    "is_co_scheduled": false,
+    "capacity_info": "70/70",
+    "partner_instance_id": null,
+    "group_name": "Computer Science & Engineering_S6_G3",
+    "group_index": 3,
+    "department": "Computer Science & Engineering",
+    "semester": 6,
+    "day_pattern": "Tuesday-Saturday",
+    "capacity": 70,
     "sessionIndex": 2002
+  },
+  {
+    "day": "saturday",
+    "time_slot": "10:00 - 10:50",
+    "slot_index": 3,
+    "course_instance_id": "1012",
+    "course_code": "AE23433",
+    "course_name": "Aircraft Systems and Instruments",
+    "session_type": "Lecture",
+    "session_number": 1,
+    "teacher_id": "9",
+    "teacher_name": "Pradesh S",
+    "staff_code": "130111",
+    "room_id": "53",
+    "room_number": "B211",
+    "block": "B Block",
+    "student_count": 66,
+    "lecture_hours": 3,
+    "tutorial_hours": 0,
+    "schedule_type": "theory",
+    "is_co_scheduled": false,
+    "capacity_info": "66/70",
+    "partner_instance_id": null,
+    "group_name": "Aeronautical Engineering_S4_G2",
+    "group_index": 2,
+    "department": "Aeronautical Engineering",
+    "semester": 4,
+    "day_pattern": "Tuesday-Saturday",
+    "capacity": 70,
+    "sessionIndex": 2003
   }
 ]
