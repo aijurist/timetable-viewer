@@ -88,8 +88,8 @@ async function loadData() {
     try {
         // Load data from JSON files
         const [labResponse, theoryResponse] = await Promise.all([
-            fetch('/data/lab_schedule.json'),
-            fetch('/data/theory_schedule.json')
+            fetch('/data/lab_schedule_csd.json'),
+            fetch('/data/theory_schedule_csd.json')
         ]);
 
         if (!labResponse.ok || !theoryResponse.ok) {
