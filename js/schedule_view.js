@@ -87,6 +87,22 @@ function getSemesterFromGroupName(groupName) {
     return "";
 }
 
+// Robust semester extraction: check numeric `semester`, string like "S4", or `group_name` patterns
+function getSemesterNumericFromItem(item) {
+    if (!item) return null;
+    const sem = item.semester;
+    if (typeof sem === 'number' && !isNaN(sem)) return sem;
+    if (typeof sem === 'string') {
+        const m = sem.match(/(\d+)/);
+        if (m) return Number(m[1]);
+    }
+    if (item.group_name) {
+        const mg = item.group_name.match(/_S(\d+)_/) || item.group_name.match(/_S(\d+)$/) || item.group_name.match(/S(\d+)/);
+        if (mg) return Number(mg[1]);
+    }
+    return null;
+}
+
 async function loadData() {
     try {
         // Load data from JSON files
@@ -460,12 +476,15 @@ function generateScheduleTable(data) {
         return '<div class="alert alert-info">No sessions found for the selected filters.</div>';
     }
 
-    // Filter out sessions that belong to disabled semesters
-    const filteredBySem = data.filter((item) => !DISABLED_SEMESTERS.includes(Number(item.semester)));
+    // Filter out sessions that belong to disabled semesters (use robust detection)
+    const filteredBySem = data.filter((item) => {
+        const semNum = getSemesterNumericFromItem(item);
+        return semNum === null ? true : !DISABLED_SEMESTERS.includes(semNum);
+    });
     if (filteredBySem.length === 0) {
         // If original data had entries but all are in disabled semesters, show a disabled message
         if (data.length > 0) {
-            const semList = Array.from(new Set(data.map((i) => Number(i.semester)))).filter((s) => DISABLED_SEMESTERS.includes(s));
+            const semList = Array.from(new Set(data.map((i) => getSemesterNumericFromItem(i)).filter((s) => s !== null))).filter((s) => DISABLED_SEMESTERS.includes(s));
             return `
                 <div class="alert alert-warning">
                     <i class="fas fa-ban me-2"></i>
