@@ -31,6 +31,9 @@ const allTimeSlots = Array.from(new Set([
     ...Object.values(labSessions),
 ])).sort();
 
+// Semesters for which timetable display should be disabled
+const DISABLED_SEMESTERS = [4];
+
 let days = ["tuesday", "wed", "thur", "fri", "saturday"];
 
 const dayPatternMappings = {
@@ -457,11 +460,27 @@ function generateScheduleTable(data) {
         return '<div class="alert alert-info">No sessions found for the selected filters.</div>';
     }
 
-    const daysInData = [...new Set(data.map((item) => item.day))];
+    // Filter out sessions that belong to disabled semesters
+    const filteredBySem = data.filter((item) => !DISABLED_SEMESTERS.includes(Number(item.semester)));
+    if (filteredBySem.length === 0) {
+        // If original data had entries but all are in disabled semesters, show a disabled message
+        if (data.length > 0) {
+            const semList = Array.from(new Set(data.map((i) => Number(i.semester)))).filter((s) => DISABLED_SEMESTERS.includes(s));
+            return `
+                <div class="alert alert-warning">
+                    <i class="fas fa-ban me-2"></i>
+                    Timetable display is disabled for Semester${semList.length > 1 ? 's' : ''}: ${semList.join(', ')}.
+                </div>
+            `;
+        }
+        return '<div class="alert alert-info">No sessions found for the selected filters.</div>';
+    }
+
+    const daysInData = [...new Set(filteredBySem.map((item) => item.day))];
     const dayOrder = ["monday", "tuesday", "wed", "thur", "fri", "saturday"];
     const currentDays = dayOrder.filter((day) => daysInData.includes(day));
 
-    const dayPatterns = [...new Set(data.map((item) => item.day_pattern).filter(Boolean))];
+    const dayPatterns = [...new Set(filteredBySem.map((item) => item.day_pattern).filter(Boolean))];
     const scheduleGrid = {};
 
     currentDays.forEach((day) => {
@@ -476,7 +495,7 @@ function generateScheduleTable(data) {
         });
     });
 
-    data.forEach((item) => {
+    filteredBySem.forEach((item) => {
         const day = item.day;
         let timeKey;
 

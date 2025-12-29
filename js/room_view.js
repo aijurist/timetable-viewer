@@ -28,6 +28,9 @@ const allTimeSlots = Array.from(new Set([
     ...Object.values(labSessions),
 ])).sort();
 
+// Semesters for which timetable display should be disabled
+const DISABLED_SEMESTERS = [4];
+
 let roomRecords = [];
 let unassignedSessions = [];
 let dayOrder = ["monday", "tuesday", "wed", "thur", "fri", "saturday"];
@@ -383,7 +386,21 @@ function generateRoomScheduleTable(room) {
         scheduleGrid[day] = {};
     });
 
-    room.sessions.forEach((session) => {
+    const originalSessions = room.sessions || [];
+    const sessions = originalSessions.filter((s) => !DISABLED_SEMESTERS.includes(Number(s.semester)));
+
+    // If all sessions were filtered out due to disabled semesters, show a disabled message
+    if (sessions.length === 0 && originalSessions.length > 0) {
+        const semList = Array.from(new Set(originalSessions.map((s) => Number(s.semester)))).filter((s) => DISABLED_SEMESTERS.includes(s));
+        return `
+            <div class="alert alert-warning mb-0 text-center">
+                <i class="fas fa-ban me-2"></i>
+                Timetable display is disabled for Semester${semList.length > 1 ? 's' : ''}: ${semList.join(', ')}.
+            </div>
+        `;
+    }
+
+    sessions.forEach((session) => {
         const day = session.day || "unscheduled";
         const timeSlot = session.time_label || session.time_range || session.session_name || "Unscheduled";
         usedSlots.add(timeSlot);
