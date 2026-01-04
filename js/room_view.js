@@ -29,7 +29,7 @@ const allTimeSlots = Array.from(new Set([
 ])).sort();
 
 // Semesters for which timetable display should be disabled
-const DISABLED_SEMESTERS = [4];
+const DISABLED_SEMESTERS = [];
 
 let roomRecords = [];
 let unassignedSessions = [];
