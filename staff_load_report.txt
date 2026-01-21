@@ -1,0 +1,13 @@
+Staff Load Analysis Report
+==========================
+Total Staff Processed: 375
+
+Criteria for Heavy Load:
+- Has class in Morning (8-10 AM) AND Evening (3-5 PM) on the SAME day.
+- This occurs on MORE THAN 3 days.
+
+Staff with Heavy Load:
+----------------------
+No staff members found matching the heavy load criteria.
+Summary:
+Found 0 staff members with heavy load out of 375 total staff.
