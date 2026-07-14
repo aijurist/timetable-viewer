@@ -14,7 +14,7 @@ import {
     sessionSectionLabel,
     teacherKey,
     updateBundlePanel,
-} from "./kutty_schedule.mjs?v=20260714c";
+} from "./kutty_schedule.mjs?v=20260714d";
 
 let labData = [];
 let theoryData = [];
@@ -720,7 +720,7 @@ function renderStandardSession(session) {
     const deptClass = getDeptClass(session.department);
     const bundleId = bundleIdentity(session);
     const bundleClass = bundleId ? "bundle-session" : "";
-    const block = session.block ? ` Â· ${session.block}` : "";
+    const block = session.block ? ` \u00B7 ${session.block}` : "";
     const groupDetails = buildSessionHoverDetails(session, session.room_number || "TBD", block);
 
     return `

@@ -129,7 +129,7 @@ export function renderKuttySessionCard(sessions, options = {}) {
     const sectionLabel = sessionSectionLabel(representative);
     const focusTeacher = String(options.focusTeacherKey || "");
     const room = representative.room_number || "TBD";
-    const block = representative.block ? ` · ${representative.block}` : "";
+    const block = representative.block ? ` \u00B7 ${representative.block}` : "";
 
     const halfMarkup = [1, 2].map((halfIndex) => {
         const half = halves.find((entry) => halfOrder(entry) === halfIndex) || halves[halfIndex - 1];
@@ -150,7 +150,7 @@ export function renderKuttySessionCard(sessions, options = {}) {
                 ` : ""}
                 <strong>${escapeHtml(half.course_code_display || half.course_code || "Course")}</strong>
                 <span>${escapeHtml(half.course_name || "-")}</span>
-                <small>${escapeHtml(half.teacher_name || "Staff TBA")} · ${escapeHtml(staffIdentifier)}</small>
+                <small>${escapeHtml(half.teacher_name || "Staff TBA")} \u00B7 ${escapeHtml(staffIdentifier)}</small>
             </div>
         `;
     });
@@ -182,13 +182,13 @@ export function buildSessionHoverDetails(session, room = "TBD", block = "") {
     const lines = [
         sectionLabel ? `Section: ${sectionLabel}` : "",
         groupNumber ? `Group: G${groupNumber}` : "",
-        `Course: ${session?.course_code_display || session?.course_code || "Course"}${session?.course_name ? ` — ${session.course_name}` : ""}`,
+        `Course: ${session?.course_code_display || session?.course_code || "Course"}${session?.course_name ? ` \u2014 ${session.course_name}` : ""}`,
         `Staff: ${session?.teacher_name || "Staff TBA"} (${teacherIdentifier})`,
         `Time: ${session?.half_time || session?.time_slot || session?.time_label || session?.time_range || "Scheduled slot"}`,
         `Room: ${room}${block}`,
         session?.course_instance_id ? `Instance: ${session.course_instance_id}` : "",
         session?.partner_course_code
-            ? `Partner: ${session.partner_course_code} — ${session?.partner_teacher_name || "Staff TBA"}${partnerIdentifier}`
+            ? `Partner: ${session.partner_course_code} \u2014 ${session?.partner_teacher_name || "Staff TBA"}${partnerIdentifier}`
             : "",
         session?.bundle_label ? `Bundle: ${session.bundle_label}` : "",
         bundleIdentity(session) ? `Pair ID: ${bundleIdentity(session)}` : "",
@@ -263,7 +263,7 @@ function ensureBundlePanel() {
                     <strong>Kutty bundles</strong>
                     <small>Hover an instance pair to highlight its timetable sessions.</small>
                 </div>
-                <button type="button" class="bundle-panel-close" aria-label="Close bundle panel">×</button>
+                <button type="button" class="bundle-panel-close" aria-label="Close bundle panel">&times;</button>
             </div>
             <div class="bundle-panel-content" data-bundle-panel-content></div>
         </aside>
