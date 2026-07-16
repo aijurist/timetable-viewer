@@ -60,10 +60,26 @@ def _write_json(frame: pd.DataFrame, path: Path) -> None:
     )
 
 
+def _copy_if_needed(source: Path, destination: Path) -> None:
+    """Copy an export into the viewer unless it is already the canonical file."""
+    if source.resolve() != destination.resolve():
+        shutil.copy2(source, destination)
+
+
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("theory_csv", type=Path)
-    parser.add_argument("lab_csv", type=Path)
+    parser.add_argument(
+        "theory_csv",
+        nargs="?",
+        type=Path,
+        default=Path(__file__).resolve().parents[1] / "data/theory_schedule_second_year.csv",
+    )
+    parser.add_argument(
+        "lab_csv",
+        nargs="?",
+        type=Path,
+        default=Path(__file__).resolve().parents[1] / "data/lab_schedule_second_year.csv",
+    )
     parser.add_argument(
         "--output-dir",
         type=Path,
@@ -82,8 +98,8 @@ def main() -> None:
 
     theory_csv_copy = args.output_dir / "theory_schedule_second_year.csv"
     lab_csv_copy = args.output_dir / "lab_schedule_second_year.csv"
-    shutil.copy2(args.theory_csv, theory_csv_copy)
-    shutil.copy2(args.lab_csv, lab_csv_copy)
+    _copy_if_needed(args.theory_csv, theory_csv_copy)
+    _copy_if_needed(args.lab_csv, lab_csv_copy)
 
     print(f"Theory schedule: {len(theory)} records -> {theory_json}")
     print(f"Lab schedule: {len(lab)} records -> {lab_json}")
