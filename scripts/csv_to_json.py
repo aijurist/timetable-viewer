@@ -72,13 +72,13 @@ def main() -> None:
         "theory_csv",
         nargs="?",
         type=Path,
-        default=Path(__file__).resolve().parents[1] / "data/theory_schedule_second_year.csv",
+        default=Path(__file__).resolve().parents[1] / "data/theory_schedule.csv",
     )
     parser.add_argument(
         "lab_csv",
         nargs="?",
         type=Path,
-        default=Path(__file__).resolve().parents[1] / "data/lab_schedule_second_year.csv",
+        default=Path(__file__).resolve().parents[1] / "data/lab_schedule.csv",
     )
     parser.add_argument(
         "--output-dir",
