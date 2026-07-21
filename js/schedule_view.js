@@ -53,6 +53,54 @@ const dayPatternMappings = {
     "Tuesday-Saturday": ["tuesday", "wed", "thur", "fri", "saturday"]
 };
 
+const dayOrder = ["monday", "tuesday", "wed", "thur", "fri", "saturday"];
+
+// Source data mixes short and long day names (wed/wednesday, fri/friday).
+function normalizeDay(day) {
+    const value = String(day || "").trim().toLowerCase();
+    const aliases = {
+        mon: "monday",
+        monday: "monday",
+        tue: "tuesday",
+        tues: "tuesday",
+        tuesday: "tuesday",
+        wed: "wed",
+        wednesday: "wed",
+        thu: "thur",
+        thur: "thur",
+        thurs: "thur",
+        thursday: "thur",
+        fri: "fri",
+        friday: "fri",
+        sat: "saturday",
+        saturday: "saturday"
+    };
+    return aliases[value] || value;
+}
+
+function withNormalizedDay(entry) {
+    return entry && entry.day ? { ...entry, day: normalizeDay(entry.day) } : entry;
+}
+
+function formatDayLabel(day) {
+    const labels = {
+        monday: "Monday",
+        tuesday: "Tuesday",
+        wed: "Wednesday",
+        thur: "Thursday",
+        fri: "Friday",
+        saturday: "Saturday"
+    };
+    return labels[normalizeDay(day)] || day;
+}
+
+function getDisplayDays(rows) {
+    const pattern = rows.map((item) => dayPatternMappings[item.day_pattern]).find(Boolean);
+    if (pattern) return pattern;
+    const normalizedDays = new Set(rows.map((item) => normalizeDay(item.day)).filter(Boolean));
+    return dayOrder.filter((day) => normalizedDays.has(day));
+}
+
 const groupColors = {
     1: "group-g1",
     2: "group-g2",
@@ -104,8 +152,8 @@ async function loadData() {
             labResponse.json(),
             theoryResponse.json(),
         ]);
-        labData = Array.isArray(labEntries) ? labEntries : [];
-        theoryData = Array.isArray(theoryEntries) ? theoryEntries : [];
+        labData = (Array.isArray(labEntries) ? labEntries : []).map(withNormalizedDay);
+        theoryData = (Array.isArray(theoryEntries) ? theoryEntries : []).map(withNormalizedDay);
         allData = [...labData, ...theoryData];
 
         initializeFilters();
@@ -224,9 +272,8 @@ function updateSectionOptions() {
 }
 
 function updateDaysFromData() {
-    const allDaysInData = [...new Set(allData.map((item) => item.day))];
-    const dayOrder = ["monday", "tuesday", "wed", "thur", "fri", "saturday"];
-    days = dayOrder.filter((day) => allDaysInData.includes(day));
+    const allDaysInData = new Set(allData.map((item) => normalizeDay(item.day)));
+    days = dayOrder.filter((day) => allDaysInData.has(day));
 }
 
 function updateSummaryStats() {
@@ -265,7 +312,7 @@ function getFilteredData() {
         filtered = filtered.filter((item) => String(item.semester) === semester);
     }
     if (day) {
-        filtered = filtered.filter((item) => item.day === day);
+        filtered = filtered.filter((item) => normalizeDay(item.day) === normalizeDay(day));
     }
     if (sessionType) {
         filtered = filtered.filter((item) => item.schedule_type === sessionType);
@@ -528,7 +575,7 @@ function renderDayView(data) {
     let html = "";
 
     days.forEach((day) => {
-        const dayData = data.filter((item) => item.day === day);
+        const dayData = data.filter((item) => normalizeDay(item.day) === normalizeDay(day));
         if (dayData.length === 0) return;
 
         const labCount = dayData.filter((item) => item.schedule_type === "lab").length;
@@ -540,7 +587,7 @@ function renderDayView(data) {
             <div class="card mb-4">
                 <div class="day-header">
                     <i class="fas fa-calendar-day me-2"></i>
-                    ${day.charAt(0).toUpperCase() + day.slice(1)}
+                    ${formatDayLabel(day)}
                     <div class="mt-2">
                         <span class="badge bg-info me-2">${labCount} Labs</span>
                         <span class="badge bg-success">${theoryCount} Theory</span>
@@ -561,9 +608,7 @@ function generateScheduleTable(data, options = {}) {
         return '<div class="alert alert-info">No sessions found for the selected filters.</div>';
     }
 
-    const daysInData = [...new Set(data.map((item) => item.day))];
-    const dayOrder = ["monday", "tuesday", "wed", "thur", "fri", "saturday"];
-    const currentDays = dayOrder.filter((day) => daysInData.includes(day));
+    const currentDays = getDisplayDays(data);
 
     const dayPatterns = [...new Set(data.map((item) => item.day_pattern).filter(Boolean))];
     const scheduleGrid = {};
@@ -581,7 +626,7 @@ function generateScheduleTable(data, options = {}) {
     });
 
     data.forEach((item) => {
-        const day = item.day;
+        const day = normalizeDay(item.day);
         let timeKey;
 
         if (item.schedule_type === "lab") {
@@ -612,7 +657,7 @@ function generateScheduleTable(data, options = {}) {
                 ${dayPatterns.join(', ')}
                 <span class="ms-3">
                     <i class="fas fa-calendar-day me-1"></i>
-                    <strong>Days:</strong> ${currentDays.map((d) => d.charAt(0).toUpperCase() + d.slice(1)).join(', ')}
+                    <strong>Days:</strong> ${currentDays.map(formatDayLabel).join(', ')}
                 </span>
             </div>
         `;
@@ -627,7 +672,7 @@ function generateScheduleTable(data, options = {}) {
     `;
 
     currentDays.forEach((day) => {
-        html += `<th>${day.charAt(0).toUpperCase() + day.slice(1)}</th>`;
+        html += `<th>${formatDayLabel(day)}</th>`;
     });
 
     html += `

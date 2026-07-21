@@ -56,11 +56,34 @@ function timeSortKey(label) {
 
 
 function dayIndex(day) {
-  const idx = DAY_ORDER.indexOf(day);
+  const idx = DAY_ORDER.indexOf(normalizeDay(day));
   return idx === -1 ? DAY_ORDER.length : idx;
 }
 
 const DAY_ORDER = ["monday", "tuesday", "wed", "thur", "fri", "saturday"];
+
+// Source data mixes short and long day names (wed/wednesday, fri/friday).
+function normalizeDay(day) {
+  const value = String(day || "").trim().toLowerCase();
+  const aliases = {
+    mon: "monday",
+    monday: "monday",
+    tue: "tuesday",
+    tues: "tuesday",
+    tuesday: "tuesday",
+    wed: "wed",
+    wednesday: "wed",
+    thu: "thur",
+    thur: "thur",
+    thurs: "thur",
+    thursday: "thur",
+    fri: "fri",
+    friday: "fri",
+    sat: "saturday",
+    saturday: "saturday"
+  };
+  return aliases[value] || value;
+}
 
 
 const groupColors = {
@@ -105,7 +128,7 @@ function buildRoomPayload({ lab_entries, theory_entries }) {
       }
 
       const normalized_session = {
-        day: entry.day,
+        day: normalizeDay(entry.day),
         time_label: timeLabel(entry),
         course_code: entry.course_code,
         course_name: entry.course_name,
@@ -131,7 +154,7 @@ function buildRoomPayload({ lab_entries, theory_entries }) {
 
   const room_list = Object.values(rooms).map(room => {
     const sessions = room.sessions;
-    const day_count = new Set(sessions.map(s => s.day).filter(Boolean)).size;
+    const day_count = new Set(sessions.map(s => normalizeDay(s.day)).filter(Boolean)).size;
 
     const utilization = Math.min(
       (sessions.length / Math.max(day_count, 1)) * 10,
@@ -218,7 +241,7 @@ async function loadRoomData() {
 
         roomRecords = room.rooms || [];
         unassignedSessions = room.unassigned || [];
-        dayOrder = room.day_order || dayOrder;
+        dayOrder = (room.day_order || dayOrder).map(normalizeDay);
 
         initializeFilters();
         updateStats();
@@ -401,7 +424,7 @@ function generateRoomScheduleTable(room) {
     }
 
     sessions.forEach((session) => {
-        const day = session.day || "unscheduled";
+        const day = normalizeDay(session.day) || "unscheduled";
         const timeSlot = session.time_label || session.time_range || session.session_name || "Unscheduled";
         usedSlots.add(timeSlot);
         if (!scheduleGrid[day]) {
@@ -493,7 +516,7 @@ function generateRoomScheduleTable(room) {
 
 function renderUnassignedSection() {
     const grouped = unassignedSessions.reduce((acc, session) => {
-        const key = session.day || "unscheduled";
+        const key = normalizeDay(session.day) || "unscheduled";
         acc[key] = acc[key] || [];
         acc[key].push(session);
         return acc;
@@ -560,7 +583,8 @@ function parseTimeSlot(slot) {
 
 function formatDay(day) {
     if (!day) return "Unscheduled";
-    const normalized = day === "wed" ? "wednesday" : day === "thur" ? "thursday" : day;
+    const key = normalizeDay(day);
+    const normalized = key === "wed" ? "wednesday" : key === "thur" ? "thursday" : key;
     return normalized.charAt(0).toUpperCase() + normalized.slice(1);
 }
 

@@ -10,6 +10,30 @@ const DAY_LABELS = {
     saturday: 'Saturday',
 };
 
+// Source data mixes short and long day names (wed/wednesday, fri/friday).
+const DAY_ALIASES = {
+    mon: 'monday',
+    monday: 'monday',
+    tue: 'tuesday',
+    tues: 'tuesday',
+    tuesday: 'tuesday',
+    wed: 'wed',
+    wednesday: 'wed',
+    thu: 'thur',
+    thur: 'thur',
+    thurs: 'thur',
+    thursday: 'thur',
+    fri: 'fri',
+    friday: 'fri',
+    sat: 'saturday',
+    saturday: 'saturday',
+};
+
+function normalizeDay(day) {
+    const value = String(day || '').trim().toLowerCase();
+    return DAY_ALIASES[value] || value;
+}
+
 const state = {
     sessions: [],
     rooms: [],
@@ -89,7 +113,7 @@ function normalizeSessions(payload) {
 
 function normalizeEntry(entry, fallbackType) {
     const scheduleType = (entry.schedule_type || fallbackType || 'theory').toLowerCase();
-    const day = (entry.day || '').toLowerCase();
+    const day = normalizeDay(entry.day);
     const dayIndex = DAY_ORDER.indexOf(day);
     const timeLabel = entry.time_slot || entry.time_range || entry.session_name || 'Unscheduled';
     const { hour, minute } = parseTimeLabel(timeLabel);
@@ -470,7 +494,7 @@ function updateHighlights() {
 
 function formatLabel(label) {
     if (!label) return '—';
-    if (DAY_LABELS[label.toLowerCase()]) return DAY_LABELS[label.toLowerCase()];
+    if (DAY_LABELS[normalizeDay(label)]) return DAY_LABELS[normalizeDay(label)];
     return label.toString();
 }
 
